@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-10-14 15:48:28 by Eclipse SUMO netedit Version 1.18.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumocfg-file value="/home/u/ME5401_Project/test05/ottoman.sumocfg"/>
+        <route-files value="/home/u/ME5401_Project/test05/test05_car.rou.xml"/>
+        <sumo-net-file value="/home/u/ME5401_Project/test05/test05_path.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/home/u/ME5401_Project/test05/test05_path.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="0"/>
+    </processing>
+
+    <junctions>
+        <no-internal-links value="true"/>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="0"/>
+        <junctions.limit-turn-speed value="-1.00"/>
+        <rectangular-lane-cut value="0"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="0"/>
+    </pedestrian>
+
+</configuration>
+-->
+
+<net version="1.16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="-10.00,5.00,1000.00,5.00" origBoundary="-10000000000.00,-10000000000.00,10000000000.00,10000000000.00" projParameter="!"/>
+
+    <edge id="highway" from="startNode" to="endNode" priority="1">
+        <lane id="highway_0" index="0" speed="10.00" length="1010.00" shape="-10.00,-6.20 1000.00,-6.20"/>
+        <lane id="highway_1" index="1" speed="10.00" length="1010.00" shape="-10.00,-3.00 1000.00,-3.00"/>
+        <lane id="highway_2" index="2" speed="10.00" length="1010.00" shape="-10.00,0.20 1000.00,0.20"/>
+        <lane id="highway_3" index="3" speed="10.00" length="1010.00" shape="-10.00,3.40 1000.00,3.40"/>
+    </edge>
+
+    <junction id="endNode" type="dead_end" x="1000.00" y="5.00" incLanes="highway_0 highway_1 highway_2 highway_3" intLanes="" shape="1000.00,-7.80 1000.00,5.00"/>
+    <junction id="startNode" type="dead_end" x="0.00" y="5.00" incLanes="" intLanes="" shape="0.00,5.00 0.00,-7.80"/>
+
+</net>
