@@ -56,7 +56,7 @@ class SumoGym(gym.Env):
 
         # SUMO configuration
         self.show_gui = True
-        self.sumo_config = "/home/nusme/ME5418/env/ottoman.sumocfg"
+        self.sumo_config = "/home/nusme/ME5418/ME5418/sumo_env/ottoman.sumocfg"
 
     def subscribe_context(self, vehicleID, radius):
         """

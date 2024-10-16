@@ -13,6 +13,11 @@ if "SUMO_HOME" in os.environ:
 else:
    sys.exit("please declare environment variable 'SUMO_HOME'")
 
+"""
+This demo showcases the behavior of the ego car as it accelerates to its maximum speed. At step 7, 
+the ego car performs a right lane change, and at step 50, it executes a left lane change.
+"""
+
 if __name__ == '__main__':
     env = SumoGym()
     env.reset()
@@ -20,12 +25,9 @@ if __name__ == '__main__':
     reward = 0
     for step in range(100):
         if step ==7:
-            result1 = env.step(1)
-            print(f"{result1}")
+            env.step(1)
         if step == 50:
-            result3 = env.step(0)
-            print(f"{result3}")
+            env.step(0)
         else:
             time.sleep(0.25)
-            result2 = env.step(3)
-            print(f"{result2}")
+            env.step(3)
