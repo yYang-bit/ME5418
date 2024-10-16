@@ -16,5 +16,8 @@
     <traci_server>
         <remote-port value="52915"/>
     </traci_server>
+    <processing>
+    <lanechange.duration value="3"/>
+</processing>
 
 </configuration>

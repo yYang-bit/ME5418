@@ -37,7 +37,7 @@ class SumoGym(gym.Env):
         self.egoID = "car_0"
 
         # Simulation parameters
-        self.lane_change_duration = 50
+        self.lane_change_duration = 5
         self.maximum_speed = 4.5
         self.minimum_speed = 0
         self.acceleration = 2.5
