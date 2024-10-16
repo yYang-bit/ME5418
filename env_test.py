@@ -15,7 +15,7 @@ else:
 
 """
 This demo showcases the behavior of the ego car as it accelerates to its maximum speed. At step 6, 
-the ego car performs a right lane change, and at step 50, it executes a left lane change.
+the ego car performs a right lane change.At strp 25, turn right and at step 50, it executes a left lane change.
 """
 
 if __name__ == '__main__':
@@ -26,7 +26,9 @@ if __name__ == '__main__':
     for step in range(100):
         if step ==6:
             env.step(1)
-        if step == 50:
+        if step == 25:
+            env.step(1)
+        if step == 40:
             env.step(0)
         else:
             time.sleep(0.25)
