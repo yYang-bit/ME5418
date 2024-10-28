@@ -7,7 +7,7 @@
 
 ## File Descriptions
 
-### 1. `model.py`
+### 1. `A2C_model.py`
 This file implements the Actor-Critic model, including shared layers, actor network, and critic network. The model's forward method returns action probabilities and state values.
 
 ### 2. `DQN_model.py`
@@ -16,7 +16,7 @@ This file implements the DQN model and its agent class. The DQN agent is respons
 ### 3. `env.py`
 This file implements the logic of the SUMO environment, including the definition of state and action spaces, vehicle state retrieval, environment reset, and stepping functionalities. The agent learns by interacting with the environment.
 
-### 4. `A2CAgent.py`
+### 4. `A2C_Agent.py`
 This file implements the logic for the A2C agent, including action selection and model training functionalities. The agent selects actions based on the current state and updates its policy through interaction with the environment.
 
 ### 5. `model_test.py`
