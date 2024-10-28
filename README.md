@@ -1,8 +1,8 @@
 ## File Structure
-- `model.py`: Defines the structure of the Actor-Critic model.
+- `A2C_model.py`: Defines the structure of the Actor-Critic model.
 - `DQN_model.py`: Defines the DQN model and its agent class.
 - `env.py`: Implements the SUMO environment, including state observation, action execution, and environment reset functionalities.
-- `A2CAgent.py`: Defines the training and decision-making logic for the A2C agent.
+- `A2C_Agent.py`: Defines the training and decision-making logic for the A2C agent.
 - `model_test.py`: Tests the model and agent's performance in the SUMO environment.
 
 ## File Descriptions
