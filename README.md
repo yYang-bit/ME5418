@@ -50,7 +50,7 @@ export SUMO_HOME=/path/to/your/sumo
 And change the adress in env.py
 
 ```bash
-self.sumo_config = "/path/to/your/sumo/config/ottoman.sumocfg"\
+self.sumo_config = "/path/to/your/sumo/config/ottoman.sumocfg"
 ```
 
 ### 4. Create ROS workspace
