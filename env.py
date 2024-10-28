@@ -146,16 +146,18 @@ class SumoGym(gym.Env):
 
         # Construct the observation
         # Observation: (ego_position, ego_lane_id, ego_velocity, left_lane_availability, right_lane_availability, can_change_lane)
-        observation = (
+        observation = [
             ego_state[0],          # Ego position
             ego_lane_id,           
             ego_state[2],          # Ego speed
             left_availability,     
             right_availability,    
             can_change_lane        
-        )
-
+        ]
+        #observation = np.array(observation).reshape(1,6)
+        #print(f"obser:{observation}")
         return observation
+        
 
     def simulate_collision(self):
         """
@@ -176,7 +178,7 @@ class SumoGym(gym.Env):
         self.step_count += 1
         invalid = False
         reward = 0
-        done = self.done
+        done = bool(self.done)
         info = {
             "step_count": self.step_count
         }
@@ -267,7 +269,7 @@ class SumoGym(gym.Env):
 
         # Get the new observation after the simulation step
         new_observation = self.get_observation()
-
+        time.sleep(0.5)
         return new_observation, reward, done, info
 
     def reset(self):
