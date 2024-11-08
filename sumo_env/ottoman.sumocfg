@@ -12,12 +12,15 @@
     <processing>
         <step-method.ballistic value="false"/>
         <default.speeddev value="0"/>
+        <collision.action value="none"/>
+        <lanechange.duration value="1.5"/>
     </processing>
     <traci_server>
         <remote-port value="52915"/>
     </traci_server>
-    <processing>
+    <!-- <processing>
     <lanechange.duration value="3"/>
-</processing>
+
+</processing> -->
 
 </configuration>

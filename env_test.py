@@ -19,17 +19,15 @@ the ego car performs a right lane change.At strp 25, turn right and at step 50, 
 """
 
 if __name__ == '__main__':
-    env = SumoGym()
-    env.reset()
+    env = SumoGym(show_gui=True)
+    #env.reset()
     done = False
     reward = 0
+    state = env.reset()
     for step in range(100):
-        if step ==6:
-            env.step(1)
-        if step == 25:
-            env.step(1)
-        if step == 40:
-            env.step(0)
+        if step == 5:
+                
+                env.step(1)
+                #next_state,reward,done = env.step(2)
         else:
-            time.sleep(0.25)
-            env.step(3)
+            env.step(2)

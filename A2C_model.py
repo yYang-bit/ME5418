@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 
 class ActorCritic(nn.Module):
-    def __init__(self, state_size=6, action_size=5):
+    def __init__(self, state_size=5, action_size=5):
         super(ActorCritic, self).__init__()
         
         # Shared layer for feature extraction

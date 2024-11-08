@@ -5,34 +5,36 @@
 
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
     <!-- VTypes -->
-    <vType id="regular" length="5.00" minGap="2.50" maxSpeed="3.00" color="green" accel="0.5" decel="0.5" sigma="0.5"/>
-    <vType id="target" length="5.00" minGap="2.50" maxSpeed="10.00" color="blue" />
+    <vType id="regular" length="3.00" minGap="2.50" maxSpeed="3.00" color="green" accel="0.5" decel="0.5" sigma="0.5"/>
+    <vType id="target" length="3.00" minGap="2.50" maxSpeed="10.00" color="blue" />
     <!-- Routes -->
     <route id="route1" edges="highway"/>
     <!-- Vehicles, persons and containers (sorted by depart) -->
-    <vehicle id="car_1" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_10" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_11" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_12" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_13" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_14" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_15" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_16" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_17" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_18" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_19" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_2" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_20" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_21" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_22" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_23" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_24" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_3" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_4" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_5" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_6" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_7" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_8" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_9" type="regular" depart="0.00" departLane="random" departPos="random" route="route1"/>
-    <vehicle id="car_0" type="target" depart="0.00" departLane="3" departPos="0.00" route="route1"/>
+    <vehicle id="car_0" type="target" depart="0.00" departLane="2" departPos="2.00" route="route1"/>
+    <vehicle id="car_1" type="regular" depart="0.00" departLane="2" departPos="10" route="route1"/>
+    <vehicle id="car_2" type="regular" depart="0.00" departLane="0" departPos="10" route="route1"/>
+    <vehicle id="car_3" type="regular" depart="0.00" departLane="1" departPos="30" route="route1"/>
+    <vehicle id="car_4" type="regular" depart="0.00" departLane="3" departPos="40" route="route1"/>
+    <!-- <vehicle id="car_5" type="regular" depart="0.00" departLane="3" departPos="50" route="route1"/> -->
+    <vehicle id="car_6" type="regular" depart="0.00" departLane="2" departPos="45" route="route1"/>
+    <vehicle id="car_7" type="regular" depart="0.00" departLane="3" departPos="60" route="route1"/>
+    <!-- <vehicle id="car_8" type="regular" depart="0.00" departLane="3" departPos="80" route="route1"/> -->
+    <vehicle id="car_9" type="regular" depart="0.00" departLane="0" departPos="70" route="route1"/>
+    <vehicle id="car_10" type="regular" depart="0.00" departLane="2" departPos="85" route="route1"/>
+    <vehicle id="car_11" type="regular" depart="0.00" departLane="3" departPos="100" route="route1"/>
+    <vehicle id="car_12" type="regular" depart="0.00" departLane="1" departPos="110.52" route="route1"/>
+    <vehicle id="car_13" type="regular" depart="0.00" departLane="2" departPos="140" route="route1"/>
+    <vehicle id="car_14" type="regular" depart="0.00" departLane="1" departPos="130" route="route1"/>
+    <vehicle id="car_15" type="regular" depart="0.00" departLane="0" departPos="160" route="route1"/>
+    <vehicle id="car_16" type="regular" depart="0.00" departLane="3" departPos="180" route="route1"/>
+    <vehicle id="car_17" type="regular" depart="0.00" departLane="0" departPos="210" route="route1"/>
+    <vehicle id="car_18" type="regular" depart="0.00" departLane="0" departPos="190" route="route1"/>
+    <vehicle id="car_19" type="regular" depart="0.00" departLane="3" departPos="180" route="route1"/>
+    <vehicle id="car_20" type="regular" depart="0.00" departLane="1" departPos="259.20" route="route1"/>
+    <vehicle id="car_21" type="regular" depart="0.00" departLane="0" departPos="272.16" route="route1"/>
+    <vehicle id="car_22" type="regular" depart="0.00" departLane="2" departPos="285.12" route="route1"/>
+    <vehicle id="car_23" type="regular" depart="0.00" departLane="3" departPos="298.08" route="route1"/>
+    <vehicle id="car_24" type="regular" depart="0.00" departLane="3" departPos="311.04" route="route1"/>
+    <vehicle id="car_25" type="regular" depart="0.00" departLane="0" departPos="324.00" route="route1"/>
+    <vehicle id="car_26" type="regular" depart="0.00" departLane="1" departPos="336.96" route="route1"/>
 </routes>

@@ -40,13 +40,13 @@
     <location netOffset="0.00,0.00" convBoundary="-10.00,5.00,1000.00,5.00" origBoundary="-10000000000.00,-10000000000.00,10000000000.00,10000000000.00" projParameter="!"/>
 
     <edge id="highway" from="startNode" to="endNode" priority="1">
-        <lane id="highway_0" index="0" speed="10.00" length="1010.00" shape="-10.00,-6.20 1000.00,-6.20"/>
-        <lane id="highway_1" index="1" speed="10.00" length="1010.00" shape="-10.00,-3.00 1000.00,-3.00"/>
-        <lane id="highway_2" index="2" speed="10.00" length="1010.00" shape="-10.00,0.20 1000.00,0.20"/>
-        <lane id="highway_3" index="3" speed="10.00" length="1010.00" shape="-10.00,3.40 1000.00,3.40"/>
+        <lane id="highway_0" index="0" speed="10.00" length="450.00" shape="-10.00,-6.20 1000.00,-6.20"/>
+        <lane id="highway_1" index="1" speed="10.00" length="450.00" shape="-10.00,-3.00 1000.00,-3.00"/>
+        <lane id="highway_2" index="2" speed="10.00" length="450.00" shape="-10.00,0.20 1000.00,0.20"/>
+        <lane id="highway_3" index="3" speed="10.00" length="450.00" shape="-10.00,3.40 1000.00,3.40"/>
     </edge>
 
-    <junction id="endNode" type="dead_end" x="1000.00" y="5.00" incLanes="highway_0 highway_1 highway_2 highway_3" intLanes="" shape="1000.00,-7.80 1000.00,5.00"/>
-    <junction id="startNode" type="dead_end" x="0.00" y="5.00" incLanes="" intLanes="" shape="0.00,5.00 0.00,-7.80"/>
+    <junction id="endNode" type="dead_end" x="450.00" y="5.00" incLanes="highway_0 highway_1 highway_2 highway_3" intLanes="" shape="1000.00,-7.80 1000.00,5.00"/>
+    <junction id="startNode" type="dead_end" x="-5.00" y="5.00" incLanes="" intLanes="" shape="0.00,5.00 0.00,-7.80"/>
 
 </net>

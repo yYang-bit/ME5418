@@ -6,7 +6,7 @@ import numpy as np
 
 
 class A2CAgent:
-    def __init__(self, lr=0.001, gamma = 0.99, epsilon = 0.1):
+    def __init__(self, epsilon, lr=0.001, gamma = 0.99):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model = ActorCritic().to(self.device)
         self.optimizer = optim.Adam(self.model.parameters(), lr=lr)
@@ -24,7 +24,7 @@ class A2CAgent:
             dist = Categorical(probs)
             
             action = dist.sample().item()
-            return action 
+        return action 
         
 
 
@@ -45,7 +45,7 @@ class A2CAgent:
         #print(f"action:{actions}")
         dist = Categorical(probs)
         log_probs = dist.log_prob(actions)
-        actor_loss = -(log_probs * advantages)
+        actor_loss = -(log_probs * advantages).mean()
         critic_loss = advantages.pow(2).mean()
         loss = actor_loss + 0.5 * critic_loss
 
