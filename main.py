@@ -7,10 +7,10 @@ import matplotlib.pyplot as plt
 
 
 if __name__=='__main__':
-    env = SumoGym(show_gui=False)
+    env = SumoGym(show_gui=True)
     model = ActorCritic()
     #model = DQN()
-    agent = A2CAgent(epsilon=0.1)
+    agent = A2CAgent(epsilon=0.0)
     #agent = DQN()
         #Observation: (ego_position, ego_lane_id, ego_velocity, left_lane_availability, right_lane_availability, can_change_lane)
         #state = torch.randn(batch_size, 6, dtype = torch.float32)
@@ -21,9 +21,10 @@ if __name__=='__main__':
     episode_reward = []
     states, actions, rewards, next_states, dones = [], [], [], [], []
 
-    model_path = './models/A2C_1000.pth' 
+    model_path = './models/A2C_1500.pth' 
     agent.model.load_state_dict(torch.load(model_path, weights_only=True))
-    agent.model.train()  
+    #agent.model.train()  
+    agent.model.eval() 
 
     for episode in range(max_episodes+1):
         episode += 1

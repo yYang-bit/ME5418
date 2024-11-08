@@ -44,7 +44,7 @@ class SumoGym(gym.Env):
         self.deceleration = 1
         self.step_count = 0
         self.done = False
-        self.radius = 6 #10
+        self.radius = 8 #10
 
         # Define observation space: (position, lane_id, velocity, left_availability, right_availability, can_change_lane)
         # low = np.array([-inf, 0, 0, 0, 0, 0], dtype=np.float32)
