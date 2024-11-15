@@ -6,7 +6,7 @@ episodes = []
 rewards = []
 
 # 从文件中读取数据
-with open('episode_reward_4.txt', 'r') as f:
+with open('episode_reward_8.txt', 'r') as f:
     for line in f:
         # 提取奖励
         reward_part = line.split('reward is')[-1].split(' ')[1].strip()  # 获取奖励值
@@ -27,5 +27,5 @@ plt.xlabel('Episode')
 plt.ylabel('Total Reward')
 plt.grid()
 plt.legend()
-plt.savefig('total_reward_plot.png')  # 保存图表为 PNG 文件
+# plt.savefig('total_reward_plot_6.png')  # 保存图表为 PNG 文件
 plt.show()

@@ -6,12 +6,13 @@ import numpy as np
 
 
 class A2CAgent:
-    def __init__(self, epsilon, lr=0.001, gamma = 0.99):
+    def __init__(self, epsilon, lr=0.001, gamma = 0.99, epsilon_decay = 0.999):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model = ActorCritic().to(self.device)
         self.optimizer = optim.Adam(self.model.parameters(), lr=lr)
         self.gamma = gamma
         self.epsilon = epsilon
+        self.epsilon_decay = epsilon_decay
 
     def act(self, states):
         states = torch.FloatTensor(states).to(self.device)
@@ -31,6 +32,7 @@ class A2CAgent:
     def train (self, states, actions, rewards, next_states, dones):
         #states = np.array(states)
         #next_states = np.array(next_states)
+        
         states = torch.FloatTensor(states).to(self.device)
         actions = torch.LongTensor(actions).to(self.device)
         rewards = torch.FloatTensor(rewards).to(self.device)
@@ -52,3 +54,7 @@ class A2CAgent:
         self.optimizer.zero_grad()
         loss.backward()
         self.optimizer.step()
+
+        #update epsilon
+        self.epsilon *= self.epsilon_decay
+        self.epsilon = max(self.epsilon, 0.01)

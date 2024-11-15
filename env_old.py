@@ -147,12 +147,11 @@ class SumoGym(gym.Env):
                     can_change_lane = 1     # Same lane, should consider lane change
 
         # Construct the observation
-        # Observation: (ego_position, ego_lane_id, ego_velocity, left_lane_availability, right_lane_availability, can_change_lane)  
+        # Observation: (ego_position, ego_lane_id, ego_velocity, left_lane_availability, right_lane_availability, can_change_lane)
         observation = [
             # ego_state[0],          # Ego position
-            
-            (ego_lane_id+1)/4,           
-            ego_state[2]/self.maximum_speed,          # Ego speed
+            ego_lane_id,           
+            ego_state[2],          # Ego speed
             left_availability,     
             right_availability,    
             can_change_lane        
@@ -198,8 +197,8 @@ class SumoGym(gym.Env):
         # left_availability = observation[3]
         # right_availability = observation[4]       
         # can_change_lane = observation[5]
-        current_lane = observation[0]*4 - 1                 
-        current_speed = observation[1]*self.maximum_speed 
+        current_lane = observation[0]
+        current_speed = observation[1]
         left_availability = observation[2]
         right_availability = observation[3]       
         can_change_lane = observation[4]
@@ -223,7 +222,7 @@ class SumoGym(gym.Env):
             elif can_change_lane:
                 # Necessary lane change to the right
                 traci.vehicle.changeLane(self.egoID, current_lane + 1, self.lane_change_duration)
-                reward = 100
+                reward = 50
             else:
                 # Unnecessary lane change to the right
                 traci.vehicle.changeLane(self.egoID, current_lane + 1, self.lane_change_duration)
@@ -242,7 +241,7 @@ class SumoGym(gym.Env):
             elif can_change_lane:
                 # Necessary lane change to the left
                 traci.vehicle.changeLane(self.egoID, current_lane - 1, self.lane_change_duration)
-                reward = 100
+                reward = 50
             else:
                 # Unnecessary lane change to the left
                 traci.vehicle.changeLane(self.egoID, current_lane - 1, self.lane_change_duration)
@@ -258,7 +257,7 @@ class SumoGym(gym.Env):
                 reward = -50
                 return observation, reward, done
             if current_speed == self.maximum_speed:
-                reward = 5
+                reward = 2
             else:
                 reward = -5
 
@@ -272,14 +271,14 @@ class SumoGym(gym.Env):
                 reward = -50
                 return observation, reward, done
             if current_speed == self.maximum_speed:
-                reward = -5
+                reward = -2
             else:
                 # Increase speed within maximum speed limit
                 new_speed = min(current_speed + self.acceleration, self.maximum_speed)
                 #speed_diff = self.maximum_speed - new_speed
                 traci.vehicle.setSpeed(self.egoID, new_speed)
                 #reward = speed_diff * 5
-                reward = 2
+                reward = 5
 
         # Action 4: Decelerate
         elif action == 4:
