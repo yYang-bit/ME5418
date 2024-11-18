@@ -6,20 +6,30 @@
 - `model_test.py`: Tests the model and agent's performance in the SUMO environment.
 
 ## File Descriptions
+bash
+.
+├── sumo_env/
+│ ├── ottoman.sumocfg # SUMO configuration file
+│ ├── test05_path.net.xml # Road network definition
+│ ├── test05_car.rou.xml # Vehicle route definition
+│ └── test05_car.rou_1.xml # Alternative vehicle route definition
+├── A2C_Agent.py # A2C agent implementation
+├── A2C_model.py # A2C network model
+├── env.py # Environment wrapper
+└── Analysis.py # Data analysis and visualizationash
+
 
 ### 1. `A2C_model.py`
 This file implements the Actor-Critic model, including shared layers, actor network, and critic network. The model's forward method returns action probabilities and state values.
 
-### 2. `DQN_model.py`
-This file implements the DQN model and its agent class. The DQN agent is responsible for memory, action selection, training the Q network, and updating the epsilon value to balance exploration and exploitation.
 
-### 3. `env.py`
+### 2. `env.py`
 This file implements the logic of the SUMO environment, including the definition of state and action spaces, vehicle state retrieval, environment reset, and stepping functionalities. The agent learns by interacting with the environment.
 
-### 4. `A2C_Agent.py`
+### 3. `A2C_Agent.py`
 This file implements the logic for the A2C agent, including action selection and model training functionalities. The agent selects actions based on the current state and updates its policy through interaction with the environment.
 
-### 5. `model_test.py`
+### 4. `main.py`
 This file is used to test the trained model and agent's performance in the SUMO environment. It initializes the environment and agent, running multiple steps to observe the agent's decision-making process.
 
 ## Usage Instructions
@@ -77,5 +87,5 @@ catkin_make
 ### 7. Run the Project
 
 ```bash
-python model_test.py
+python main.py
 ```

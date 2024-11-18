@@ -72,10 +72,10 @@ if __name__=='__main__':
         episode_reward.append(total_reward)
         env.close()
                 
-        if episode % 500 == 0:
-            save_dir = './models'
-            save_path = os.path.join(save_dir, f"new_A2C_{episode}.pth")
-            torch.save(agent.model.state_dict(), save_path)
+        # if episode % 500 == 0:
+        #     save_dir = './models'
+        #     save_path = os.path.join(save_dir, f"new_A2C_{episode}.pth")
+        #     torch.save(agent.model.state_dict(), save_path)
 
         # with open('episode_reward_8.txt','a') as f:
         #     f.write(f"total steps are {step}, reward is {total_reward} in epsidode {episode} \n")

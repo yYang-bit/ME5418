@@ -1,2003 +1,1600 @@
-reward is -76.77214812985622 in epsidode 0 
-reward is -133.71664212248288 in epsidode 1 
-reward is -133.5 in epsidode 2 
-reward is -67.0 in epsidode 3 
-reward is -50.354329779185356 in epsidode 4 
-reward is -96.53525418145583 in epsidode 5 
-reward is -50 in epsidode 6 
-reward is -153.0 in epsidode 7 
-reward is -50 in epsidode 8 
-reward is -33.783616932621506 in epsidode 9 
-reward is -104.54990113354287 in epsidode 10 
-reward is -20.45454872939736 in epsidode 11 
-reward is -43.0 in epsidode 12 
-reward is -31.772148129856213 in epsidode 13 
-reward is -46.6247528338572 in epsidode 14 
-reward is -12.571441530575974 in epsidode 15 
-reward is 409.0 in epsidode 16 
-reward is 67.0 in epsidode 17 
-reward is 122.42855846942402 in epsidode 18 
-reward is -49.0 in epsidode 19 
-reward is 187.78257612090073 in epsidode 20 
-reward is -50 in epsidode 21 
-reward is 117.1141060922526 in epsidode 22 
-reward is 70.49868165221969 in epsidode 23 
-reward is 1036.5114093588452 in epsidode 24 
-reward is 476.06426030872376 in epsidode 25 
-reward is 322.14019560283043 in epsidode 26 
-reward is -25.0 in epsidode 27 
-reward is -49.0 in epsidode 28 
-reward is -49.0 in epsidode 29 
-reward is 1004.1462685672564 in epsidode 30 
-reward is 72.53448020350169 in epsidode 31 
-reward is 617.6637080375334 in epsidode 32 
-reward is -43.47504943322856 in epsidode 33 
-reward is 162.5344802035017 in epsidode 34 
-reward is 1064.1022551896049 in epsidode 35 
-reward is 255.69307575107064 in epsidode 36 
-reward is 798.3703651346032 in epsidode 37 
-reward is 28.975365698896155 in epsidode 38 
-reward is -10.45454872939736 in epsidode 39 
-reward is 34.66874236008134 in epsidode 40 
-reward is 727.0414037660695 in epsidode 41 
-reward is 2.4756528585216913 in epsidode 42 
-reward is -37.571441530575974 in epsidode 43 
-reward is 167.32611326849997 in epsidode 44 
-reward is 481.93744905662015 in epsidode 45 
-reward is 183.11834837410112 in epsidode 46 
-reward is 493.22355523516876 in epsidode 47 
-reward is 110.43826655033024 in epsidode 48 
-reward is 209.6610519375534 in epsidode 49 
-reward is 693.3984448135363 in epsidode 50 
-reward is -37.571441530575974 in epsidode 51 
-reward is 373.7504801479166 in epsidode 52 
-reward is 63.9261369642569 in epsidode 53 
-reward is 152.4061672553651 in epsidode 54 
-reward is 560.7138629733117 in epsidode 55 
-reward is 69.60231582783143 in epsidode 56 
-reward is 621.8648972242603 in epsidode 57 
-reward is 831.7191116717613 in epsidode 58 
-reward is 1254.5637785044196 in epsidode 59 
-reward is 16.064260308723703 in epsidode 60 
-reward is 59.668742360081325 in epsidode 61 
-reward is 1036.0177964783757 in epsidode 62 
-reward is -7.524347141478309 in epsidode 63 
-reward is 16.064260308723703 in epsidode 64 
-reward is 754.5454512706026 in epsidode 65 
-reward is 49.90857796454783 in epsidode 66 
-reward is 10.71386297331177 in epsidode 67 
-reward is 194.66874236008135 in epsidode 68 
-reward is 746.3099279284913 in epsidode 69 
-reward is 807.3261132685 in epsidode 70 
-reward is -49.0 in epsidode 71 
-reward is 760.1224003330337 in epsidode 72 
-reward is 726.0642603087238 in epsidode 73 
-reward is 44.66874236008134 in epsidode 74 
-reward is 639.9792139749507 in epsidode 75 
-reward is 124.39982649723513 in epsidode 76 
-reward is 893.4435873719395 in epsidode 77 
-reward is 913.2981539386183 in epsidode 78 
-reward is 69.60231582783143 in epsidode 79 
-reward is 97.12483097054044 in epsidode 80 
-reward is 77.78257612090073 in epsidode 81 
-reward is 927.4756528585217 in epsidode 82 
-reward is 925.7138629733117 in epsidode 83 
-reward is 1136.4358059574483 in epsidode 84 
-reward is 124.39982649723513 in epsidode 85 
-reward is 113.38514715665929 in epsidode 86 
-reward is 1044.0148377337491 in epsidode 87 
-reward is 1073.5203867447767 in epsidode 88 
-reward is 1028.9724883008848 in epsidode 89 
-reward is 43.2235552351687 in epsidode 90 
-reward is 89.90857796454782 in epsidode 91 
-reward is 92.42855846942402 in epsidode 92 
-reward is 1002.4697363623418 in epsidode 93 
-reward is 990.2704232017045 in epsidode 94 
-reward is -37.571441530575974 in epsidode 95 
-reward is 808.9151554853654 in epsidode 96 
-reward is 28.975365698896155 in epsidode 97 
-reward is 43.2235552351687 in epsidode 98 
-reward is 2.215802283165786 in epsidode 99 
-reward is 48.975365698896155 in epsidode 100 
-reward is 108.39844481353629 in epsidode 101 
-reward is 788.9753656988962 in epsidode 102 
-reward is -50 in epsidode 103 
-reward is 587.3261132685 in epsidode 104 
-reward is 71.29758487432248 in epsidode 105 
-reward is 62.4756528585217 in epsidode 106 
-reward is 189.90857796454782 in epsidode 107 
-reward is 32.42855846942402 in epsidode 108 
-reward is 34.66874236008134 in epsidode 109 
-reward is 338.3851471566593 in epsidode 110 
-reward is 1090.3380299585272 in epsidode 111 
-reward is 62.53448020350169 in epsidode 112 
-reward is 343.55328885538023 in epsidode 113 
-reward is 254.4979055104543 in epsidode 114 
-reward is 639.772494612727 in epsidode 115 
-reward is -45.04990113354288 in epsidode 116 
-reward is 206.1605164632898 in epsidode 117 
-reward is -49.0 in epsidode 118 
-reward is 809.0 in epsidode 119 
-reward is 718.4271256288281 in epsidode 120 
-reward is 2.4756528585216913 in epsidode 121 
-reward is 612.0844266304512 in epsidode 122 
-reward is 830.0 in epsidode 123 
-reward is -50 in epsidode 124 
-reward is 350.71386297331173 in epsidode 125 
-reward is -25.861631598696114 in epsidode 126 
-reward is -49.0 in epsidode 127 
-reward is 1292.999131518926 in epsidode 128 
-reward is 130.20508765771498 in epsidode 129 
-reward is 94.1383684013039 in epsidode 130 
-reward is 34.13836840130389 in epsidode 131 
-reward is 10.71386297331177 in epsidode 132 
-reward is 90.5108338620046 in epsidode 133 
-reward is 1092.6776917372347 in epsidode 134 
-reward is 640.7138629733117 in epsidode 135 
-reward is 921.0642603087238 in epsidode 136 
-reward is 144.06405379136538 in epsidode 137 
-reward is 909.3234981521529 in epsidode 138 
-reward is 1336.822295760803 in epsidode 139 
-reward is 2.4756528585216913 in epsidode 140 
-reward is -5.861631598696114 in epsidode 141 
-reward is -50 in epsidode 142 
-reward is 205.91266012596878 in epsidode 143 
-reward is 23.398444813536287 in epsidode 144 
-reward is 270.0 in epsidode 145 
-reward is 94.87085043939277 in epsidode 146 
-reward is 442.2480488683095 in epsidode 147 
-reward is -10.45454872939736 in epsidode 148 
-reward is 476.906734475726 in epsidode 149 
-reward is 49.90857796454783 in epsidode 150 
-reward is 247.12483097054042 in epsidode 151 
-reward is 410.87264956985587 in epsidode 152 
-reward is 457.0803631584507 in epsidode 153 
-reward is 969.9329137969033 in epsidode 154 
-reward is 110.43826655033024 in epsidode 155 
-reward is 26.807658047415032 in epsidode 156 
-reward is 10.71386297331177 in epsidode 157 
-reward is 28.975365698896155 in epsidode 158 
-reward is 970.5115227491594 in epsidode 159 
-reward is -37.571441530575974 in epsidode 160 
-reward is 224.60231582783143 in epsidode 161 
-reward is 234.91664827368203 in epsidode 162 
-reward is 914.811014226661 in epsidode 163 
-reward is 34.66874236008134 in epsidode 164 
-reward is 16.064260308723703 in epsidode 165 
-reward is 2.4756528585216913 in epsidode 166 
-reward is 401.8422617102972 in epsidode 167 
-reward is 77.78257612090073 in epsidode 168 
-reward is 431.9591065803774 in epsidode 169 
-reward is 883.7408955953781 in epsidode 170 
-reward is 1024.7190027607808 in epsidode 171 
-reward is 43.2235552351687 in epsidode 172 
-reward is 456.8676175774074 in epsidode 173 
-reward is 350.71386297331173 in epsidode 174 
-reward is 2.4756528585216913 in epsidode 175 
-reward is 757.7741478312525 in epsidode 176 
-reward is 1123.065293414818 in epsidode 177 
-reward is 28.975365698896155 in epsidode 178 
-reward is 479.8417040003462 in epsidode 179 
-reward is 767.1880395999176 in epsidode 180 
-reward is -49.0 in epsidode 181 
-reward is 23.398444813536287 in epsidode 182 
-reward is 831.0642603087238 in epsidode 183 
-reward is 90.5108338620046 in epsidode 184 
-reward is 914.7783989955669 in epsidode 185 
-reward is 885.9126601259688 in epsidode 186 
-reward is 905.7138629733117 in epsidode 187 
-reward is 202.4756528585217 in epsidode 188 
-reward is 10.71386297331177 in epsidode 189 
-reward is 226.14095216954576 in epsidode 190 
-reward is 84.66874236008135 in epsidode 191 
-reward is -50 in epsidode 192 
-reward is 953.0640049424021 in epsidode 193 
-reward is 54.38549262816068 in epsidode 194 
-reward is -50 in epsidode 195 
-reward is 785.4611156306432 in epsidode 196 
-reward is 273.66879290644994 in epsidode 197 
-reward is 49.90857796454783 in epsidode 198 
-reward is 207.54645932931436 in epsidode 199 
-reward is 64.66874236008134 in epsidode 200 
-reward is 184.1383684013039 in epsidode 201 
-reward is 272.7010349507908 in epsidode 202 
-reward is 753.0856346216052 in epsidode 203 
-reward is 690.2656239662783 in epsidode 204 
-reward is -50 in epsidode 205 
-reward is 722.8207185812294 in epsidode 206 
-reward is 43.2235552351687 in epsidode 207 
-reward is 320.205087657715 in epsidode 208 
-reward is 93.01602607411331 in epsidode 209 
-reward is 595.8101504966585 in epsidode 210 
-reward is 177.76871517358794 in epsidode 211 
-reward is 983.5463584793264 in epsidode 212 
-reward is 130.20508765771498 in epsidode 213 
-reward is -37.571441530575974 in epsidode 214 
-reward is 389.8417040003462 in epsidode 215 
-reward is -50 in epsidode 216 
-reward is 241.63599195437257 in epsidode 217 
-reward is 304.5485614457164 in epsidode 218 
-reward is 195.69307575107067 in epsidode 219 
-reward is -45.04990113354288 in epsidode 220 
-reward is 84.26034020264615 in epsidode 221 
-reward is 176.16051646328978 in epsidode 222 
-reward is -37.0 in epsidode 223 
-reward is 105.83493222743257 in epsidode 224 
-reward is 69.54545127060264 in epsidode 225 
-reward is -45.04990113354288 in epsidode 226 
-reward is -25.861631598696114 in epsidode 227 
-reward is 1118.5581521473587 in epsidode 228 
-reward is 351.82681892397795 in epsidode 229 
-reward is 414.60231582783143 in epsidode 230 
-reward is 96.16051646328978 in epsidode 231 
-reward is 69.60231582783143 in epsidode 232 
-reward is 23.398444813536287 in epsidode 233 
-reward is 458.17265056960736 in epsidode 234 
-reward is 56.16051646328978 in epsidode 235 
-reward is 84.26034020264615 in epsidode 236 
-reward is 154.26034020264615 in epsidode 237 
-reward is -50 in epsidode 238 
-reward is 488.4817228521217 in epsidode 239 
-reward is 34.66874236008134 in epsidode 240 
-reward is 277.32611326849997 in epsidode 241 
-reward is 10.71386297331177 in epsidode 242 
-reward is 100.90369811039398 in epsidode 243 
-reward is 954.5454512706026 in epsidode 244 
-reward is -50 in epsidode 245 
-reward is -49.0 in epsidode 246 
-reward is 77.78257612090073 in epsidode 247 
-reward is 84.26034020264615 in epsidode 248 
-reward is 433.2840331817016 in epsidode 249 
-reward is 1083.764604002703 in epsidode 250 
-reward is 1059.9894220068118 in epsidode 251 
-reward is 2.4756528585216913 in epsidode 252 
-reward is 740.3392619133392 in epsidode 253 
-reward is 697.1263290768718 in epsidode 254 
-reward is 922.7825761209008 in epsidode 255 
-reward is 671.1527987560954 in epsidode 256 
-reward is 16.064260308723703 in epsidode 257 
-reward is 879.6687423600813 in epsidode 258 
-reward is 2.4756528585216913 in epsidode 259 
-reward is 34.66874236008134 in epsidode 260 
-reward is 144.06405379136538 in epsidode 261 
-reward is 431.07342636643426 in epsidode 262 
-reward is 223.3984448135363 in epsidode 263 
-reward is 28.975365698896155 in epsidode 264 
-reward is 1210.930186901684 in epsidode 265 
-reward is -7.0 in epsidode 266 
-reward is 793.5532888553803 in epsidode 267 
-reward is 254.66874236008135 in epsidode 268 
-reward is 194.1383684013039 in epsidode 269 
-reward is 669.6023158278315 in epsidode 270 
-reward is -35.861631598696114 in epsidode 271 
-reward is 239.54545127060265 in epsidode 272 
-reward is 1262.3591989012898 in epsidode 273 
-reward is -27.571441530575974 in epsidode 274 
-reward is 236.1458178614264 in epsidode 275 
-reward is 599.4280467992153 in epsidode 276 
-reward is 116.16051646328978 in epsidode 277 
-reward is 897.267526102867 in epsidode 278 
-reward is 791.0 in epsidode 279 
-reward is 154.39982649723513 in epsidode 280 
-reward is 56.16051646328978 in epsidode 281 
-reward is 72.07584036488551 in epsidode 282 
-reward is 56.16051646328978 in epsidode 283 
-reward is 711.1605164632898 in epsidode 284 
-reward is 321.9591065803774 in epsidode 285 
-reward is 262.8661829079965 in epsidode 286 
-reward is 92.42855846942402 in epsidode 287 
-reward is 739.0339308962923 in epsidode 288 
-reward is 164.1170063029507 in epsidode 289 
-reward is 42.4756528585217 in epsidode 290 
-reward is 62.53448020350169 in epsidode 291 
-reward is 922.0 in epsidode 292 
-reward is 54.66874236008134 in epsidode 293 
-reward is 213.49977223123403 in epsidode 294 
-reward is 10.71386297331177 in epsidode 295 
-reward is 43.2235552351687 in epsidode 296 
-reward is 16.064260308723703 in epsidode 297 
-reward is 890.8851000568129 in epsidode 298 
-reward is 314.4679078006417 in epsidode 299 
-reward is 876.0116625645663 in epsidode 300 
-reward is -5.830191066861339 in epsidode 301 
-reward is 84.26034020264615 in epsidode 302 
-reward is 223.49977223123403 in epsidode 303 
-reward is 838.2278518701438 in epsidode 304 
-reward is 63.058341907639814 in epsidode 305 
-reward is 93.39844481353629 in epsidode 306 
-reward is 335.60309042236753 in epsidode 307 
-reward is -5.574851700314319 in epsidode 308 
-reward is 946.1605164632898 in epsidode 309 
-reward is 1171.505528088448 in epsidode 310 
-reward is 839.6845406131106 in epsidode 311 
-reward is 345.69307575107064 in epsidode 312 
-reward is 704.678606152904 in epsidode 313 
-reward is 467.4756528585217 in epsidode 314 
-reward is 1048.2324461903859 in epsidode 315 
-reward is 739.2330269406315 in epsidode 316 
-reward is 323.2165966277707 in epsidode 317 
-reward is -25.861631598696114 in epsidode 318 
-reward is 219.69500292646683 in epsidode 319 
-reward is 23.398444813536287 in epsidode 320 
-reward is 186.14581786142642 in epsidode 321 
-reward is 178.97536569889616 in epsidode 322 
-reward is 435.60309042236753 in epsidode 323 
-reward is 23.398444813536287 in epsidode 324 
-reward is -1.0 in epsidode 325 
-reward is -45.04990113354288 in epsidode 326 
-reward is 28.975365698896155 in epsidode 327 
-reward is 1081.7135364728047 in epsidode 328 
-reward is 16.064260308723703 in epsidode 329 
-reward is -49.0 in epsidode 330 
-reward is 33.39844481353629 in epsidode 331 
-reward is 1136.3942971085428 in epsidode 332 
-reward is 157.42855846942402 in epsidode 333 
-reward is -37.571441530575974 in epsidode 334 
-reward is 416.41439579622806 in epsidode 335 
-reward is -37.571441530575974 in epsidode 336 
-reward is 905.027916560485 in epsidode 337 
-reward is 343.55328885538023 in epsidode 338 
-reward is 62.42855846942402 in epsidode 339 
-reward is -49.0 in epsidode 340 
-reward is 1059.7504724297874 in epsidode 341 
-reward is 631.1605164632898 in epsidode 342 
-reward is 116.16051646328978 in epsidode 343 
-reward is 487.39369390020136 in epsidode 344 
-reward is 822.1927332523145 in epsidode 345 
-reward is -37.571441530575974 in epsidode 346 
-reward is 542.6367906324612 in epsidode 347 
-reward is 644.6687423600813 in epsidode 348 
-reward is -25.861631598696114 in epsidode 349 
-reward is 837.253853350598 in epsidode 350 
-reward is 903.8074849391354 in epsidode 351 
-reward is -45.04990113354288 in epsidode 352 
-reward is 70.71386297331176 in epsidode 353 
-reward is -10.45454872939736 in epsidode 354 
-reward is 712.428558469424 in epsidode 355 
-reward is 43.2235552351687 in epsidode 356 
-reward is 160.71386297331176 in epsidode 357 
-reward is 782.5243826181365 in epsidode 358 
-reward is 964.0881264898458 in epsidode 359 
-reward is 755.0185166596899 in epsidode 360 
-reward is 118.38514715665929 in epsidode 361 
-reward is 118.38514715665929 in epsidode 362 
-reward is 689.6023158278315 in epsidode 363 
-reward is 253.49977223123403 in epsidode 364 
-reward is 370.22554376551415 in epsidode 365 
-reward is -49.0 in epsidode 366 
-reward is -20.45454872939736 in epsidode 367 
-reward is 203.3984448135363 in epsidode 368 
-reward is 239.46401576667546 in epsidode 369 
-reward is 130.09130097723082 in epsidode 370 
-reward is 1016.5527550126394 in epsidode 371 
-reward is 1004.3113600043362 in epsidode 372 
-reward is 186.14581786142642 in epsidode 373 
-reward is 851.1458178614264 in epsidode 374 
-reward is 28.975365698896155 in epsidode 375 
-reward is -37.571441530575974 in epsidode 376 
-reward is 153.2235552351687 in epsidode 377 
-reward is 747.4756528585217 in epsidode 378 
-reward is -37.571441530575974 in epsidode 379 
-reward is 43.2235552351687 in epsidode 380 
-reward is 1566.4710667398156 in epsidode 381 
-reward is 242.5344802035017 in epsidode 382 
-reward is 827.7687151735879 in epsidode 383 
-reward is 110.43826655033024 in epsidode 384 
-reward is 118.38514715665929 in epsidode 385 
-reward is 105.45342980059777 in epsidode 386 
-reward is 457.34875243545963 in epsidode 387 
-reward is 959.9798451897686 in epsidode 388 
-reward is 28.975365698896155 in epsidode 389 
-reward is 184.26034020264615 in epsidode 390 
-reward is 499.35216825241196 in epsidode 391 
-reward is 732.3396036013747 in epsidode 392 
-reward is 1058.7015113772652 in epsidode 393 
-reward is 987.1685477562014 in epsidode 394 
-reward is -49.0 in epsidode 395 
-reward is 34.66874236008134 in epsidode 396 
-reward is -37.571441530575974 in epsidode 397 
-reward is 437.50814121393626 in epsidode 398 
-reward is 62.53448020350169 in epsidode 399 
-reward is 109.60231582783143 in epsidode 400 
-reward is 84.26034020264615 in epsidode 401 
-reward is 310.205087657715 in epsidode 402 
-reward is 583.499772231234 in epsidode 403 
-reward is 28.975365698896155 in epsidode 404 
-reward is -49.0 in epsidode 405 
-reward is 1142.0949331190668 in epsidode 406 
-reward is 910.7138629733117 in epsidode 407 
-reward is 322.8661829079965 in epsidode 408 
-reward is 90.71386297331176 in epsidode 409 
-reward is 337.7687151735879 in epsidode 410 
-reward is 565.1676964215234 in epsidode 411 
-reward is 110.43826655033024 in epsidode 412 
-reward is 56.16051646328978 in epsidode 413 
-reward is 1033.1308608277504 in epsidode 414 
-reward is -49.0 in epsidode 415 
-reward is 795.467540685713 in epsidode 416 
-reward is 308.3851471566593 in epsidode 417 
-reward is 114.1383684013039 in epsidode 418 
-reward is 913.2235552351688 in epsidode 419 
-reward is 899.9085779645478 in epsidode 420 
-reward is -35.861631598696114 in epsidode 421 
-reward is -37.571441530575974 in epsidode 422 
-reward is 169.18629405898952 in epsidode 423 
-reward is -25.861631598696114 in epsidode 424 
-reward is 301.27738027437573 in epsidode 425 
-reward is 1052.4971798741228 in epsidode 426 
-reward is 766.3279161402953 in epsidode 427 
-reward is -25.861631598696114 in epsidode 428 
-reward is 95.0 in epsidode 429 
-reward is -25.861631598696114 in epsidode 430 
-reward is 46.02593923134265 in epsidode 431 
-reward is -50 in epsidode 432 
-reward is 547.0659814705575 in epsidode 433 
-reward is -50 in epsidode 434 
-reward is 1114.6089169139505 in epsidode 435 
-reward is 10.71386297331177 in epsidode 436 
-reward is 258.2235552351687 in epsidode 437 
-reward is 1204.8567004919262 in epsidode 438 
-reward is 867.2214323317733 in epsidode 439 
-reward is 728.4647458185442 in epsidode 440 
-reward is -49.0 in epsidode 441 
-reward is -25.861631598696114 in epsidode 442 
-reward is 532.5238035327957 in epsidode 443 
-reward is 152.32611326849997 in epsidode 444 
-reward is 1117.0071726397146 in epsidode 445 
-reward is 859.3100560924241 in epsidode 446 
-reward is -50 in epsidode 447 
-reward is 511.28863490056233 in epsidode 448 
-reward is 788.0 in epsidode 449 
-reward is 194.1383684013039 in epsidode 450 
-reward is 257.32611326849997 in epsidode 451 
-reward is 97.12483097054044 in epsidode 452 
-reward is 299.54545127060265 in epsidode 453 
-reward is -45.04990113354288 in epsidode 454 
-reward is -50 in epsidode 455 
-reward is 107.42855846942402 in epsidode 456 
-reward is 775.6937374554544 in epsidode 457 
-reward is -25.861631598696114 in epsidode 458 
-reward is 974.5556136199012 in epsidode 459 
-reward is 438.19504733162915 in epsidode 460 
-reward is -50 in epsidode 461 
-reward is 28.975365698896155 in epsidode 462 
-reward is -45.04990113354288 in epsidode 463 
-reward is 137.4756528585217 in epsidode 464 
-reward is 94.66874236008135 in epsidode 465 
-reward is 165.91266012596878 in epsidode 466 
-reward is -45.04990113354288 in epsidode 467 
-reward is 1149.07927506128 in epsidode 468 
-reward is 532.9213969094676 in epsidode 469 
-reward is -50 in epsidode 470 
-reward is 198.97536569889616 in epsidode 471 
-reward is 499.7188388077541 in epsidode 472 
-reward is 152.4061672553651 in epsidode 473 
-reward is 908.0294668974352 in epsidode 474 
-reward is 77.78257612090073 in epsidode 475 
-reward is 2.4756528585216913 in epsidode 476 
-reward is 100.99779652128905 in epsidode 477 
-reward is 16.064260308723703 in epsidode 478 
-reward is 48.926136964256884 in epsidode 479 
-reward is 77.78257612090073 in epsidode 480 
-reward is 501.4094861724151 in epsidode 481 
-reward is 10.71386297331177 in epsidode 482 
-reward is 165.91266012596878 in epsidode 483 
-reward is 77.78257612090073 in epsidode 484 
-reward is 56.16051646328978 in epsidode 485 
-reward is 336.0642603087237 in epsidode 486 
-reward is -49.0 in epsidode 487 
-reward is 10.71386297331177 in epsidode 488 
-reward is 9.54545127060264 in epsidode 489 
-reward is 540.4381980374427 in epsidode 490 
-reward is 232.7010349507908 in epsidode 491 
-reward is 466.2564355561508 in epsidode 492 
-reward is 56.16051646328978 in epsidode 493 
-reward is 429.1524106885072 in epsidode 494 
-reward is 28.975365698896155 in epsidode 495 
-reward is 494.6456702208146 in epsidode 496 
-reward is 56.0642603087237 in epsidode 497 
-reward is 439.54545127060265 in epsidode 498 
-reward is 22.4756528585217 in epsidode 499 
-reward is 842.1248309705404 in epsidode 500 
-reward is 964.6321319044566 in epsidode 501 
-reward is 281.8422617102972 in epsidode 502 
-reward is 912.5344802035017 in epsidode 503 
-reward is 867.7184600199573 in epsidode 504 
-reward is 124.39982649723513 in epsidode 505 
-reward is 43.2235552351687 in epsidode 506 
-reward is 43.2235552351687 in epsidode 507 
-reward is 392.42855846942405 in epsidode 508 
-reward is 59.0 in epsidode 509 
-reward is 1079.8056166097026 in epsidode 510 
-reward is 802.3046744655583 in epsidode 511 
-reward is 93.04166028923339 in epsidode 512 
-reward is 10.71386297331177 in epsidode 513 
-reward is 249.35661058002137 in epsidode 514 
-reward is 196.0642603087237 in epsidode 515 
-reward is -50 in epsidode 516 
-reward is 1084.1631760615592 in epsidode 517 
-reward is 90.5108338620046 in epsidode 518 
-reward is 26.064260308723703 in epsidode 519 
-reward is 300.71386297331173 in epsidode 520 
-reward is 123.49977223123403 in epsidode 521 
-reward is 586.9434411913387 in epsidode 522 
-reward is 210.0 in epsidode 523 
-reward is 124.39982649723513 in epsidode 524 
-reward is 296.1458178614264 in epsidode 525 
-reward is 62.53448020350169 in epsidode 526 
-reward is 770.7138629733117 in epsidode 527 
-reward is 233.3984448135363 in epsidode 528 
-reward is 59.0 in epsidode 529 
-reward is 874.9085779645478 in epsidode 530 
-reward is -50 in epsidode 531 
-reward is -45.04990113354288 in epsidode 532 
-reward is 549.5454512706026 in epsidode 533 
-reward is 43.2235552351687 in epsidode 534 
-reward is 43.2235552351687 in epsidode 535 
-reward is 899.6687423600813 in epsidode 536 
-reward is 869.6023158278315 in epsidode 537 
-reward is 34.66874236008134 in epsidode 538 
-reward is 43.2235552351687 in epsidode 539 
-reward is 113.49766324723583 in epsidode 540 
-reward is 240.205087657715 in epsidode 541 
-reward is 56.16051646328978 in epsidode 542 
-reward is -50 in epsidode 543 
-reward is 862.6424126246942 in epsidode 544 
-reward is 868.499772231234 in epsidode 545 
-reward is 509.6023158278315 in epsidode 546 
-reward is 1088.8592768230578 in epsidode 547 
-reward is 157.3862855153622 in epsidode 548 
-reward is -50 in epsidode 549 
-reward is 1073.679814596867 in epsidode 550 
-reward is 157.3862855153622 in epsidode 551 
-reward is 192.86618290799652 in epsidode 552 
-reward is 580.3832751360252 in epsidode 553 
-reward is 214.26034020264615 in epsidode 554 
-reward is 809.7265324300854 in epsidode 555 
-reward is 567.4221141635205 in epsidode 556 
-reward is 165.91266012596878 in epsidode 557 
-reward is -49.0 in epsidode 558 
-reward is 1851.757696202791 in epsidode 559 
-reward is 1115.859343221082 in epsidode 560 
-reward is -50 in epsidode 561 
-reward is 2.4756528585216913 in epsidode 562 
-reward is 488.14395312902025 in epsidode 563 
-reward is 84.26034020264615 in epsidode 564 
-reward is 948.2794735933188 in epsidode 565 
-reward is 98.97536569889616 in epsidode 566 
-reward is 484.51989946681704 in epsidode 567 
-reward is 877.2643162408843 in epsidode 568 
-reward is 124.39982649723513 in epsidode 569 
-reward is 891.7217522012065 in epsidode 570 
-reward is 1207.450943203571 in epsidode 571 
-reward is 34.66874236008134 in epsidode 572 
-reward is -25.861631598696114 in epsidode 573 
-reward is 1022.6532183705099 in epsidode 574 
-reward is 908.8939693788064 in epsidode 575 
-reward is 34.66874236008134 in epsidode 576 
-reward is 531.4192738434832 in epsidode 577 
-reward is -49.0 in epsidode 578 
-reward is -50 in epsidode 579 
-reward is 212.42855846942405 in epsidode 580 
-reward is -10.45454872939736 in epsidode 581 
-reward is 26.064260308723703 in epsidode 582 
-reward is 893.336294552571 in epsidode 583 
-reward is 1023.8752068643894 in epsidode 584 
-reward is 961.672349079605 in epsidode 585 
-reward is 463.48890025722767 in epsidode 586 
-reward is -10.45454872939736 in epsidode 587 
-reward is -10.45454872939736 in epsidode 588 
-reward is -37.571441530575974 in epsidode 589 
-reward is -10.45454872939736 in epsidode 590 
-reward is 473.39844481353634 in epsidode 591 
-reward is 1001.642465983238 in epsidode 592 
-reward is 450.5197337042278 in epsidode 593 
-reward is 810.615406520244 in epsidode 594 
-reward is 829.9922673684893 in epsidode 595 
-reward is 43.2235552351687 in epsidode 596 
-reward is 62.53448020350169 in epsidode 597 
-reward is 852.7010349507908 in epsidode 598 
-reward is 862.8661829079965 in epsidode 599 
-reward is 914.5454512706026 in epsidode 600 
-reward is 144.06405379136538 in epsidode 601 
-reward is 894.1383684013039 in epsidode 602 
-reward is 2.4756528585216913 in epsidode 603 
-reward is 2.4756528585216913 in epsidode 604 
-reward is 759.5593907041296 in epsidode 605 
-reward is 23.398444813536287 in epsidode 606 
-reward is 887.7133292857089 in epsidode 607 
-reward is -37.571441530575974 in epsidode 608 
-reward is 56.16051646328978 in epsidode 609 
-reward is 2.4756528585216913 in epsidode 610 
-reward is 617.4685812709126 in epsidode 611 
-reward is 734.1296366620784 in epsidode 612 
-reward is 659.6687423600813 in epsidode 613 
-reward is 899.6687423600813 in epsidode 614 
-reward is 103.2235552351687 in epsidode 615 
-reward is 239.46401576667546 in epsidode 616 
-reward is 360.58685302755316 in epsidode 617 
-reward is 110.43826655033024 in epsidode 618 
-reward is 1158.8967287972548 in epsidode 619 
-reward is 887.428558469424 in epsidode 620 
-reward is 1010.1147508465319 in epsidode 621 
-reward is 596.0 in epsidode 622 
-reward is 791.9591065803775 in epsidode 623 
-reward is 53.975365698896155 in epsidode 624 
-reward is -49.0 in epsidode 625 
-reward is 350.1584341432432 in epsidode 626 
-reward is 847.898686999222 in epsidode 627 
-reward is 69.60231582783143 in epsidode 628 
-reward is 593.1373355044516 in epsidode 629 
-reward is 154.54545127060265 in epsidode 630 
-reward is 942.428558469424 in epsidode 631 
-reward is 460.7913475099764 in epsidode 632 
-reward is 840.6391168458852 in epsidode 633 
-reward is 220.16769642152337 in epsidode 634 
-reward is 768.0012475152965 in epsidode 635 
-reward is 28.975365698896155 in epsidode 636 
-reward is 16.064260308723703 in epsidode 637 
-reward is 857.3261132685 in epsidode 638 
-reward is 153.3984448135363 in epsidode 639 
-reward is 837.0565010557184 in epsidode 640 
-reward is 103.49977223123403 in epsidode 641 
-reward is 595.0 in epsidode 642 
-reward is 295.84797497349774 in epsidode 643 
-reward is 385.2419956208205 in epsidode 644 
-reward is -50 in epsidode 645 
-reward is 113.49977223123403 in epsidode 646 
-reward is -37.571441530575974 in epsidode 647 
-reward is 898.3984448135363 in epsidode 648 
-reward is -50 in epsidode 649 
-reward is 10.71386297331177 in epsidode 650 
-reward is 301.8890999209134 in epsidode 651 
-reward is 16.064260308723703 in epsidode 652 
-reward is 103.49977223123403 in epsidode 653 
-reward is 1279.4948289890285 in epsidode 654 
-reward is 564.5164595929176 in epsidode 655 
-reward is -10.45454872939736 in epsidode 656 
-reward is 189.17564263197127 in epsidode 657 
-reward is 846.3792018244275 in epsidode 658 
-reward is 24.138368401303893 in epsidode 659 
-reward is -10.45454872939736 in epsidode 660 
-reward is 157.3862855153622 in epsidode 661 
-reward is 45.81030504605714 in epsidode 662 
-reward is 1009.9663349760228 in epsidode 663 
-reward is 92.42855846942402 in epsidode 664 
-reward is 495.1220445737242 in epsidode 665 
-reward is 16.064260308723703 in epsidode 666 
-reward is 798.3732913838697 in epsidode 667 
-reward is 390.26460850862776 in epsidode 668 
-reward is 220.16769642152337 in epsidode 669 
-reward is 654.80978311903 in epsidode 670 
-reward is -37.571441530575974 in epsidode 671 
-reward is 382.0269685389007 in epsidode 672 
-reward is 743.0 in epsidode 673 
-reward is 120.43826655033024 in epsidode 674 
-reward is 177.76871517358794 in epsidode 675 
-reward is 246.1605164632898 in epsidode 676 
-reward is 559.1383684013039 in epsidode 677 
-reward is 499.9353970130205 in epsidode 678 
-reward is 23.398444813536287 in epsidode 679 
-reward is 953.8244921426744 in epsidode 680 
-reward is -37.571441530575974 in epsidode 681 
-reward is 209.90857796454782 in epsidode 682 
-reward is 543.1972292656515 in epsidode 683 
-reward is -10.45454872939736 in epsidode 684 
-reward is 929.5567274525957 in epsidode 685 
-reward is 23.398444813536287 in epsidode 686 
-reward is 43.2235552351687 in epsidode 687 
-reward is 10.71386297331177 in epsidode 688 
-reward is 1138.619975388861 in epsidode 689 
-reward is -10.45454872939736 in epsidode 690 
-reward is 23.398444813536287 in epsidode 691 
-reward is 891.1967841924844 in epsidode 692 
-reward is 110.5269278959139 in epsidode 693 
-reward is 187.4756528585217 in epsidode 694 
-reward is -49.0 in epsidode 695 
-reward is -25.861631598696114 in epsidode 696 
-reward is 1043.3113072508013 in epsidode 697 
-reward is 319.74838593741856 in epsidode 698 
-reward is 590.354915789547 in epsidode 699 
-reward is 62.42855846942402 in epsidode 700 
-reward is 390.45342980059775 in epsidode 701 
-reward is 119.60231582783143 in epsidode 702 
-reward is 816.4310802871123 in epsidode 703 
-reward is 839.6687423600813 in epsidode 704 
-reward is 124.39982649723513 in epsidode 705 
-reward is 895.8472017349179 in epsidode 706 
-reward is 946.0642603087238 in epsidode 707 
-reward is 16.064260308723703 in epsidode 708 
-reward is 936.4257553662173 in epsidode 709 
-reward is 56.16051646328978 in epsidode 710 
-reward is 1189.2839369357448 in epsidode 711 
-reward is 978.4437680218002 in epsidode 712 
-reward is 34.66874236008134 in epsidode 713 
-reward is 118.38514715665929 in epsidode 714 
-reward is 447.7687151735879 in epsidode 715 
-reward is 979.6508507552554 in epsidode 716 
-reward is -19.0 in epsidode 717 
-reward is -16.6247528338572 in epsidode 718 
-reward is 517.9976615597725 in epsidode 719 
-reward is -25.861631598696114 in epsidode 720 
-reward is 912.1499593670692 in epsidode 721 
-reward is 122.42855846942402 in epsidode 722 
-reward is 730.0151855664996 in epsidode 723 
-reward is 379.6838812542206 in epsidode 724 
-reward is 173.2235552351687 in epsidode 725 
-reward is 56.16051646328978 in epsidode 726 
-reward is -10.45454872939736 in epsidode 727 
-reward is 172.3326722663127 in epsidode 728 
-reward is -10.45454872939736 in epsidode 729 
-reward is 30.713862973311763 in epsidode 730 
-reward is 400.5042979358694 in epsidode 731 
-reward is -45.04990113354288 in epsidode 732 
-reward is -17.571441530575974 in epsidode 733 
-reward is 236.14095216954576 in epsidode 734 
-reward is 957.3632285500877 in epsidode 735 
-reward is 1033.9372930152194 in epsidode 736 
-reward is -49.0 in epsidode 737 
-reward is 56.16051646328978 in epsidode 738 
-reward is 97.12483097054044 in epsidode 739 
-reward is 2.4756528585216913 in epsidode 740 
-reward is 981.327040957126 in epsidode 741 
-reward is 86.0642603087237 in epsidode 742 
-reward is 13.5393646873068 in epsidode 743 
-reward is 936.578318482451 in epsidode 744 
-reward is 837.4291029579704 in epsidode 745 
-reward is 59.90857796454783 in epsidode 746 
-reward is -45.04990113354288 in epsidode 747 
-reward is 848.3984448135363 in epsidode 748 
-reward is -45.04990113354288 in epsidode 749 
-reward is 677.7825761209008 in epsidode 750 
-reward is 545.4366576815022 in epsidode 751 
-reward is 738.3697270663191 in epsidode 752 
-reward is 802.2187250603444 in epsidode 753 
-reward is 217.32611326849997 in epsidode 754 
-reward is 280.74605287060825 in epsidode 755 
-reward is 611.2423490687712 in epsidode 756 
-reward is 461.890466955467 in epsidode 757 
-reward is -25.861631598696114 in epsidode 758 
-reward is 146.0642603087237 in epsidode 759 
-reward is -49.0 in epsidode 760 
-reward is 77.78257612090073 in epsidode 761 
-reward is 162.42855846942402 in epsidode 762 
-reward is 963.3984448135363 in epsidode 763 
-reward is 186.14581786142642 in epsidode 764 
-reward is 23.398444813536287 in epsidode 765 
-reward is 899.5502423544382 in epsidode 766 
-reward is 29.54545127060264 in epsidode 767 
-reward is 954.1001674548722 in epsidode 768 
-reward is 23.398444813536287 in epsidode 769 
-reward is 338.72565575306606 in epsidode 770 
-reward is 643.1642978203687 in epsidode 771 
-reward is 690.0801801588386 in epsidode 772 
-reward is 23.398444813536287 in epsidode 773 
-reward is -37.571441530575974 in epsidode 774 
-reward is 673.0649552425833 in epsidode 775 
-reward is 629.6687423600813 in epsidode 776 
-reward is 1206.4141515409824 in epsidode 777 
-reward is 43.2235552351687 in epsidode 778 
-reward is 84.26034020264615 in epsidode 779 
-reward is -37.571441530575974 in epsidode 780 
-reward is 127.78257612090073 in epsidode 781 
-reward is -49.0 in epsidode 782 
-reward is 1227.931787136207 in epsidode 783 
-reward is 1226.692451079507 in epsidode 784 
-reward is -10.45454872939736 in epsidode 785 
-reward is -25.861631598696114 in epsidode 786 
-reward is 186.75719071512557 in epsidode 787 
-reward is 10.225543765514153 in epsidode 788 
-reward is 78.63555670680927 in epsidode 789 
-reward is 529.082726882491 in epsidode 790 
-reward is -25.861631598696114 in epsidode 791 
-reward is 210.205087657715 in epsidode 792 
-reward is 56.16051646328978 in epsidode 793 
-reward is 930.2473610256795 in epsidode 794 
-reward is 105.83493222743257 in epsidode 795 
-reward is 278.2235552351687 in epsidode 796 
-reward is 184.06405379136538 in epsidode 797 
-reward is 1282.4684780938367 in epsidode 798 
-reward is 168.97536569889616 in epsidode 799 
-reward is 743.4095035310368 in epsidode 800 
-reward is 591.3257600024384 in epsidode 801 
-reward is 162.4756528585217 in epsidode 802 
-reward is 517.6786086256848 in epsidode 803 
-reward is 23.398444813536287 in epsidode 804 
-reward is 357.1864000322296 in epsidode 805 
-reward is 130.20508765771498 in epsidode 806 
-reward is 100.71386297331176 in epsidode 807 
-reward is 942.1532308807595 in epsidode 808 
-reward is 1032.3775876958855 in epsidode 809 
-reward is 60.09006260368024 in epsidode 810 
-reward is 334.0640537913654 in epsidode 811 
-reward is 72.87623583071402 in epsidode 812 
-reward is 929.5454512706026 in epsidode 813 
-reward is 90.5108338620046 in epsidode 814 
-reward is 1069.940740033399 in epsidode 815 
-reward is 210.5748296758856 in epsidode 816 
-reward is 1154.9180295863518 in epsidode 817 
-reward is 77.78257612090073 in epsidode 818 
-reward is 102.4756528585217 in epsidode 819 
-reward is 898.753953190334 in epsidode 820 
-reward is 1034.0492087730072 in epsidode 821 
-reward is 572.7758301304884 in epsidode 822 
-reward is 94.1383684013039 in epsidode 823 
-reward is 366.0642603087237 in epsidode 824 
-reward is 1254.2579716789915 in epsidode 825 
-reward is 914.7313582816626 in epsidode 826 
-reward is 304.39982649723515 in epsidode 827 
-reward is 175.49309295313432 in epsidode 828 
-reward is 869.5462977865011 in epsidode 829 
-reward is 246.1605164632898 in epsidode 830 
-reward is 294.0640537913654 in epsidode 831 
-reward is 454.26034020264615 in epsidode 832 
-reward is 140.5108338620046 in epsidode 833 
-reward is 392.8721512380404 in epsidode 834 
-reward is 16.064260308723703 in epsidode 835 
-reward is 159.90857796454782 in epsidode 836 
-reward is 305.22554376551415 in epsidode 837 
-reward is 90.5108338620046 in epsidode 838 
-reward is 69.60231582783143 in epsidode 839 
-reward is 34.66874236008134 in epsidode 840 
-reward is 170.87861016835063 in epsidode 841 
-reward is 247.56235740701652 in epsidode 842 
-reward is 559.6023158278315 in epsidode 843 
-reward is 593.0456007722036 in epsidode 844 
-reward is 879.6326621504257 in epsidode 845 
-reward is 613.7987692267632 in epsidode 846 
-reward is 186.14581786142642 in epsidode 847 
-reward is 7.2480488683095174 in epsidode 848 
-reward is 28.975365698896155 in epsidode 849 
-reward is 353.5137994586488 in epsidode 850 
-reward is -13.0 in epsidode 851 
-reward is -37.571441530575974 in epsidode 852 
-reward is 97.12483097054044 in epsidode 853 
-reward is 177.76871517358794 in epsidode 854 
-reward is 70.83577665598116 in epsidode 855 
-reward is 393.613843723945 in epsidode 856 
-reward is 856.1462067060562 in epsidode 857 
-reward is 172.32611326849997 in epsidode 858 
-reward is 90.5108338620046 in epsidode 859 
-reward is 257.07741963109004 in epsidode 860 
-reward is 552.7825761209008 in epsidode 861 
-reward is 517.4756528585217 in epsidode 862 
-reward is 557.6808028972242 in epsidode 863 
-reward is 159.90857796454782 in epsidode 864 
-reward is 796.0518819910144 in epsidode 865 
-reward is 23.398444813536287 in epsidode 866 
-reward is 10.71386297331177 in epsidode 867 
-reward is 819.6687423600813 in epsidode 868 
-reward is 944.6682530333801 in epsidode 869 
-reward is 836.6977377015672 in epsidode 870 
-reward is 505.7361750061157 in epsidode 871 
-reward is 849.6023158278315 in epsidode 872 
-reward is 914.5454512706026 in epsidode 873 
-reward is 1001.2878294054417 in epsidode 874 
-reward is 1177.1888334313385 in epsidode 875 
-reward is 97.12483097054044 in epsidode 876 
-reward is 117.78257612090073 in epsidode 877 
-reward is 1173.5800332255128 in epsidode 878 
-reward is 56.16051646328978 in epsidode 879 
-reward is 103.49977223123403 in epsidode 880 
-reward is 84.26034020264615 in epsidode 881 
-reward is 1032.5393533556721 in epsidode 882 
-reward is 1056.1690340887894 in epsidode 883 
-reward is 977.3671537339192 in epsidode 884 
-reward is 84.26034020264615 in epsidode 885 
-reward is 211.8890999209134 in epsidode 886 
-reward is -45.04990113354288 in epsidode 887 
-reward is 907.7825761209008 in epsidode 888 
-reward is 469.35474086685565 in epsidode 889 
-reward is -19.0 in epsidode 890 
-reward is 425.3274057902132 in epsidode 891 
-reward is 394.26034020264615 in epsidode 892 
-reward is 600.8672567100698 in epsidode 893 
-reward is 885.4382665503302 in epsidode 894 
-reward is -49.0 in epsidode 895 
-reward is 477.77414783125255 in epsidode 896 
-reward is 53.021875809598555 in epsidode 897 
-reward is -50 in epsidode 898 
-reward is 894.2603402026461 in epsidode 899 
-reward is 994.1383684013039 in epsidode 900 
-reward is 11.550486734183323 in epsidode 901 
-reward is 198.2235552351687 in epsidode 902 
-reward is -49.0 in epsidode 903 
-reward is 2.4756528585216913 in epsidode 904 
-reward is 734.9457556556648 in epsidode 905 
-reward is -50 in epsidode 906 
-reward is 134.26034020264615 in epsidode 907 
-reward is 14.516117190965275 in epsidode 908 
-reward is 254.28186084530319 in epsidode 909 
-reward is 391.6994113124907 in epsidode 910 
-reward is 1052.3892201537237 in epsidode 911 
-reward is 69.90857796454783 in epsidode 912 
-reward is 947.2942015016662 in epsidode 913 
-reward is 1089.3230572865778 in epsidode 914 
-reward is 811.9613686384631 in epsidode 915 
-reward is 89.90857796454782 in epsidode 916 
-reward is 120.71386297331176 in epsidode 917 
-reward is 431.87704429491123 in epsidode 918 
-reward is 859.6190437894799 in epsidode 919 
-reward is -43.0 in epsidode 920 
-reward is 77.78257612090073 in epsidode 921 
-reward is -25.861631598696114 in epsidode 922 
-reward is 690.3617468137031 in epsidode 923 
-reward is -45.04990113354288 in epsidode 924 
-reward is 437.40616725536506 in epsidode 925 
-reward is 344.4679078006417 in epsidode 926 
-reward is 26.064260308723703 in epsidode 927 
-reward is 69.54545127060264 in epsidode 928 
-reward is 933.4726978567398 in epsidode 929 
-reward is 414.60231582783143 in epsidode 930 
-reward is 784.5454512706026 in epsidode 931 
-reward is 804.1383684013039 in epsidode 932 
-reward is 28.975365698896155 in epsidode 933 
-reward is -45.04990113354288 in epsidode 934 
-reward is 186.14581786142642 in epsidode 935 
-reward is 202.50777261941693 in epsidode 936 
-reward is 909.2603402026461 in epsidode 937 
-reward is 226.14095216954576 in epsidode 938 
-reward is -49.0 in epsidode 939 
-reward is 99.90857796454782 in epsidode 940 
-reward is 2.4756528585216913 in epsidode 941 
-reward is -25.861631598696114 in epsidode 942 
-reward is 572.0488244143053 in epsidode 943 
-reward is 38.816189918899724 in epsidode 944 
-reward is 16.064260308723703 in epsidode 945 
-reward is 613.9780154269422 in epsidode 946 
-reward is 399.13836840130386 in epsidode 947 
-reward is -49.0 in epsidode 948 
-reward is 56.16051646328978 in epsidode 949 
-reward is 118.38514715665929 in epsidode 950 
-reward is -37.0 in epsidode 951 
-reward is 1002.8490525252855 in epsidode 952 
-reward is -45.04990113354288 in epsidode 953 
-reward is 395.38290320052766 in epsidode 954 
-reward is 787.3261132685 in epsidode 955 
-reward is 16.064260308723703 in epsidode 956 
-reward is 831.1458178614264 in epsidode 957 
-reward is 824.5454512706026 in epsidode 958 
-reward is -49.0 in epsidode 959 
-reward is 1561.0432323258021 in epsidode 960 
-reward is 139.60231582783143 in epsidode 961 
-reward is 16.064260308723703 in epsidode 962 
-reward is -7.0 in epsidode 963 
-reward is 827.9976615597725 in epsidode 964 
-reward is 12.264316240884355 in epsidode 965 
-reward is 110.43826655033024 in epsidode 966 
-reward is 328.5817500713513 in epsidode 967 
-reward is -45.04990113354288 in epsidode 968 
-reward is 791.2399208532663 in epsidode 969 
-reward is 94.66874236008135 in epsidode 970 
-reward is -10.45454872939736 in epsidode 971 
-reward is 649.2603402026461 in epsidode 972 
-reward is 77.78257612090073 in epsidode 973 
-reward is 2.4756528585216913 in epsidode 974 
-reward is 407.32611326849997 in epsidode 975 
-reward is -25.861631598696114 in epsidode 976 
-reward is 769.0 in epsidode 977 
-reward is -45.04990113354288 in epsidode 978 
-reward is 34.66874236008134 in epsidode 979 
-reward is 160.43826655033024 in epsidode 980 
-reward is 1027.619800220432 in epsidode 981 
-reward is 603.3984448135363 in epsidode 982 
-reward is 1160.5980658989965 in epsidode 983 
-reward is 23.398444813536287 in epsidode 984 
-reward is 552.7122824638616 in epsidode 985 
-reward is 1130.6656828551652 in epsidode 986 
-reward is 194.1383684013039 in epsidode 987 
-reward is 64.66874236008134 in epsidode 988 
-reward is 699.9085779645478 in epsidode 989 
-reward is 421.7790897978933 in epsidode 990 
-reward is 852.9478955357798 in epsidode 991 
-reward is -49.0 in epsidode 992 
-reward is 1026.8231941597999 in epsidode 993 
-reward is 232.7010349507908 in epsidode 994 
-reward is -50 in epsidode 995 
-reward is 877.428558469424 in epsidode 996 
-reward is 973.5535481434983 in epsidode 997 
-reward is 68.46867086503171 in epsidode 998 
-reward is 107.78257612090073 in epsidode 999 
-reward is 222.42855846942405 in epsidode 1000 
-reward is 124.66874236008135 in epsidode 1001 
-reward is 847.3531936435492 in epsidode 1002 
-reward is 28.975365698896155 in epsidode 1003 
-reward is -25.861631598696114 in epsidode 1004 
-reward is 720.2267806509974 in epsidode 1005 
-reward is -45.04990113354288 in epsidode 1006 
-reward is -10.45454872939736 in epsidode 1007 
-reward is 1199.2085218787179 in epsidode 1008 
-reward is 24.138368401303893 in epsidode 1009 
-reward is 553.3984448135363 in epsidode 1010 
-reward is -10.45454872939736 in epsidode 1011 
-reward is 227.7687151735879 in epsidode 1012 
-reward is -49.0 in epsidode 1013 
-reward is 94.66874236008135 in epsidode 1014 
-reward is 186.14581786142642 in epsidode 1015 
-reward is 54.13836840130389 in epsidode 1016 
-reward is 101.69886888018789 in epsidode 1017 
-reward is 130.20508765771498 in epsidode 1018 
-reward is 170.71386297331176 in epsidode 1019 
-reward is -49.0 in epsidode 1020 
-reward is 1408.5963923438685 in epsidode 1021 
-reward is 130.20508765771498 in epsidode 1022 
-reward is -37.571441530575974 in epsidode 1023 
-reward is 124.39982649723513 in epsidode 1024 
-reward is 922.7825761209008 in epsidode 1025 
-reward is 24.138368401303893 in epsidode 1026 
-reward is 10.71386297331177 in epsidode 1027 
-reward is 379.9476624355999 in epsidode 1028 
-reward is 208.97536569889616 in epsidode 1029 
-reward is 894.5454512706026 in epsidode 1030 
-reward is 167.12483097054044 in epsidode 1031 
-reward is 43.2235552351687 in epsidode 1032 
-reward is 16.064260308723703 in epsidode 1033 
-reward is -25.861631598696114 in epsidode 1034 
-reward is 117.78257612090073 in epsidode 1035 
-reward is 714.2229461863637 in epsidode 1036 
-reward is 739.2254248967392 in epsidode 1037 
-reward is 927.7825761209008 in epsidode 1038 
-reward is -45.04990113354288 in epsidode 1039 
-reward is 215.0 in epsidode 1040 
-reward is 134.54545127060265 in epsidode 1041 
-reward is 1089.0752059903364 in epsidode 1042 
-reward is 49.512697254261 in epsidode 1043 
-reward is 919.1383684013039 in epsidode 1044 
-reward is 287.9976615597725 in epsidode 1045 
-reward is 859.8280389325458 in epsidode 1046 
-reward is 199.54545127060265 in epsidode 1047 
-reward is 895.5108338620046 in epsidode 1048 
-reward is 234.26034020264615 in epsidode 1049 
-reward is -10.45454872939736 in epsidode 1050 
-reward is 919.1871151719008 in epsidode 1051 
-reward is 960.599756444292 in epsidode 1052 
-reward is -25.861631598696114 in epsidode 1053 
-reward is 532.6928723754099 in epsidode 1054 
-reward is 1255.3552711136638 in epsidode 1055 
-reward is 187.32611326849997 in epsidode 1056 
-reward is 403.76434087727387 in epsidode 1057 
-reward is 63.2235552351687 in epsidode 1058 
-reward is -45.04990113354288 in epsidode 1059 
-reward is 431.17295488835947 in epsidode 1060 
-reward is 384.54545127060265 in epsidode 1061 
-reward is 137.32611326849997 in epsidode 1062 
-reward is 38.975365698896155 in epsidode 1063 
-reward is 177.76871517358794 in epsidode 1064 
-reward is 837.0 in epsidode 1065 
-reward is 538.499772231234 in epsidode 1066 
-reward is 108.67663129654252 in epsidode 1067 
-reward is 924.1383684013039 in epsidode 1068 
-reward is 464.9085779645478 in epsidode 1069 
-reward is 953.3232896314934 in epsidode 1070 
-reward is 133.5393646873068 in epsidode 1071 
-reward is 904.0 in epsidode 1072 
-reward is 56.16051646328978 in epsidode 1073 
-reward is 314.4679078006417 in epsidode 1074 
-reward is 69.60231582783143 in epsidode 1075 
-reward is 90.5108338620046 in epsidode 1076 
-reward is 56.16051646328978 in epsidode 1077 
-reward is 907.7825761209008 in epsidode 1078 
-reward is 249.60231582783143 in epsidode 1079 
-reward is 16.289102546172018 in epsidode 1080 
-reward is -45.04990113354288 in epsidode 1081 
-reward is 2.4756528585216913 in epsidode 1082 
-reward is -10.487302745739001 in epsidode 1083 
-reward is 147.54013079428097 in epsidode 1084 
-reward is -49.0 in epsidode 1085 
-reward is 158.97536569889616 in epsidode 1086 
-reward is 62.53448020350169 in epsidode 1087 
-reward is 786.0642603087238 in epsidode 1088 
-reward is 1146.3246513310226 in epsidode 1089 
-reward is 1004.4367827312553 in epsidode 1090 
-reward is 23.398444813536287 in epsidode 1091 
-reward is 10.71386297331177 in epsidode 1092 
-reward is 380.87459569002954 in epsidode 1093 
-reward is 400.38290320052766 in epsidode 1094 
-reward is 932.4756528585217 in epsidode 1095 
-reward is 26.064260308723703 in epsidode 1096 
-reward is 737.788873811146 in epsidode 1097 
-reward is 102.4756528585217 in epsidode 1098 
-reward is -10.45454872939736 in epsidode 1099 
-reward is -34.52495056677144 in epsidode 1100 
-reward is -25.861631598696114 in epsidode 1101 
-reward is 264.26034020264615 in epsidode 1102 
-reward is 1177.2163276299812 in epsidode 1103 
-reward is 331.8890999209134 in epsidode 1104 
-reward is 454.5299095497466 in epsidode 1105 
-reward is 1071.203266238488 in epsidode 1106 
-reward is 611.6615801747391 in epsidode 1107 
-reward is 419.6542624148743 in epsidode 1108 
-reward is 135.21724633108806 in epsidode 1109 
-reward is 178.97536569889616 in epsidode 1110 
-reward is -25.861631598696114 in epsidode 1111 
-reward is 856.1409521695457 in epsidode 1112 
-reward is 875.7138629733117 in epsidode 1113 
-reward is 28.975365698896155 in epsidode 1114 
-reward is 337.5623574070165 in epsidode 1115 
-reward is 1191.4270678486353 in epsidode 1116 
-reward is 362.4756528585217 in epsidode 1117 
-reward is 693.8938680559396 in epsidode 1118 
-reward is 57.87623583071402 in epsidode 1119 
-reward is -45.04990113354288 in epsidode 1120 
-reward is -37.571441530575974 in epsidode 1121 
-reward is 292.4756528585217 in epsidode 1122 
-reward is 447.4161081253665 in epsidode 1123 
-reward is 2.4756528585216913 in epsidode 1124 
-reward is 144.018200378632 in epsidode 1125 
-reward is 94.66874236008135 in epsidode 1126 
-reward is 882.658005091478 in epsidode 1127 
-reward is 824.5462977865011 in epsidode 1128 
-reward is 28.975365698896155 in epsidode 1129 
-reward is 663.3851471566593 in epsidode 1130 
-reward is 52.42855846942402 in epsidode 1131 
-reward is 118.38514715665929 in epsidode 1132 
-reward is 10.71386297331177 in epsidode 1133 
-reward is 64.1383684013039 in epsidode 1134 
-reward is 1004.4800772775615 in epsidode 1135 
-reward is -25.861631598696114 in epsidode 1136 
-reward is 538.9753656988962 in epsidode 1137 
-reward is 179.90857796454782 in epsidode 1138 
-reward is 23.398444813536287 in epsidode 1139 
-reward is 984.6003068895359 in epsidode 1140 
-reward is 692.0404459858311 in epsidode 1141 
-reward is 15.240794640290375 in epsidode 1142 
-reward is 49.90857796454783 in epsidode 1143 
-reward is 478.39844481353634 in epsidode 1144 
-reward is -10.45454872939736 in epsidode 1145 
-reward is 222.86618290799652 in epsidode 1146 
-reward is 117.12483097054044 in epsidode 1147 
-reward is -45.04990113354288 in epsidode 1148 
-reward is 2.4756528585216913 in epsidode 1149 
-reward is 297.0192179655189 in epsidode 1150 
-reward is 472.115071251706 in epsidode 1151 
-reward is 16.064260308723703 in epsidode 1152 
-reward is 118.38514715665929 in epsidode 1153 
-reward is 204.66874236008132 in epsidode 1154 
-reward is 159.54545127060265 in epsidode 1155 
-reward is 128.97536569889616 in epsidode 1156 
-reward is 1119.5064668072616 in epsidode 1157 
-reward is 23.398444813536287 in epsidode 1158 
-reward is 645.2693996669722 in epsidode 1159 
-reward is 167.42855846942402 in epsidode 1160 
-reward is 440.8587471942415 in epsidode 1161 
-reward is 822.4756528585217 in epsidode 1162 
-reward is 835.7138629733117 in epsidode 1163 
-reward is 92.4756528585217 in epsidode 1164 
-reward is 845.0 in epsidode 1165 
-reward is 1037.7122824638616 in epsidode 1166 
-reward is 107.0 in epsidode 1167 
-reward is 460.87847805418704 in epsidode 1168 
-reward is 90.77643356362827 in epsidode 1169 
-reward is -50 in epsidode 1170 
-reward is 888.2235552351688 in epsidode 1171 
-reward is 1192.9550943938314 in epsidode 1172 
-reward is -45.04990113354288 in epsidode 1173 
-reward is 2.4756528585216913 in epsidode 1174 
-reward is 2.4756528585216913 in epsidode 1175 
-reward is 28.975365698896155 in epsidode 1176 
-reward is 165.91266012596878 in epsidode 1177 
-reward is 1271.624518854488 in epsidode 1178 
-reward is 23.398444813536287 in epsidode 1179 
-reward is 114.66874236008135 in epsidode 1180 
-reward is -50 in epsidode 1181 
-reward is 929.4806202738646 in epsidode 1182 
-reward is 436.85961900162494 in epsidode 1183 
-reward is 598.1065779227965 in epsidode 1184 
-reward is 444.14046573848447 in epsidode 1185 
-reward is 273.3984448135363 in epsidode 1186 
-reward is -10.45454872939736 in epsidode 1187 
-reward is 350.1584341432432 in epsidode 1188 
-reward is 480.58685302755316 in epsidode 1189 
-reward is -10.45454872939736 in epsidode 1190 
-reward is 46.0642603087237 in epsidode 1191 
-reward is -45.04990113354288 in epsidode 1192 
-reward is 43.2235552351687 in epsidode 1193 
-reward is -45.04990113354288 in epsidode 1194 
-reward is 134.06405379136538 in epsidode 1195 
-reward is 206.8782131598565 in epsidode 1196 
-reward is 357.06289904492905 in epsidode 1197 
-reward is 302.27424084003985 in epsidode 1198 
-reward is 232.7010349507908 in epsidode 1199 
-reward is 19.54545127060264 in epsidode 1200 
-reward is -45.04990113354288 in epsidode 1201 
-reward is 427.9328380867343 in epsidode 1202 
-reward is 150.71386297331176 in epsidode 1203 
-reward is 1132.3199951378133 in epsidode 1204 
-reward is 957.982678507696 in epsidode 1205 
-reward is 89.60231582783143 in epsidode 1206 
-reward is 886.6492740360552 in epsidode 1207 
-reward is 907.9393654034444 in epsidode 1208 
-reward is 852.2643162408843 in epsidode 1209 
-reward is -50 in epsidode 1210 
-reward is 334.39982649723515 in epsidode 1211 
-reward is 192.86618290799652 in epsidode 1212 
-reward is -49.0 in epsidode 1213 
-reward is 16.064260308723703 in epsidode 1214 
-reward is 179.60231582783143 in epsidode 1215 
-reward is 181.28910254617202 in epsidode 1216 
-reward is 226.14095216954576 in epsidode 1217 
-reward is -45.04990113354288 in epsidode 1218 
-reward is 308.156687898794 in epsidode 1219 
-reward is 182.86618290799652 in epsidode 1220 
-reward is -25.861631598696114 in epsidode 1221 
-reward is 355.5108338620046 in epsidode 1222 
-reward is 1120.5544486991614 in epsidode 1223 
-reward is 16.064260308723703 in epsidode 1224 
-reward is 125.2043880695941 in epsidode 1225 
-reward is 1054.8228482281409 in epsidode 1226 
-reward is 130.20508765771498 in epsidode 1227 
-reward is 50.513959447899836 in epsidode 1228 
-reward is 187.92069918443434 in epsidode 1229 
-reward is 26.064260308723703 in epsidode 1230 
-reward is -37.571441530575974 in epsidode 1231 
-reward is 172.3326722663127 in epsidode 1232 
-reward is -50 in epsidode 1233 
-reward is 322.4756528585217 in epsidode 1234 
-reward is -50 in epsidode 1235 
-reward is 894.6687423600813 in epsidode 1236 
-reward is 611.1261487855079 in epsidode 1237 
-reward is 23.398444813536287 in epsidode 1238 
-reward is 210.619942342513 in epsidode 1239 
-reward is 2.4756528585216913 in epsidode 1240 
-reward is 217.29310834342596 in epsidode 1241 
-reward is 942.3773920583052 in epsidode 1242 
-reward is 312.4756528585217 in epsidode 1243 
-reward is 770.5582535999694 in epsidode 1244 
-reward is 364.42369890003465 in epsidode 1245 
-reward is 639.3721971093211 in epsidode 1246 
-reward is 50.49475889480655 in epsidode 1247 
-reward is -49.0 in epsidode 1248 
-reward is 333.22043433208006 in epsidode 1249 
-reward is 937.428558469424 in epsidode 1250 
-reward is 84.26034020264615 in epsidode 1251 
-reward is 56.16051646328978 in epsidode 1252 
-reward is 534.3990843839013 in epsidode 1253 
-reward is -27.571441530575974 in epsidode 1254 
-reward is 16.064260308723703 in epsidode 1255 
-reward is 94.26034020264615 in epsidode 1256 
-reward is 2.4756528585216913 in epsidode 1257 
-reward is 58.975365698896155 in epsidode 1258 
-reward is 1052.7323543363918 in epsidode 1259 
-reward is -50 in epsidode 1260 
-reward is 118.38514715665929 in epsidode 1261 
-reward is 113.39844481353629 in epsidode 1262 
-reward is 130.20508765771498 in epsidode 1263 
-reward is 154.1383684013039 in epsidode 1264 
-reward is 960.2119354940949 in epsidode 1265 
-reward is 714.8320613030094 in epsidode 1266 
-reward is 912.7825761209008 in epsidode 1267 
-reward is 587.5920809563713 in epsidode 1268 
-reward is 273.3984448135363 in epsidode 1269 
-reward is 1026.9298724716994 in epsidode 1270 
-reward is 83.39844481353629 in epsidode 1271 
-reward is 128.17530930167976 in epsidode 1272 
-reward is 1095.0685722236692 in epsidode 1273 
-reward is 700.395667872205 in epsidode 1274 
-reward is 62.53448020350169 in epsidode 1275 
-reward is 10.71386297331177 in epsidode 1276 
-reward is 803.0 in epsidode 1277 
-reward is 1101.9390944587528 in epsidode 1278 
-reward is 49.90857796454783 in epsidode 1279 
-reward is -50 in epsidode 1280 
-reward is 23.398444813536287 in epsidode 1281 
-reward is 197.78257612090073 in epsidode 1282 
-reward is 112.42855846942402 in epsidode 1283 
-reward is 9.54545127060264 in epsidode 1284 
-reward is 23.398444813536287 in epsidode 1285 
-reward is 771.9243808912229 in epsidode 1286 
-reward is 144.06405379136538 in epsidode 1287 
-reward is 97.12483097054044 in epsidode 1288 
-reward is 2.4756528585216913 in epsidode 1289 
-reward is 74.55862257177924 in epsidode 1290 
-reward is 871.0779369212707 in epsidode 1291 
-reward is 69.60231582783143 in epsidode 1292 
-reward is 308.3851471566593 in epsidode 1293 
-reward is 2.4756528585216913 in epsidode 1294 
-reward is 232.70719396308982 in epsidode 1295 
-reward is -49.0 in epsidode 1296 
-reward is 2.4756528585216913 in epsidode 1297 
-reward is 700.2331602219024 in epsidode 1298 
-reward is 824.115273005096 in epsidode 1299 
-reward is 492.39709112718674 in epsidode 1300 
-reward is 1024.9029265037707 in epsidode 1301 
-reward is 19.651627248339167 in epsidode 1302 
-reward is -45.04990113354288 in epsidode 1303 
-reward is -25.861631598696114 in epsidode 1304 
-reward is -5.454548729397359 in epsidode 1305 
-reward is 72.62673016299962 in epsidode 1306 
-reward is 130.43826655033024 in epsidode 1307 
-reward is 467.4492298487572 in epsidode 1308 
-reward is 97.12483097054044 in epsidode 1309 
-reward is -10.45454872939736 in epsidode 1310 
-reward is 84.26034020264615 in epsidode 1311 
-reward is 560.5303914022165 in epsidode 1312 
-reward is -50 in epsidode 1313 
-reward is 101.83609178983588 in epsidode 1314 
-reward is 259.18223466954646 in epsidode 1315 
-reward is 138.97536569889616 in epsidode 1316 
-reward is 23.398444813536287 in epsidode 1317 
-reward is 367.1471956166437 in epsidode 1318 
-reward is -25.861631598696114 in epsidode 1319 
-reward is -25.861631598696114 in epsidode 1320 
-reward is 689.218703210705 in epsidode 1321 
-reward is -17.571441530575974 in epsidode 1322 
-reward is 2.4756528585216913 in epsidode 1323 
-reward is 523.7352817280682 in epsidode 1324 
-reward is 788.8610238334626 in epsidode 1325 
-reward is 813.5817500713513 in epsidode 1326 
-reward is 65.95782615733313 in epsidode 1327 
-reward is 16.064260308723703 in epsidode 1328 
-reward is 217.42855846942405 in epsidode 1329 
-reward is 294.73313405031786 in epsidode 1330 
-reward is 236.1458178614264 in epsidode 1331 
-reward is 244.4979055104543 in epsidode 1332 
-reward is 54.13836840130389 in epsidode 1333 
-reward is 74.16320095201935 in epsidode 1334 
-reward is 23.398444813536287 in epsidode 1335 
-reward is 69.60231582783143 in epsidode 1336 
-reward is 2.4756528585216913 in epsidode 1337 
-reward is 62.53448020350169 in epsidode 1338 
-reward is 261.4120537662411 in epsidode 1339 
-reward is 895.5108338620046 in epsidode 1340 
-reward is 62.53448020350169 in epsidode 1341 
-reward is 838.2235552351688 in epsidode 1342 
-reward is 917.4756528585217 in epsidode 1343 
-reward is 753.3984448135363 in epsidode 1344 
-reward is 36.0642603087237 in epsidode 1345 
-reward is 2.4756528585216913 in epsidode 1346 
-reward is 481.14886351562734 in epsidode 1347 
-reward is 898.2235552351688 in epsidode 1348 
-reward is -25.57485170031432 in epsidode 1349 
-reward is 470.41259550428936 in epsidode 1350 
-reward is 227.19589211365656 in epsidode 1351 
-reward is 934.9085779645478 in epsidode 1352 
-reward is 165.91266012596878 in epsidode 1353 
-reward is 84.26034020264615 in epsidode 1354 
-reward is 53.3752471661428 in epsidode 1355 
-reward is 144.1383684013039 in epsidode 1356 
-reward is 462.95482588685104 in epsidode 1357 
-reward is 458.3851471566593 in epsidode 1358 
-reward is 719.085379041056 in epsidode 1359 
-reward is 442.3249147312713 in epsidode 1360 
-reward is -10.45454872939736 in epsidode 1361 
-reward is 68.97536569889616 in epsidode 1362 
-reward is 904.6516272483392 in epsidode 1363 
-reward is 132.4756528585217 in epsidode 1364 
-reward is -50 in epsidode 1365 
-reward is 886.1263448997399 in epsidode 1366 
-reward is 192.86618290799652 in epsidode 1367 
-reward is 28.975365698896155 in epsidode 1368 
-reward is 23.398444813536287 in epsidode 1369 
-reward is 103.49977223123403 in epsidode 1370 
-reward is 488.81111532391503 in epsidode 1371 
-reward is 367.3007077089045 in epsidode 1372 
-reward is 81.82633469717115 in epsidode 1373 
-reward is 862.4756528585217 in epsidode 1374 
-reward is 135.5269278959139 in epsidode 1375 
-reward is 92.28500333619286 in epsidode 1376 
-reward is 746.578318482451 in epsidode 1377 
-reward is 110.43826655033024 in epsidode 1378 
-reward is 130.20508765771498 in epsidode 1379 
-reward is 927.6531325199253 in epsidode 1380 
-reward is 699.2559131022745 in epsidode 1381 
-reward is 893.4095592667317 in epsidode 1382 
-reward is 695.7138629733117 in epsidode 1383 
-reward is -50 in epsidode 1384 
-reward is 332.8661829079965 in epsidode 1385 
-reward is 508.765039057913 in epsidode 1386 
-reward is 62.4756528585217 in epsidode 1387 
-reward is 16.064260308723703 in epsidode 1388 
-reward is 237.52829990938756 in epsidode 1389 
-reward is 261.4120537662411 in epsidode 1390 
-reward is 604.073964579962 in epsidode 1391 
-reward is 779.9085779645478 in epsidode 1392 
-reward is 56.16051646328978 in epsidode 1393 
-reward is 214.18711517190076 in epsidode 1394 
-reward is 62.53448020350169 in epsidode 1395 
-reward is 150.71386297331176 in epsidode 1396 
-reward is 847.0206352442782 in epsidode 1397 
-reward is 63.2235552351687 in epsidode 1398 
-reward is 1020.2656239662783 in epsidode 1399 
-reward is -25.861631598696114 in epsidode 1400 
-reward is 43.2235552351687 in epsidode 1401 
-reward is 16.064260308723703 in epsidode 1402 
-reward is 678.499772231234 in epsidode 1403 
-reward is -45.04990113354288 in epsidode 1404 
-reward is 26.550486734183337 in epsidode 1405 
-reward is 947.428558469424 in epsidode 1406 
-reward is -37.571441530575974 in epsidode 1407 
-reward is 391.0642603087237 in epsidode 1408 
-reward is -50 in epsidode 1409 
-reward is -49.0 in epsidode 1410 
-reward is 137.32611326849997 in epsidode 1411 
-reward is 80.71386297331176 in epsidode 1412 
-reward is 10.71386297331177 in epsidode 1413 
-reward is 813.2385696734766 in epsidode 1414 
-reward is 906.1605164632898 in epsidode 1415 
-reward is 58.2235552351687 in epsidode 1416 
-reward is 468.82830778262564 in epsidode 1417 
-reward is 737.7010349507908 in epsidode 1418 
-reward is -49.0 in epsidode 1419 
-reward is 924.4236989000347 in epsidode 1420 
-reward is 841.8890999209134 in epsidode 1421 
-reward is 80.71386297331176 in epsidode 1422 
-reward is 97.12483097054044 in epsidode 1423 
-reward is 90.5108338620046 in epsidode 1424 
-reward is -25.861631598696114 in epsidode 1425 
-reward is 582.4756528585217 in epsidode 1426 
-reward is 92.4756528585217 in epsidode 1427 
-reward is 392.8661829079965 in epsidode 1428 
-reward is 124.39982649723513 in epsidode 1429 
-reward is 691.0642603087238 in epsidode 1430 
-reward is -45.04990113354288 in epsidode 1431 
-reward is 23.398444813536287 in epsidode 1432 
-reward is 130.20508765771498 in epsidode 1433 
-reward is 506.24933354032396 in epsidode 1434 
-reward is 466.5249505667714 in epsidode 1435 
-reward is -49.0 in epsidode 1436 
-reward is -50 in epsidode 1437 
-reward is 16.064260308723703 in epsidode 1438 
-reward is 49.90857796454783 in epsidode 1439 
-reward is 34.66874236008134 in epsidode 1440 
-reward is 933.1168415454653 in epsidode 1441 
-reward is 79.54545127060265 in epsidode 1442 
-reward is 1155.576013727486 in epsidode 1443 
-reward is 25.935511884109985 in epsidode 1444 
-reward is 98.97536569889616 in epsidode 1445 
-reward is 23.398444813536287 in epsidode 1446 
-reward is 2.4756528585216913 in epsidode 1447 
-reward is -50 in epsidode 1448 
-reward is 937.4013723585286 in epsidode 1449 
-reward is 189.54545127060265 in epsidode 1450 
-reward is 183.49977223123403 in epsidode 1451 
-reward is 947.5762885917442 in epsidode 1452 
-reward is 898.4509309796149 in epsidode 1453 
-reward is 40.71386297331176 in epsidode 1454 
-reward is 56.0642603087237 in epsidode 1455 
-reward is -10.45454872939736 in epsidode 1456 
-reward is 177.76871517358794 in epsidode 1457 
-reward is 92.4756528585217 in epsidode 1458 
-reward is 16.064260308723703 in epsidode 1459 
-reward is 165.68926455548484 in epsidode 1460 
-reward is 77.78257612090073 in epsidode 1461 
-reward is 144.06405379136538 in epsidode 1462 
-reward is 93.04166028923339 in epsidode 1463 
-reward is -37.571441530575974 in epsidode 1464 
-reward is 90.5108338620046 in epsidode 1465 
-reward is 10.71386297331177 in epsidode 1466 
-reward is 680.4495355493152 in epsidode 1467 
-reward is 273.30417113604955 in epsidode 1468 
-reward is 10.71386297331177 in epsidode 1469 
-reward is 23.398444813536287 in epsidode 1470 
-reward is 72.53448020350169 in epsidode 1471 
-reward is 77.78257612090073 in epsidode 1472 
-reward is 598.727886080928 in epsidode 1473 
-reward is 43.2235552351687 in epsidode 1474 
-reward is -43.0 in epsidode 1475 
-reward is 197.78257612090073 in epsidode 1476 
-reward is 916.1605164632898 in epsidode 1477 
-reward is 834.4979055104543 in epsidode 1478 
-reward is 52.53448020350169 in epsidode 1479 
-reward is -49.0 in epsidode 1480 
-reward is 868.2892570056518 in epsidode 1481 
-reward is 206.1605164632898 in epsidode 1482 
-reward is 907.8950022058792 in epsidode 1483 
-reward is 127.78257612090073 in epsidode 1484 
-reward is 897.428558469424 in epsidode 1485 
-reward is 49.90857796454783 in epsidode 1486 
-reward is 656.2727927511323 in epsidode 1487 
-reward is 984.3287887600248 in epsidode 1488 
-reward is 597.5425252639221 in epsidode 1489 
-reward is 348.3851471566593 in epsidode 1490 
-reward is 922.489885284542 in epsidode 1491 
-reward is 990.9470439841708 in epsidode 1492 
-reward is 341.1438879163934 in epsidode 1493 
-reward is -45.04990113354288 in epsidode 1494 
-reward is 678.8096502002891 in epsidode 1495 
-reward is 551.4589523469765 in epsidode 1496 
-reward is 152.4061672553651 in epsidode 1497 
-reward is 205.69307575107067 in epsidode 1498 
-reward is -25.861631598696114 in epsidode 1499 
-reward is -10.45454872939736 in epsidode 1500 
-reward is 93.04166028923339 in epsidode 1501 
-reward is 908.0 in epsidode 1502 
-reward is 36.0642603087237 in epsidode 1503 
-reward is 855.7491764447699 in epsidode 1504 
-reward is 97.12483097054044 in epsidode 1505 
-reward is 1056.046821522247 in epsidode 1506 
-reward is 293.2792262552818 in epsidode 1507 
-reward is 699.0869891009734 in epsidode 1508 
-reward is -45.04990113354288 in epsidode 1509 
-reward is 504.2164505640509 in epsidode 1510 
-reward is -50 in epsidode 1511 
-reward is -50 in epsidode 1512 
-reward is 76.16051646328978 in epsidode 1513 
-reward is 192.86618290799652 in epsidode 1514 
-reward is 56.16051646328978 in epsidode 1515 
-reward is -25.861631598696114 in epsidode 1516 
-reward is 84.26034020264615 in epsidode 1517 
-reward is 23.398444813536287 in epsidode 1518 
-reward is 557.7198425594869 in epsidode 1519 
-reward is 4.138368401303886 in epsidode 1520 
-reward is 69.60231582783143 in epsidode 1521 
-reward is 570.5115227491594 in epsidode 1522 
-reward is 103.2235552351687 in epsidode 1523 
-reward is -37.0 in epsidode 1524 
-reward is 49.90857796454783 in epsidode 1525 
-reward is 284.39982649723515 in epsidode 1526 
-reward is 450.58685302755316 in epsidode 1527 
-reward is 34.66874236008134 in epsidode 1528 
-reward is 97.12483097054044 in epsidode 1529 
-reward is 155.0 in epsidode 1530 
-reward is 604.6104526217092 in epsidode 1531 
-reward is -37.571441530575974 in epsidode 1532 
-reward is 690.4495355493152 in epsidode 1533 
-reward is -50 in epsidode 1534 
-reward is 214.66874236008135 in epsidode 1535 
-reward is 732.4191813108278 in epsidode 1536 
-reward is -7.192198483087125 in epsidode 1537 
-reward is 1337.9999364822847 in epsidode 1538 
-reward is -25.861631598696114 in epsidode 1539 
-reward is 571.1605164632898 in epsidode 1540 
-reward is 173.6926761621142 in epsidode 1541 
-reward is 1132.3379079924066 in epsidode 1542 
-reward is 844.9685800900218 in epsidode 1543 
-reward is 140.20508765771498 in epsidode 1544 
-reward is 138.60879854094213 in epsidode 1545 
-reward is 56.16051646328978 in epsidode 1546 
-reward is 239.46401576667546 in epsidode 1547 
-reward is 397.041719334293 in epsidode 1548 
-reward is 935.4556944701819 in epsidode 1549 
-reward is 1286.9435677653623 in epsidode 1550 
-reward is 59.54545127060264 in epsidode 1551 
-reward is 583.4822443986541 in epsidode 1552 
-reward is 69.60231582783143 in epsidode 1553 
-reward is 186.14581786142642 in epsidode 1554 
-reward is 73.2235552351687 in epsidode 1555 
-reward is -45.04990113354288 in epsidode 1556 
-reward is 152.4061672553651 in epsidode 1557 
-reward is 762.5461253250453 in epsidode 1558 
-reward is 490.2005425713461 in epsidode 1559 
-reward is 222.86618290799652 in epsidode 1560 
-reward is 167.78257612090073 in epsidode 1561 
-reward is 134.1383684013039 in epsidode 1562 
-reward is 124.39982649723513 in epsidode 1563 
-reward is -37.571441530575974 in epsidode 1564 
-reward is -37.571441530575974 in epsidode 1565 
-reward is -35.861631598696114 in epsidode 1566 
-reward is -49.0 in epsidode 1567 
-reward is -50 in epsidode 1568 
-reward is 874.3100560924241 in epsidode 1569 
-reward is 199.66874236008135 in epsidode 1570 
-reward is -25.861631598696114 in epsidode 1571 
-reward is 349.1314293943576 in epsidode 1572 
-reward is 415.84797497349774 in epsidode 1573 
-reward is 11.0 in epsidode 1574 
-reward is 65.95782615733313 in epsidode 1575 
-reward is 885.975545320191 in epsidode 1576 
-reward is 943.0078911263232 in epsidode 1577 
-reward is 236.14095216954576 in epsidode 1578 
-reward is 84.26034020264615 in epsidode 1579 
-reward is 1107.3029768536333 in epsidode 1580 
-reward is -37.571441530575974 in epsidode 1581 
-reward is 1204.7706336454044 in epsidode 1582 
-reward is 415.6462023466563 in epsidode 1583 
-reward is 311.21424737516793 in epsidode 1584 
-reward is 450.1584341432432 in epsidode 1585 
-reward is 839.1383684013039 in epsidode 1586 
-reward is 244.26034020264615 in epsidode 1587 
-reward is 668.2278518701438 in epsidode 1588 
-reward is 718.3232896314934 in epsidode 1589 
-reward is 151.0 in epsidode 1590 
-reward is 264.13836840130386 in epsidode 1591 
-reward is -25.861631598696114 in epsidode 1592 
-reward is 34.66874236008134 in epsidode 1593 
-reward is 23.398444813536287 in epsidode 1594 
-reward is 944.4928061453624 in epsidode 1595 
-reward is 220.16769642152337 in epsidode 1596 
-reward is 1127.4780874641583 in epsidode 1597 
-reward is 934.5454512706026 in epsidode 1598 
-reward is 177.76871517358794 in epsidode 1599 
-reward is 130.20508765771498 in epsidode 1600 
-reward is 281.8422617102972 in epsidode 1601 
-reward is 69.60231582783143 in epsidode 1602 
-reward is 19.651627248339167 in epsidode 1603 
-reward is 591.3950282222328 in epsidode 1604 
-reward is 706.3273233617424 in epsidode 1605 
-reward is 330.1676964215234 in epsidode 1606 
-reward is 539.8400702460667 in epsidode 1607 
-reward is 239.41890991418603 in epsidode 1608 
-reward is 960.7046172956439 in epsidode 1609 
-reward is 310.2492941194797 in epsidode 1610 
-reward is 926.3202981778418 in epsidode 1611 
-reward is 917.115071251706 in epsidode 1612 
-reward is -25.861631598696114 in epsidode 1613 
-reward is 960.998824991547 in epsidode 1614 
-reward is 72.53448020350169 in epsidode 1615 
-reward is 145.35316631942968 in epsidode 1616 
-reward is -37.571441530575974 in epsidode 1617 
-reward is 1251.9719761569193 in epsidode 1618 
-reward is 187.0 in epsidode 1619 
-reward is 1203.7529347018672 in epsidode 1620 
-reward is 707.1248309705404 in epsidode 1621 
-reward is 745.559028319921 in epsidode 1622 
-reward is 99.26034020264615 in epsidode 1623 
-reward is 222.5344802035017 in epsidode 1624 
-reward is 16.064260308723703 in epsidode 1625 
-reward is 455.21724633108806 in epsidode 1626 
-reward is 130.20508765771498 in epsidode 1627 
-reward is 628.8463663311674 in epsidode 1628 
-reward is 43.2235552351687 in epsidode 1629 
-reward is 592.9283409243449 in epsidode 1630 
-reward is 820.2966063233256 in epsidode 1631 
-reward is -50 in epsidode 1632 
-reward is 921.0642603087238 in epsidode 1633 
-reward is 90.5108338620046 in epsidode 1634 
-reward is -37.571441530575974 in epsidode 1635 
-reward is 738.8063107597612 in epsidode 1636 
-reward is 1284.827772072933 in epsidode 1637 
-reward is 1236.7753870958209 in epsidode 1638 
-reward is 1227.8884611187711 in epsidode 1639 
-reward is 192.86618290799652 in epsidode 1640 
-reward is 232.42855846942405 in epsidode 1641 
-reward is 927.5835636463116 in epsidode 1642 
-reward is 979.0671633055897 in epsidode 1643 
-reward is -37.571441530575974 in epsidode 1644 
-reward is 946.9190285243113 in epsidode 1645 
-reward is 43.2235552351687 in epsidode 1646 
-reward is 1482.659485513593 in epsidode 1647 
-reward is 542.3241223689632 in epsidode 1648 
-reward is 1253.940965354722 in epsidode 1649 
-reward is -47.571441530575974 in epsidode 1650 
-reward is 1559.7206402451723 in epsidode 1651 
-reward is 230.71386297331173 in epsidode 1652 
-reward is 268.5817500713513 in epsidode 1653 
-reward is 194.26034020264615 in epsidode 1654 
-reward is -52.42514829968568 in epsidode 1655 
-reward is 23.398444813536287 in epsidode 1656 
-reward is 1232.3920652943182 in epsidode 1657 
-reward is 297.7825761209007 in epsidode 1658 
-reward is 850.468585590075 in epsidode 1659 
-reward is -37.571441530575974 in epsidode 1660 
-reward is 552.3326722663127 in epsidode 1661 
-reward is -45.04990113354288 in epsidode 1662 
-reward is 229.79283190434785 in epsidode 1663 
-reward is 167.78257612090073 in epsidode 1664 
-reward is 1569.148390856979 in epsidode 1665 
-reward is 11.0 in epsidode 1666 
-reward is 618.9906834979074 in epsidode 1667 
-reward is 69.60231582783143 in epsidode 1668 
-reward is 328.7352817280682 in epsidode 1669 
-reward is -49.0 in epsidode 1670 
-reward is 62.53448020350169 in epsidode 1671 
-reward is 69.60231582783143 in epsidode 1672 
-reward is 28.975365698896155 in epsidode 1673 
-reward is 69.60231582783143 in epsidode 1674 
-reward is 913.3851471566593 in epsidode 1675 
-reward is 56.16051646328978 in epsidode 1676 
-reward is 845.7646319538819 in epsidode 1677 
-reward is 373.3984448135363 in epsidode 1678 
-reward is 97.12483097054044 in epsidode 1679 
-reward is -10.45454872939736 in epsidode 1680 
-reward is 931.4061469218894 in epsidode 1681 
-reward is 109.54545127060265 in epsidode 1682 
-reward is -45.04990113354288 in epsidode 1683 
-reward is -49.0 in epsidode 1684 
-reward is 919.6687423600813 in epsidode 1685 
-reward is 28.975365698896155 in epsidode 1686 
-reward is 16.064260308723703 in epsidode 1687 
-reward is 90.5108338620046 in epsidode 1688 
-reward is -52.42514829968568 in epsidode 1689 
-reward is 124.26034020264615 in epsidode 1690 
-reward is 832.4692820262263 in epsidode 1691 
-reward is 975.0314967725294 in epsidode 1692 
-reward is 192.86618290799652 in epsidode 1693 
-reward is 34.66874236008134 in epsidode 1694 
-reward is 77.78257612090073 in epsidode 1695 
-reward is 10.71386297331177 in epsidode 1696 
-reward is 125.70640398031077 in epsidode 1697 
-reward is 705.4825125358999 in epsidode 1698 
-reward is 268.5817500713513 in epsidode 1699 
-reward is 157.3862855153622 in epsidode 1700 
-reward is 1113.0270299381546 in epsidode 1701 
-reward is 413.2235552351687 in epsidode 1702 
-reward is 874.2603402026461 in epsidode 1703 
-reward is 1012.4374372127464 in epsidode 1704 
-reward is -10.45454872939736 in epsidode 1705 
-reward is -49.0 in epsidode 1706 
-reward is 662.4756528585217 in epsidode 1707 
-reward is 587.9629181867464 in epsidode 1708 
-reward is 77.78257612090073 in epsidode 1709 
-reward is 69.60231582783143 in epsidode 1710 
-reward is 16.064260308723703 in epsidode 1711 
-reward is 239.1314293943576 in epsidode 1712 
-reward is 110.43826655033024 in epsidode 1713 
-reward is 471.7567907327551 in epsidode 1714 
-reward is 157.3862855153622 in epsidode 1715 
-reward is 382.42855846942405 in epsidode 1716 
-reward is 56.16051646328978 in epsidode 1717 
-reward is 144.66874236008135 in epsidode 1718 
-reward is -5.861631598696114 in epsidode 1719 
-reward is 10.225543765514153 in epsidode 1720 
-reward is -37.571441530575974 in epsidode 1721 
-reward is 147.78257612090073 in epsidode 1722 
-reward is 77.0 in epsidode 1723 
-reward is 424.2514117994577 in epsidode 1724 
-reward is 439.54545127060265 in epsidode 1725 
-reward is 2.4756528585216913 in epsidode 1726 
-reward is 124.39982649723513 in epsidode 1727 
-reward is 80.71386297331176 in epsidode 1728 
-reward is 913.6018310194921 in epsidode 1729 
-reward is 919.1383684013039 in epsidode 1730 
-reward is 118.97536569889616 in epsidode 1731 
-reward is -25.861631598696114 in epsidode 1732 
-reward is 137.32611326849997 in epsidode 1733 
-reward is -34.52495056677144 in epsidode 1734 
-reward is 150.43826655033024 in epsidode 1735 
-reward is 1257.287925985476 in epsidode 1736 
-reward is 651.301054840788 in epsidode 1737 
-reward is 790.3692880228493 in epsidode 1738 
-reward is 883.3851471566593 in epsidode 1739 
-reward is 66.52495056677144 in epsidode 1740 
-reward is -25.861631598696114 in epsidode 1741 
-reward is 1251.363217678518 in epsidode 1742 
-reward is 23.398444813536287 in epsidode 1743 
-reward is 904.5454512706026 in epsidode 1744 
-reward is -49.0 in epsidode 1745 
-reward is -25.861631598696114 in epsidode 1746 
-reward is 146.0642603087237 in epsidode 1747 
-reward is 449.1631760615593 in epsidode 1748 
-reward is 996.9315097109693 in epsidode 1749 
-reward is 73.2235552351687 in epsidode 1750 
-reward is 849.1170063029507 in epsidode 1751 
-reward is 747.3220152579246 in epsidode 1752 
-reward is 1071.3581279817267 in epsidode 1753 
-reward is 123.39844481353629 in epsidode 1754 
-reward is 23.398444813536287 in epsidode 1755 
-reward is -50 in epsidode 1756 
-reward is 808.2235552351688 in epsidode 1757 
-reward is 262.32611326849997 in epsidode 1758 
-reward is -37.571441530575974 in epsidode 1759 
-reward is -37.571441530575974 in epsidode 1760 
-reward is 718.3035142871086 in epsidode 1761 
-reward is 340.26939966697216 in epsidode 1762 
-reward is 1411.427124243134 in epsidode 1763 
-reward is 166.0352106671313 in epsidode 1764 
-reward is 1216.5551586544127 in epsidode 1765 
-reward is 306.4120537662411 in epsidode 1766 
-reward is 56.16051646328978 in epsidode 1767 
-reward is 50.513959447899836 in epsidode 1768 
-reward is 442.0646274027228 in epsidode 1769 
-reward is 89.0 in epsidode 1770 
-reward is 1113.4895879194576 in epsidode 1771 
-reward is 442.40099246323416 in epsidode 1772 
-reward is 758.5786691494982 in epsidode 1773 
-reward is 585.869634353113 in epsidode 1774 
-reward is 236.1605164632898 in epsidode 1775 
-reward is 1129.96528837895 in epsidode 1776 
-reward is -50 in epsidode 1777 
-reward is 9.54545127060264 in epsidode 1778 
-reward is 28.975365698896155 in epsidode 1779 
-reward is 155.91266012596878 in epsidode 1780 
-reward is 935.9319467053281 in epsidode 1781 
-reward is 205.69307575107067 in epsidode 1782 
-reward is 82.42855846942402 in epsidode 1783 
-reward is 334.13836840130386 in epsidode 1784 
-reward is 69.60231582783143 in epsidode 1785 
-reward is 648.2235552351688 in epsidode 1786 
-reward is 16.064260308723703 in epsidode 1787 
-reward is 1147.0529416888457 in epsidode 1788 
-reward is 946.0642603087238 in epsidode 1789 
-reward is 425.9126601259688 in epsidode 1790 
-reward is 34.66874236008134 in epsidode 1791 
-reward is 69.60231582783143 in epsidode 1792 
-reward is 775.8484121291431 in epsidode 1793 
-reward is -45.04990113354288 in epsidode 1794 
-reward is 23.398444813536287 in epsidode 1795 
-reward is 778.3984448135363 in epsidode 1796 
-reward is 866.1605164632898 in epsidode 1797 
-reward is 1017.8943575736131 in epsidode 1798 
-reward is -50 in epsidode 1799 
-reward is 901.1605164632898 in epsidode 1800 
-reward is 56.16051646328978 in epsidode 1801 
-reward is 926.9295071793457 in epsidode 1802 
-reward is -50 in epsidode 1803 
-reward is 43.2235552351687 in epsidode 1804 
-reward is 2.4756528585216913 in epsidode 1805 
-reward is 48.975365698896155 in epsidode 1806 
-reward is 877.3326722663127 in epsidode 1807 
-reward is 2.4285584694240256 in epsidode 1808 
-reward is 789.0660483805715 in epsidode 1809 
-reward is 655.2233399531569 in epsidode 1810 
-reward is 559.2603402026461 in epsidode 1811 
-reward is 1059.4991017238233 in epsidode 1812 
-reward is 295.84797497349774 in epsidode 1813 
-reward is 47.248048868309525 in epsidode 1814 
-reward is 274.9085779645478 in epsidode 1815 
-reward is 192.86618290799652 in epsidode 1816 
-reward is 144.06405379136538 in epsidode 1817 
-reward is 169.37312238663415 in epsidode 1818 
-reward is 150.43826655033024 in epsidode 1819 
-reward is 34.66874236008134 in epsidode 1820 
-reward is 189.82376808852402 in epsidode 1821 
-reward is 1360.0826710255794 in epsidode 1822 
-reward is 647.2516608573262 in epsidode 1823 
-reward is -27.571441530575974 in epsidode 1824 
-reward is 41.0 in epsidode 1825 
-reward is 754.675957704149 in epsidode 1826 
-reward is -50 in epsidode 1827 
-reward is 994.7202311496685 in epsidode 1828 
-reward is 16.064260308723703 in epsidode 1829 
-reward is 188.3851471566593 in epsidode 1830 
-reward is 430.5108338620046 in epsidode 1831 
-reward is 295.84797497349774 in epsidode 1832 
-reward is 2.4756528585216913 in epsidode 1833 
-reward is 153.3984448135363 in epsidode 1834 
-reward is 69.60231582783143 in epsidode 1835 
-reward is 49.90857796454783 in epsidode 1836 
-reward is -49.0 in epsidode 1837 
-reward is 144.06405379136538 in epsidode 1838 
-reward is -10.45454872939736 in epsidode 1839 
-reward is 177.76871517358794 in epsidode 1840 
-reward is 28.975365698896155 in epsidode 1841 
-reward is 152.4061672553651 in epsidode 1842 
-reward is 889.7313582816626 in epsidode 1843 
-reward is 1.2754448990570353 in epsidode 1844 
-reward is 124.26034020264615 in epsidode 1845 
-reward is -50 in epsidode 1846 
-reward is 769.2048063255379 in epsidode 1847 
-reward is 34.66874236008134 in epsidode 1848 
-reward is 624.724071212625 in epsidode 1849 
-reward is 16.064260308723703 in epsidode 1850 
-reward is -45.04990113354288 in epsidode 1851 
-reward is 635.9939573124515 in epsidode 1852 
-reward is -50 in epsidode 1853 
-reward is 1153.5335419713851 in epsidode 1854 
-reward is 774.1383684013039 in epsidode 1855 
-reward is 905.205087657715 in epsidode 1856 
-reward is 273.5776895334944 in epsidode 1857 
-reward is 911.1605164632898 in epsidode 1858 
-reward is 757.9275251125189 in epsidode 1859 
-reward is 769.0640537913654 in epsidode 1860 
-reward is 64.18711517190077 in epsidode 1861 
-reward is 879.3998264972352 in epsidode 1862 
-reward is 186.14581786142642 in epsidode 1863 
-reward is -10.45454872939736 in epsidode 1864 
-reward is 23.398444813536287 in epsidode 1865 
-reward is 278.3851471566593 in epsidode 1866 
-reward is 1328.9865906898863 in epsidode 1867 
-reward is 846.7587010041269 in epsidode 1868 
-reward is -50 in epsidode 1869 
-reward is 1258.587244030109 in epsidode 1870 
-reward is 666.8826326518317 in epsidode 1871 
-reward is 739.1663354410787 in epsidode 1872 
-reward is -45.04990113354288 in epsidode 1873 
-reward is 31.011662564566365 in epsidode 1874 
-reward is 95.41259550428933 in epsidode 1875 
-reward is 59.54545127060264 in epsidode 1876 
-reward is -37.571441530575974 in epsidode 1877 
-reward is 114.66874236008135 in epsidode 1878 
-reward is 92.42855846942402 in epsidode 1879 
-reward is 98.1257414984284 in epsidode 1880 
-reward is 269.7784108927706 in epsidode 1881 
-reward is -45.04990113354288 in epsidode 1882 
-reward is 1060.9739391808494 in epsidode 1883 
-reward is 62.53448020350169 in epsidode 1884 
-reward is 10.71386297331177 in epsidode 1885 
-reward is -10.45454872939736 in epsidode 1886 
-reward is 809.2788266259201 in epsidode 1887 
-reward is 329.8417040003462 in epsidode 1888 
-reward is 2.4756528585216913 in epsidode 1889 
-reward is 906.3669415210604 in epsidode 1890 
-reward is 305.71386297331173 in epsidode 1891 
-reward is 2.4756528585216913 in epsidode 1892 
-reward is 938.2221495881881 in epsidode 1893 
-reward is -25.0 in epsidode 1894 
-reward is 84.26034020264615 in epsidode 1895 
-reward is 172.3326722663127 in epsidode 1896 
-reward is -49.0 in epsidode 1897 
-reward is 508.8825014491563 in epsidode 1898 
-reward is 28.975365698896155 in epsidode 1899 
-reward is -10.45454872939736 in epsidode 1900 
-reward is -10.45454872939736 in epsidode 1901 
-reward is 56.16051646328978 in epsidode 1902 
-reward is -49.0 in epsidode 1903 
-reward is 16.064260308723703 in epsidode 1904 
-reward is 260.0 in epsidode 1905 
-reward is 836.4120537662411 in epsidode 1906 
-reward is 866.4493104561229 in epsidode 1907 
-reward is 174.26034020264615 in epsidode 1908 
-reward is -45.04990113354288 in epsidode 1909 
-reward is 1021.1651538316377 in epsidode 1910 
-reward is 1031.2850394843863 in epsidode 1911 
-reward is 957.428558469424 in epsidode 1912 
-reward is 23.398444813536287 in epsidode 1913 
-reward is 279.54545127060265 in epsidode 1914 
-reward is 16.064260308723703 in epsidode 1915 
-reward is 97.12483097054044 in epsidode 1916 
-reward is 34.66874236008134 in epsidode 1917 
-reward is 382.0158997742457 in epsidode 1918 
-reward is 414.66874236008135 in epsidode 1919 
-reward is 914.9085779645478 in epsidode 1920 
-reward is 2.4756528585216913 in epsidode 1921 
-reward is 786.1029548624864 in epsidode 1922 
-reward is 287.9976615597725 in epsidode 1923 
-reward is 127.12483097054044 in epsidode 1924 
-reward is 89.54545127060265 in epsidode 1925 
-reward is 934.6687423600813 in epsidode 1926 
-reward is -45.04990113354288 in epsidode 1927 
-reward is 1191.2086106220693 in epsidode 1928 
-reward is 110.43826655033024 in epsidode 1929 
-reward is 69.60231582783143 in epsidode 1930 
-reward is -17.571441530575974 in epsidode 1931 
-reward is -49.0 in epsidode 1932 
-reward is 77.78257612090073 in epsidode 1933 
-reward is -45.04990113354288 in epsidode 1934 
-reward is 855.205087657715 in epsidode 1935 
-reward is -37.571441530575974 in epsidode 1936 
-reward is 177.76871517358794 in epsidode 1937 
-reward is 172.3326722663127 in epsidode 1938 
-reward is 123.2235552351687 in epsidode 1939 
-reward is -50 in epsidode 1940 
-reward is 1064.5202913810795 in epsidode 1941 
-reward is 10.71386297331177 in epsidode 1942 
-reward is 633.7352817280682 in epsidode 1943 
-reward is 353.1776199611138 in epsidode 1944 
-reward is -49.0 in epsidode 1945 
-reward is 120.43826655033024 in epsidode 1946 
-reward is 451.84069311283514 in epsidode 1947 
-reward is -37.571441530575974 in epsidode 1948 
-reward is 679.2623083498298 in epsidode 1949 
-reward is 514.1383684013039 in epsidode 1950 
-reward is 947.5344802035017 in epsidode 1951 
-reward is -10.45454872939736 in epsidode 1952 
-reward is 66.16051646328978 in epsidode 1953 
-reward is 114.65618449856973 in epsidode 1954 
-reward is -37.571441530575974 in epsidode 1955 
-reward is 177.32611326849997 in epsidode 1956 
-reward is 837.5623574070165 in epsidode 1957 
-reward is 790.0224355382611 in epsidode 1958 
-reward is -50 in epsidode 1959 
-reward is 824.7087770694632 in epsidode 1960 
-reward is 121.36351109740772 in epsidode 1961 
-reward is -37.571441530575974 in epsidode 1962 
-reward is 16.064260308723703 in epsidode 1963 
-reward is 473.8797201293521 in epsidode 1964 
-reward is 777.1871151719008 in epsidode 1965 
-reward is 247.56235740701652 in epsidode 1966 
-reward is 1271.879380783553 in epsidode 1967 
-reward is 912.2003662333356 in epsidode 1968 
-reward is 58.975365698896155 in epsidode 1969 
-reward is 674.2752983230835 in epsidode 1970 
-reward is 1062.2178931671283 in epsidode 1971 
-reward is 97.12483097054044 in epsidode 1972 
-reward is 857.7010349507908 in epsidode 1973 
-reward is 38.975365698896155 in epsidode 1974 
-reward is 62.53448020350169 in epsidode 1975 
-reward is 172.3326722663127 in epsidode 1976 
-reward is 127.21580228316577 in epsidode 1977 
-reward is 807.6861027267062 in epsidode 1978 
-reward is 28.975365698896155 in epsidode 1979 
-reward is 503.6714565241241 in epsidode 1980 
-reward is -49.0 in epsidode 1981 
-reward is 7.2480488683095174 in epsidode 1982 
-reward is 797.3261132685 in epsidode 1983 
-reward is 551.0642603087238 in epsidode 1984 
-reward is 36.82633469717112 in epsidode 1985 
-reward is 803.3851471566593 in epsidode 1986 
-reward is 1027.2664472106376 in epsidode 1987 
-reward is 1042.2723237340542 in epsidode 1988 
-reward is -50 in epsidode 1989 
-reward is -25.861631598696114 in epsidode 1990 
-reward is 10.71386297331177 in epsidode 1991 
-reward is 28.975365698896155 in epsidode 1992 
-reward is 777.0306155576691 in epsidode 1993 
-reward is 77.78257612090073 in epsidode 1994 
-reward is 232.7010349507908 in epsidode 1995 
-reward is 152.4061672553651 in epsidode 1996 
-reward is -28.765907665982475 in epsidode 1997 
-reward is 49.90857796454783 in epsidode 1998 
-reward is -52.42514829968568 in epsidode 1999 
-reward is 958.2687673992941 in epsidode 2000 
-reward is 152.4061672553651 in epsidode 2001 
-reward is 398.9906834979074 in epsidode 2002 
+total steps are 4, reward is -55 in epsidode 1 
+total steps are 15, reward is -75 in epsidode 2 
+total steps are 3, reward is -57 in epsidode 3 
+total steps are 6, reward is -49 in epsidode 4 
+total steps are 12, reward is -83 in epsidode 5 
+total steps are 28, reward is -105 in epsidode 6 
+total steps are 17, reward is -79 in epsidode 7 
+total steps are 4, reward is 10 in epsidode 8 
+total steps are 50, reward is -70 in epsidode 9 
+total steps are 33, reward is -114 in epsidode 10 
+total steps are 3, reward is -47 in epsidode 11 
+total steps are 5, reward is -64 in epsidode 12 
+total steps are 17, reward is -55 in epsidode 13 
+total steps are 10, reward is -66 in epsidode 14 
+total steps are 7, reward is -64 in epsidode 15 
+total steps are 7, reward is 5 in epsidode 16 
+total steps are 5, reward is -47 in epsidode 17 
+total steps are 3, reward is -50 in epsidode 18 
+total steps are 18, reward is -85 in epsidode 19 
+total steps are 10, reward is -79 in epsidode 20 
+total steps are 50, reward is -64 in epsidode 21 
+total steps are 18, reward is -86 in epsidode 22 
+total steps are 4, reward is -52 in epsidode 23 
+total steps are 5, reward is -54 in epsidode 24 
+total steps are 11, reward is 5 in epsidode 25 
+total steps are 10, reward is -49 in epsidode 26 
+total steps are 7, reward is -61 in epsidode 27 
+total steps are 3, reward is -50 in epsidode 28 
+total steps are 31, reward is 8 in epsidode 29 
+total steps are 50, reward is -29 in epsidode 30 
+total steps are 15, reward is -22 in epsidode 31 
+total steps are 3, reward is -40 in epsidode 32 
+total steps are 50, reward is -6 in epsidode 33 
+total steps are 13, reward is -49 in epsidode 34 
+total steps are 10, reward is -42 in epsidode 35 
+total steps are 4, reward is -45 in epsidode 36 
+total steps are 22, reward is -45 in epsidode 37 
+total steps are 13, reward is 13 in epsidode 38 
+total steps are 35, reward is -52 in epsidode 39 
+total steps are 3, reward is -40 in epsidode 40 
+total steps are 3, reward is -40 in epsidode 41 
+total steps are 10, reward is -59 in epsidode 42 
+total steps are 3, reward is -50 in epsidode 43 
+total steps are 30, reward is -35 in epsidode 44 
+total steps are 16, reward is 19 in epsidode 45 
+total steps are 3, reward is -40 in epsidode 46 
+total steps are 5, reward is -5 in epsidode 47 
+total steps are 3, reward is -40 in epsidode 48 
+total steps are 5, reward is -40 in epsidode 49 
+total steps are 17, reward is -48 in epsidode 50 
+total steps are 4, reward is 10 in epsidode 51 
+total steps are 18, reward is -37 in epsidode 52 
+total steps are 3, reward is -40 in epsidode 53 
+total steps are 6, reward is -45 in epsidode 54 
+total steps are 5, reward is -40 in epsidode 55 
+total steps are 4, reward is -45 in epsidode 56 
+total steps are 3, reward is -40 in epsidode 57 
+total steps are 8, reward is -37 in epsidode 58 
+total steps are 22, reward is -49 in epsidode 59 
+total steps are 3, reward is -40 in epsidode 60 
+total steps are 18, reward is -35 in epsidode 61 
+total steps are 3, reward is -40 in epsidode 62 
+total steps are 19, reward is -47 in epsidode 63 
+total steps are 3, reward is -40 in epsidode 64 
+total steps are 3, reward is -40 in epsidode 65 
+total steps are 5, reward is -40 in epsidode 66 
+total steps are 3, reward is -40 in epsidode 67 
+total steps are 13, reward is -64 in epsidode 68 
+total steps are 3, reward is -40 in epsidode 69 
+total steps are 3, reward is -40 in epsidode 70 
+total steps are 3, reward is -40 in epsidode 71 
+total steps are 4, reward is -45 in epsidode 72 
+total steps are 3, reward is -40 in epsidode 73 
+total steps are 3, reward is -40 in epsidode 74 
+total steps are 26, reward is -39 in epsidode 75 
+total steps are 3, reward is -40 in epsidode 76 
+total steps are 3, reward is -40 in epsidode 77 
+total steps are 4, reward is -45 in epsidode 78 
+total steps are 3, reward is -40 in epsidode 79 
+total steps are 3, reward is -50 in epsidode 80 
+total steps are 27, reward is -35 in epsidode 81 
+total steps are 3, reward is -40 in epsidode 82 
+total steps are 18, reward is -35 in epsidode 83 
+total steps are 3, reward is -40 in epsidode 84 
+total steps are 3, reward is -40 in epsidode 85 
+total steps are 3, reward is -40 in epsidode 86 
+total steps are 32, reward is -41 in epsidode 87 
+total steps are 3, reward is -40 in epsidode 88 
+total steps are 3, reward is -40 in epsidode 89 
+total steps are 3, reward is -40 in epsidode 90 
+total steps are 6, reward is -45 in epsidode 91 
+total steps are 3, reward is -40 in epsidode 92 
+total steps are 3, reward is -40 in epsidode 93 
+total steps are 3, reward is -40 in epsidode 94 
+total steps are 3, reward is -40 in epsidode 95 
+total steps are 3, reward is -40 in epsidode 96 
+total steps are 3, reward is -40 in epsidode 97 
+total steps are 12, reward is -38 in epsidode 98 
+total steps are 50, reward is 60 in epsidode 99 
+total steps are 3, reward is -40 in epsidode 100 
+total steps are 11, reward is -40 in epsidode 101 
+total steps are 3, reward is -40 in epsidode 102 
+total steps are 3, reward is -40 in epsidode 103 
+total steps are 3, reward is -40 in epsidode 104 
+total steps are 5, reward is -40 in epsidode 105 
+total steps are 3, reward is -40 in epsidode 106 
+total steps are 3, reward is -40 in epsidode 107 
+total steps are 5, reward is -40 in epsidode 108 
+total steps are 14, reward is -33 in epsidode 109 
+total steps are 3, reward is -40 in epsidode 110 
+total steps are 3, reward is -40 in epsidode 111 
+total steps are 3, reward is -50 in epsidode 112 
+total steps are 3, reward is -40 in epsidode 113 
+total steps are 3, reward is -40 in epsidode 114 
+total steps are 3, reward is -40 in epsidode 115 
+total steps are 3, reward is -40 in epsidode 116 
+total steps are 3, reward is -40 in epsidode 117 
+total steps are 3, reward is -40 in epsidode 118 
+total steps are 3, reward is -40 in epsidode 119 
+total steps are 14, reward is 15 in epsidode 120 
+total steps are 5, reward is -40 in epsidode 121 
+total steps are 3, reward is -40 in epsidode 122 
+total steps are 3, reward is -40 in epsidode 123 
+total steps are 3, reward is -40 in epsidode 124 
+total steps are 50, reward is 7 in epsidode 125 
+total steps are 3, reward is -40 in epsidode 126 
+total steps are 3, reward is -40 in epsidode 127 
+total steps are 27, reward is -34 in epsidode 128 
+total steps are 3, reward is -40 in epsidode 129 
+total steps are 14, reward is -34 in epsidode 130 
+total steps are 13, reward is 15 in epsidode 131 
+total steps are 3, reward is -40 in epsidode 132 
+total steps are 3, reward is -50 in epsidode 133 
+total steps are 3, reward is -40 in epsidode 134 
+total steps are 3, reward is -40 in epsidode 135 
+total steps are 3, reward is -40 in epsidode 136 
+total steps are 3, reward is -40 in epsidode 137 
+total steps are 3, reward is -40 in epsidode 138 
+total steps are 17, reward is -45 in epsidode 139 
+total steps are 3, reward is -40 in epsidode 140 
+total steps are 3, reward is -40 in epsidode 141 
+total steps are 3, reward is -40 in epsidode 142 
+total steps are 19, reward is -35 in epsidode 143 
+total steps are 3, reward is -50 in epsidode 144 
+total steps are 3, reward is -40 in epsidode 145 
+total steps are 3, reward is -40 in epsidode 146 
+total steps are 3, reward is -40 in epsidode 147 
+total steps are 3, reward is -40 in epsidode 148 
+total steps are 3, reward is -40 in epsidode 149 
+total steps are 3, reward is -40 in epsidode 150 
+total steps are 22, reward is -42 in epsidode 151 
+total steps are 3, reward is -40 in epsidode 152 
+total steps are 3, reward is -40 in epsidode 153 
+total steps are 3, reward is -40 in epsidode 154 
+total steps are 3, reward is -40 in epsidode 155 
+total steps are 3, reward is -40 in epsidode 156 
+total steps are 3, reward is -40 in epsidode 157 
+total steps are 3, reward is -40 in epsidode 158 
+total steps are 3, reward is -40 in epsidode 159 
+total steps are 3, reward is -40 in epsidode 160 
+total steps are 3, reward is -40 in epsidode 161 
+total steps are 3, reward is -40 in epsidode 162 
+total steps are 3, reward is -40 in epsidode 163 
+total steps are 3, reward is -40 in epsidode 164 
+total steps are 3, reward is -40 in epsidode 165 
+total steps are 3, reward is -40 in epsidode 166 
+total steps are 3, reward is -40 in epsidode 167 
+total steps are 3, reward is -40 in epsidode 168 
+total steps are 3, reward is -40 in epsidode 169 
+total steps are 3, reward is -40 in epsidode 170 
+total steps are 3, reward is -40 in epsidode 171 
+total steps are 3, reward is -40 in epsidode 172 
+total steps are 3, reward is -40 in epsidode 173 
+total steps are 5, reward is -40 in epsidode 174 
+total steps are 3, reward is -40 in epsidode 175 
+total steps are 12, reward is -41 in epsidode 176 
+total steps are 3, reward is -40 in epsidode 177 
+total steps are 3, reward is -40 in epsidode 178 
+total steps are 3, reward is -40 in epsidode 179 
+total steps are 3, reward is -40 in epsidode 180 
+total steps are 22, reward is -39 in epsidode 181 
+total steps are 3, reward is -40 in epsidode 182 
+total steps are 3, reward is -40 in epsidode 183 
+total steps are 3, reward is -40 in epsidode 184 
+total steps are 3, reward is -40 in epsidode 185 
+total steps are 3, reward is -40 in epsidode 186 
+total steps are 3, reward is -40 in epsidode 187 
+total steps are 3, reward is -40 in epsidode 188 
+total steps are 3, reward is -40 in epsidode 189 
+total steps are 3, reward is -40 in epsidode 190 
+total steps are 14, reward is -37 in epsidode 191 
+total steps are 3, reward is -40 in epsidode 192 
+total steps are 3, reward is -40 in epsidode 193 
+total steps are 3, reward is -40 in epsidode 194 
+total steps are 3, reward is -40 in epsidode 195 
+total steps are 3, reward is -50 in epsidode 196 
+total steps are 3, reward is -40 in epsidode 197 
+total steps are 3, reward is -40 in epsidode 198 
+total steps are 3, reward is -40 in epsidode 199 
+total steps are 3, reward is -40 in epsidode 200 
+total steps are 3, reward is -40 in epsidode 201 
+total steps are 3, reward is -40 in epsidode 202 
+total steps are 3, reward is -40 in epsidode 203 
+total steps are 3, reward is -40 in epsidode 204 
+total steps are 13, reward is 15 in epsidode 205 
+total steps are 3, reward is -40 in epsidode 206 
+total steps are 3, reward is -40 in epsidode 207 
+total steps are 3, reward is -40 in epsidode 208 
+total steps are 39, reward is 7 in epsidode 209 
+total steps are 3, reward is -40 in epsidode 210 
+total steps are 3, reward is -40 in epsidode 211 
+total steps are 3, reward is -40 in epsidode 212 
+total steps are 3, reward is -40 in epsidode 213 
+total steps are 3, reward is -40 in epsidode 214 
+total steps are 3, reward is -50 in epsidode 215 
+total steps are 3, reward is -40 in epsidode 216 
+total steps are 3, reward is -40 in epsidode 217 
+total steps are 3, reward is -40 in epsidode 218 
+total steps are 3, reward is -40 in epsidode 219 
+total steps are 3, reward is -40 in epsidode 220 
+total steps are 3, reward is -40 in epsidode 221 
+total steps are 3, reward is -40 in epsidode 222 
+total steps are 3, reward is -40 in epsidode 223 
+total steps are 3, reward is -40 in epsidode 224 
+total steps are 5, reward is -40 in epsidode 225 
+total steps are 3, reward is -40 in epsidode 226 
+total steps are 3, reward is -40 in epsidode 227 
+total steps are 3, reward is -40 in epsidode 228 
+total steps are 3, reward is -40 in epsidode 229 
+total steps are 3, reward is -40 in epsidode 230 
+total steps are 3, reward is -40 in epsidode 231 
+total steps are 3, reward is -40 in epsidode 232 
+total steps are 3, reward is -40 in epsidode 233 
+total steps are 3, reward is -40 in epsidode 234 
+total steps are 3, reward is -40 in epsidode 235 
+total steps are 3, reward is -40 in epsidode 236 
+total steps are 3, reward is -40 in epsidode 237 
+total steps are 3, reward is -40 in epsidode 238 
+total steps are 3, reward is -40 in epsidode 239 
+total steps are 3, reward is -40 in epsidode 240 
+total steps are 3, reward is -40 in epsidode 241 
+total steps are 3, reward is -40 in epsidode 242 
+total steps are 3, reward is -40 in epsidode 243 
+total steps are 5, reward is -40 in epsidode 244 
+total steps are 3, reward is -50 in epsidode 245 
+total steps are 3, reward is -40 in epsidode 246 
+total steps are 3, reward is -40 in epsidode 247 
+total steps are 3, reward is -50 in epsidode 248 
+total steps are 3, reward is -40 in epsidode 249 
+total steps are 3, reward is -40 in epsidode 250 
+total steps are 5, reward is -40 in epsidode 251 
+total steps are 3, reward is -47 in epsidode 252 
+total steps are 3, reward is -40 in epsidode 253 
+total steps are 3, reward is -40 in epsidode 254 
+total steps are 18, reward is -39 in epsidode 255 
+total steps are 3, reward is -40 in epsidode 256 
+total steps are 3, reward is -40 in epsidode 257 
+total steps are 3, reward is -40 in epsidode 258 
+total steps are 5, reward is -40 in epsidode 259 
+total steps are 3, reward is -40 in epsidode 260 
+total steps are 3, reward is -40 in epsidode 261 
+total steps are 3, reward is -40 in epsidode 262 
+total steps are 3, reward is -40 in epsidode 263 
+total steps are 3, reward is -40 in epsidode 264 
+total steps are 3, reward is -40 in epsidode 265 
+total steps are 3, reward is -40 in epsidode 266 
+total steps are 3, reward is -40 in epsidode 267 
+total steps are 25, reward is -41 in epsidode 268 
+total steps are 3, reward is -40 in epsidode 269 
+total steps are 3, reward is -40 in epsidode 270 
+total steps are 23, reward is -30 in epsidode 271 
+total steps are 3, reward is -40 in epsidode 272 
+total steps are 3, reward is -40 in epsidode 273 
+total steps are 3, reward is -40 in epsidode 274 
+total steps are 3, reward is -50 in epsidode 275 
+total steps are 3, reward is -40 in epsidode 276 
+total steps are 3, reward is -40 in epsidode 277 
+total steps are 3, reward is -40 in epsidode 278 
+total steps are 3, reward is -40 in epsidode 279 
+total steps are 3, reward is -40 in epsidode 280 
+total steps are 3, reward is -40 in epsidode 281 
+total steps are 3, reward is -40 in epsidode 282 
+total steps are 3, reward is -40 in epsidode 283 
+total steps are 3, reward is -40 in epsidode 284 
+total steps are 3, reward is -40 in epsidode 285 
+total steps are 3, reward is -40 in epsidode 286 
+total steps are 3, reward is -40 in epsidode 287 
+total steps are 3, reward is -40 in epsidode 288 
+total steps are 3, reward is -40 in epsidode 289 
+total steps are 13, reward is 15 in epsidode 290 
+total steps are 3, reward is -40 in epsidode 291 
+total steps are 3, reward is -40 in epsidode 292 
+total steps are 20, reward is 15 in epsidode 293 
+total steps are 3, reward is -40 in epsidode 294 
+total steps are 3, reward is -40 in epsidode 295 
+total steps are 3, reward is -40 in epsidode 296 
+total steps are 3, reward is -40 in epsidode 297 
+total steps are 3, reward is -40 in epsidode 298 
+total steps are 3, reward is -50 in epsidode 299 
+total steps are 3, reward is -40 in epsidode 300 
+total steps are 3, reward is -40 in epsidode 301 
+total steps are 3, reward is -40 in epsidode 302 
+total steps are 3, reward is -40 in epsidode 303 
+total steps are 3, reward is -40 in epsidode 304 
+total steps are 3, reward is -40 in epsidode 305 
+total steps are 3, reward is -40 in epsidode 306 
+total steps are 3, reward is -40 in epsidode 307 
+total steps are 3, reward is -40 in epsidode 308 
+total steps are 3, reward is -40 in epsidode 309 
+total steps are 8, reward is -32 in epsidode 310 
+total steps are 3, reward is -40 in epsidode 311 
+total steps are 3, reward is -40 in epsidode 312 
+total steps are 3, reward is -40 in epsidode 313 
+total steps are 3, reward is -40 in epsidode 314 
+total steps are 3, reward is -40 in epsidode 315 
+total steps are 3, reward is -40 in epsidode 316 
+total steps are 7, reward is 15 in epsidode 317 
+total steps are 3, reward is -40 in epsidode 318 
+total steps are 3, reward is -40 in epsidode 319 
+total steps are 3, reward is -40 in epsidode 320 
+total steps are 3, reward is -40 in epsidode 321 
+total steps are 3, reward is -40 in epsidode 322 
+total steps are 3, reward is -40 in epsidode 323 
+total steps are 3, reward is -40 in epsidode 324 
+total steps are 3, reward is -40 in epsidode 325 
+total steps are 3, reward is -40 in epsidode 326 
+total steps are 3, reward is -40 in epsidode 327 
+total steps are 3, reward is -40 in epsidode 328 
+total steps are 3, reward is -40 in epsidode 329 
+total steps are 3, reward is -50 in epsidode 330 
+total steps are 3, reward is -40 in epsidode 331 
+total steps are 13, reward is 15 in epsidode 332 
+total steps are 3, reward is -40 in epsidode 333 
+total steps are 3, reward is -40 in epsidode 334 
+total steps are 22, reward is -42 in epsidode 335 
+total steps are 3, reward is -40 in epsidode 336 
+total steps are 3, reward is -40 in epsidode 337 
+total steps are 3, reward is -50 in epsidode 338 
+total steps are 3, reward is -40 in epsidode 339 
+total steps are 18, reward is -32 in epsidode 340 
+total steps are 3, reward is -40 in epsidode 341 
+total steps are 18, reward is -32 in epsidode 342 
+total steps are 3, reward is -40 in epsidode 343 
+total steps are 3, reward is -40 in epsidode 344 
+total steps are 3, reward is -40 in epsidode 345 
+total steps are 3, reward is -40 in epsidode 346 
+total steps are 3, reward is -40 in epsidode 347 
+total steps are 3, reward is -40 in epsidode 348 
+total steps are 3, reward is -40 in epsidode 349 
+total steps are 3, reward is -40 in epsidode 350 
+total steps are 3, reward is -40 in epsidode 351 
+total steps are 18, reward is -30 in epsidode 352 
+total steps are 3, reward is -40 in epsidode 353 
+total steps are 3, reward is -40 in epsidode 354 
+total steps are 3, reward is -40 in epsidode 355 
+total steps are 3, reward is -40 in epsidode 356 
+total steps are 3, reward is -40 in epsidode 357 
+total steps are 5, reward is -40 in epsidode 358 
+total steps are 3, reward is -40 in epsidode 359 
+total steps are 13, reward is 15 in epsidode 360 
+total steps are 3, reward is -40 in epsidode 361 
+total steps are 3, reward is -40 in epsidode 362 
+total steps are 12, reward is -37 in epsidode 363 
+total steps are 3, reward is -40 in epsidode 364 
+total steps are 3, reward is -40 in epsidode 365 
+total steps are 14, reward is -32 in epsidode 366 
+total steps are 13, reward is 15 in epsidode 367 
+total steps are 3, reward is -40 in epsidode 368 
+total steps are 3, reward is -40 in epsidode 369 
+total steps are 3, reward is -40 in epsidode 370 
+total steps are 3, reward is -40 in epsidode 371 
+total steps are 3, reward is -40 in epsidode 372 
+total steps are 3, reward is -40 in epsidode 373 
+total steps are 3, reward is -40 in epsidode 374 
+total steps are 3, reward is -40 in epsidode 375 
+total steps are 3, reward is -40 in epsidode 376 
+total steps are 3, reward is -40 in epsidode 377 
+total steps are 3, reward is -40 in epsidode 378 
+total steps are 3, reward is -40 in epsidode 379 
+total steps are 3, reward is -40 in epsidode 380 
+total steps are 3, reward is -40 in epsidode 381 
+total steps are 3, reward is -40 in epsidode 382 
+total steps are 3, reward is -40 in epsidode 383 
+total steps are 3, reward is -40 in epsidode 384 
+total steps are 3, reward is -40 in epsidode 385 
+total steps are 3, reward is -50 in epsidode 386 
+total steps are 26, reward is -32 in epsidode 387 
+total steps are 13, reward is 17 in epsidode 388 
+total steps are 3, reward is -40 in epsidode 389 
+total steps are 3, reward is -40 in epsidode 390 
+total steps are 16, reward is -34 in epsidode 391 
+total steps are 3, reward is -40 in epsidode 392 
+total steps are 3, reward is -40 in epsidode 393 
+total steps are 3, reward is -40 in epsidode 394 
+total steps are 3, reward is -40 in epsidode 395 
+total steps are 3, reward is -40 in epsidode 396 
+total steps are 3, reward is -40 in epsidode 397 
+total steps are 3, reward is -40 in epsidode 398 
+total steps are 3, reward is -40 in epsidode 399 
+total steps are 7, reward is -34 in epsidode 400 
+total steps are 37, reward is 13 in epsidode 401 
+total steps are 9, reward is -37 in epsidode 402 
+total steps are 3, reward is -40 in epsidode 403 
+total steps are 3, reward is -40 in epsidode 404 
+total steps are 3, reward is -40 in epsidode 405 
+total steps are 18, reward is -32 in epsidode 406 
+total steps are 3, reward is -40 in epsidode 407 
+total steps are 3, reward is -40 in epsidode 408 
+total steps are 3, reward is -40 in epsidode 409 
+total steps are 3, reward is -40 in epsidode 410 
+total steps are 3, reward is -40 in epsidode 411 
+total steps are 3, reward is -40 in epsidode 412 
+total steps are 3, reward is -40 in epsidode 413 
+total steps are 3, reward is -40 in epsidode 414 
+total steps are 3, reward is -40 in epsidode 415 
+total steps are 3, reward is -40 in epsidode 416 
+total steps are 3, reward is -40 in epsidode 417 
+total steps are 3, reward is -40 in epsidode 418 
+total steps are 3, reward is -40 in epsidode 419 
+total steps are 13, reward is -39 in epsidode 420 
+total steps are 7, reward is -34 in epsidode 421 
+total steps are 4, reward is 10 in epsidode 422 
+total steps are 3, reward is -40 in epsidode 423 
+total steps are 3, reward is -40 in epsidode 424 
+total steps are 3, reward is -40 in epsidode 425 
+total steps are 3, reward is -40 in epsidode 426 
+total steps are 13, reward is 15 in epsidode 427 
+total steps are 3, reward is -40 in epsidode 428 
+total steps are 3, reward is -40 in epsidode 429 
+total steps are 5, reward is -40 in epsidode 430 
+total steps are 3, reward is -40 in epsidode 431 
+total steps are 3, reward is -40 in epsidode 432 
+total steps are 3, reward is -40 in epsidode 433 
+total steps are 3, reward is -40 in epsidode 434 
+total steps are 3, reward is -40 in epsidode 435 
+total steps are 3, reward is -40 in epsidode 436 
+total steps are 3, reward is -40 in epsidode 437 
+total steps are 3, reward is -40 in epsidode 438 
+total steps are 3, reward is -40 in epsidode 439 
+total steps are 3, reward is -40 in epsidode 440 
+total steps are 3, reward is -40 in epsidode 441 
+total steps are 4, reward is -42 in epsidode 442 
+total steps are 3, reward is -40 in epsidode 443 
+total steps are 3, reward is -40 in epsidode 444 
+total steps are 3, reward is -40 in epsidode 445 
+total steps are 3, reward is -40 in epsidode 446 
+total steps are 3, reward is -40 in epsidode 447 
+total steps are 3, reward is -40 in epsidode 448 
+total steps are 3, reward is -40 in epsidode 449 
+total steps are 3, reward is -40 in epsidode 450 
+total steps are 3, reward is -40 in epsidode 451 
+total steps are 28, reward is -42 in epsidode 452 
+total steps are 3, reward is -40 in epsidode 453 
+total steps are 3, reward is -40 in epsidode 454 
+total steps are 3, reward is -40 in epsidode 455 
+total steps are 3, reward is -40 in epsidode 456 
+total steps are 3, reward is -40 in epsidode 457 
+total steps are 13, reward is 17 in epsidode 458 
+total steps are 7, reward is -37 in epsidode 459 
+total steps are 3, reward is -40 in epsidode 460 
+total steps are 3, reward is -40 in epsidode 461 
+total steps are 22, reward is 13 in epsidode 462 
+total steps are 4, reward is 10 in epsidode 463 
+total steps are 20, reward is -37 in epsidode 464 
+total steps are 17, reward is -30 in epsidode 465 
+total steps are 3, reward is -40 in epsidode 466 
+total steps are 11, reward is -34 in epsidode 467 
+total steps are 3, reward is -40 in epsidode 468 
+total steps are 8, reward is -39 in epsidode 469 
+total steps are 3, reward is -40 in epsidode 470 
+total steps are 3, reward is -40 in epsidode 471 
+total steps are 7, reward is -41 in epsidode 472 
+total steps are 3, reward is -40 in epsidode 473 
+total steps are 3, reward is -40 in epsidode 474 
+total steps are 3, reward is -40 in epsidode 475 
+total steps are 3, reward is -40 in epsidode 476 
+total steps are 3, reward is -40 in epsidode 477 
+total steps are 3, reward is -40 in epsidode 478 
+total steps are 3, reward is -40 in epsidode 479 
+total steps are 3, reward is -40 in epsidode 480 
+total steps are 5, reward is -54 in epsidode 481 
+total steps are 3, reward is -40 in epsidode 482 
+total steps are 3, reward is -40 in epsidode 483 
+total steps are 13, reward is 17 in epsidode 484 
+total steps are 3, reward is -40 in epsidode 485 
+total steps are 21, reward is -41 in epsidode 486 
+total steps are 3, reward is -40 in epsidode 487 
+total steps are 3, reward is -40 in epsidode 488 
+total steps are 3, reward is -40 in epsidode 489 
+total steps are 3, reward is -40 in epsidode 490 
+total steps are 44, reward is -43 in epsidode 491 
+total steps are 6, reward is -39 in epsidode 492 
+total steps are 13, reward is 15 in epsidode 493 
+total steps are 15, reward is -48 in epsidode 494 
+total steps are 3, reward is -40 in epsidode 495 
+total steps are 3, reward is -40 in epsidode 496 
+total steps are 5, reward is -44 in epsidode 497 
+total steps are 3, reward is -40 in epsidode 498 
+total steps are 4, reward is 10 in epsidode 499 
+total steps are 7, reward is -34 in epsidode 500 
+total steps are 7, reward is -34 in epsidode 501 
+total steps are 3, reward is -40 in epsidode 502 
+total steps are 4, reward is 10 in epsidode 503 
+total steps are 4, reward is 10 in epsidode 504 
+total steps are 8, reward is -39 in epsidode 505 
+total steps are 4, reward is -56 in epsidode 506 
+total steps are 7, reward is -34 in epsidode 507 
+total steps are 6, reward is -32 in epsidode 508 
+total steps are 4, reward is 10 in epsidode 509 
+total steps are 6, reward is -59 in epsidode 510 
+total steps are 5, reward is -44 in epsidode 511 
+total steps are 7, reward is -41 in epsidode 512 
+total steps are 3, reward is -50 in epsidode 513 
+total steps are 6, reward is -49 in epsidode 514 
+total steps are 50, reward is 18 in epsidode 515 
+total steps are 3, reward is -40 in epsidode 516 
+total steps are 3, reward is -40 in epsidode 517 
+total steps are 3, reward is -40 in epsidode 518 
+total steps are 5, reward is -40 in epsidode 519 
+total steps are 3, reward is -40 in epsidode 520 
+total steps are 3, reward is -40 in epsidode 521 
+total steps are 8, reward is -34 in epsidode 522 
+total steps are 3, reward is -40 in epsidode 523 
+total steps are 18, reward is -34 in epsidode 524 
+total steps are 3, reward is -40 in epsidode 525 
+total steps are 3, reward is -40 in epsidode 526 
+total steps are 14, reward is -37 in epsidode 527 
+total steps are 3, reward is -40 in epsidode 528 
+total steps are 3, reward is -40 in epsidode 529 
+total steps are 3, reward is -40 in epsidode 530 
+total steps are 3, reward is -40 in epsidode 531 
+total steps are 3, reward is -40 in epsidode 532 
+total steps are 3, reward is -47 in epsidode 533 
+total steps are 3, reward is -40 in epsidode 534 
+total steps are 24, reward is -46 in epsidode 535 
+total steps are 3, reward is -40 in epsidode 536 
+total steps are 3, reward is -40 in epsidode 537 
+total steps are 3, reward is -40 in epsidode 538 
+total steps are 3, reward is -40 in epsidode 539 
+total steps are 3, reward is -40 in epsidode 540 
+total steps are 3, reward is -50 in epsidode 541 
+total steps are 3, reward is -40 in epsidode 542 
+total steps are 3, reward is -50 in epsidode 543 
+total steps are 23, reward is -32 in epsidode 544 
+total steps are 3, reward is -40 in epsidode 545 
+total steps are 3, reward is -40 in epsidode 546 
+total steps are 20, reward is -41 in epsidode 547 
+total steps are 3, reward is -40 in epsidode 548 
+total steps are 3, reward is -40 in epsidode 549 
+total steps are 10, reward is -43 in epsidode 550 
+total steps are 3, reward is -40 in epsidode 551 
+total steps are 3, reward is -40 in epsidode 552 
+total steps are 3, reward is -50 in epsidode 553 
+total steps are 3, reward is -40 in epsidode 554 
+total steps are 26, reward is 20 in epsidode 555 
+total steps are 3, reward is -40 in epsidode 556 
+total steps are 3, reward is -50 in epsidode 557 
+total steps are 3, reward is -40 in epsidode 558 
+total steps are 3, reward is -40 in epsidode 559 
+total steps are 3, reward is -40 in epsidode 560 
+total steps are 3, reward is -40 in epsidode 561 
+total steps are 5, reward is -40 in epsidode 562 
+total steps are 3, reward is -40 in epsidode 563 
+total steps are 3, reward is -40 in epsidode 564 
+total steps are 2, reward is -52 in epsidode 565 
+total steps are 3, reward is -40 in epsidode 566 
+total steps are 3, reward is -40 in epsidode 567 
+total steps are 22, reward is 13 in epsidode 568 
+total steps are 3, reward is -40 in epsidode 569 
+total steps are 3, reward is -40 in epsidode 570 
+total steps are 24, reward is -33 in epsidode 571 
+total steps are 3, reward is -40 in epsidode 572 
+total steps are 3, reward is -40 in epsidode 573 
+total steps are 3, reward is -40 in epsidode 574 
+total steps are 3, reward is -40 in epsidode 575 
+total steps are 43, reward is -32 in epsidode 576 
+total steps are 3, reward is -40 in epsidode 577 
+total steps are 3, reward is -40 in epsidode 578 
+total steps are 3, reward is -40 in epsidode 579 
+total steps are 3, reward is -40 in epsidode 580 
+total steps are 3, reward is -40 in epsidode 581 
+total steps are 14, reward is -37 in epsidode 582 
+total steps are 3, reward is -40 in epsidode 583 
+total steps are 3, reward is -40 in epsidode 584 
+total steps are 3, reward is -40 in epsidode 585 
+total steps are 3, reward is -40 in epsidode 586 
+total steps are 3, reward is -40 in epsidode 587 
+total steps are 3, reward is -40 in epsidode 588 
+total steps are 3, reward is -40 in epsidode 589 
+total steps are 3, reward is -40 in epsidode 590 
+total steps are 3, reward is -40 in epsidode 591 
+total steps are 6, reward is -32 in epsidode 592 
+total steps are 3, reward is -40 in epsidode 593 
+total steps are 3, reward is -40 in epsidode 594 
+total steps are 3, reward is -40 in epsidode 595 
+total steps are 3, reward is -40 in epsidode 596 
+total steps are 3, reward is -40 in epsidode 597 
+total steps are 7, reward is -37 in epsidode 598 
+total steps are 3, reward is -40 in epsidode 599 
+total steps are 3, reward is -40 in epsidode 600 
+total steps are 3, reward is -40 in epsidode 601 
+total steps are 3, reward is -40 in epsidode 602 
+total steps are 3, reward is -50 in epsidode 603 
+total steps are 3, reward is -40 in epsidode 604 
+total steps are 3, reward is -40 in epsidode 605 
+total steps are 26, reward is -34 in epsidode 606 
+total steps are 7, reward is -44 in epsidode 607 
+total steps are 3, reward is -40 in epsidode 608 
+total steps are 3, reward is -40 in epsidode 609 
+total steps are 3, reward is -40 in epsidode 610 
+total steps are 19, reward is -32 in epsidode 611 
+total steps are 3, reward is -40 in epsidode 612 
+total steps are 3, reward is -40 in epsidode 613 
+total steps are 14, reward is -37 in epsidode 614 
+total steps are 3, reward is -40 in epsidode 615 
+total steps are 3, reward is -40 in epsidode 616 
+total steps are 3, reward is -40 in epsidode 617 
+total steps are 3, reward is -40 in epsidode 618 
+total steps are 3, reward is -40 in epsidode 619 
+total steps are 3, reward is -40 in epsidode 620 
+total steps are 3, reward is -40 in epsidode 621 
+total steps are 3, reward is -40 in epsidode 622 
+total steps are 3, reward is -40 in epsidode 623 
+total steps are 3, reward is -40 in epsidode 624 
+total steps are 20, reward is 15 in epsidode 625 
+total steps are 3, reward is -40 in epsidode 626 
+total steps are 3, reward is -40 in epsidode 627 
+total steps are 3, reward is -40 in epsidode 628 
+total steps are 3, reward is -40 in epsidode 629 
+total steps are 3, reward is -40 in epsidode 630 
+total steps are 3, reward is -40 in epsidode 631 
+total steps are 3, reward is -40 in epsidode 632 
+total steps are 3, reward is -40 in epsidode 633 
+total steps are 3, reward is -40 in epsidode 634 
+total steps are 3, reward is -40 in epsidode 635 
+total steps are 3, reward is -40 in epsidode 636 
+total steps are 3, reward is -40 in epsidode 637 
+total steps are 3, reward is -40 in epsidode 638 
+total steps are 13, reward is 15 in epsidode 639 
+total steps are 3, reward is -40 in epsidode 640 
+total steps are 3, reward is -40 in epsidode 641 
+total steps are 5, reward is -40 in epsidode 642 
+total steps are 3, reward is -40 in epsidode 643 
+total steps are 20, reward is 17 in epsidode 644 
+total steps are 3, reward is -40 in epsidode 645 
+total steps are 20, reward is 15 in epsidode 646 
+total steps are 3, reward is -40 in epsidode 647 
+total steps are 3, reward is -40 in epsidode 648 
+total steps are 3, reward is -40 in epsidode 649 
+total steps are 3, reward is -40 in epsidode 650 
+total steps are 13, reward is 15 in epsidode 651 
+total steps are 3, reward is -40 in epsidode 652 
+total steps are 3, reward is -40 in epsidode 653 
+total steps are 6, reward is -32 in epsidode 654 
+total steps are 3, reward is -40 in epsidode 655 
+total steps are 5, reward is -40 in epsidode 656 
+total steps are 3, reward is -40 in epsidode 657 
+total steps are 3, reward is -40 in epsidode 658 
+total steps are 5, reward is -40 in epsidode 659 
+total steps are 3, reward is -40 in epsidode 660 
+total steps are 3, reward is -40 in epsidode 661 
+total steps are 5, reward is -40 in epsidode 662 
+total steps are 3, reward is -40 in epsidode 663 
+total steps are 3, reward is -40 in epsidode 664 
+total steps are 3, reward is -40 in epsidode 665 
+total steps are 3, reward is -40 in epsidode 666 
+total steps are 3, reward is -40 in epsidode 667 
+total steps are 5, reward is -40 in epsidode 668 
+total steps are 3, reward is -40 in epsidode 669 
+total steps are 3, reward is -40 in epsidode 670 
+total steps are 8, reward is -37 in epsidode 671 
+total steps are 3, reward is -40 in epsidode 672 
+total steps are 3, reward is -40 in epsidode 673 
+total steps are 4, reward is 10 in epsidode 674 
+total steps are 3, reward is -40 in epsidode 675 
+total steps are 3, reward is -40 in epsidode 676 
+total steps are 38, reward is 11 in epsidode 677 
+total steps are 6, reward is -39 in epsidode 678 
+total steps are 15, reward is -35 in epsidode 679 
+total steps are 13, reward is 15 in epsidode 680 
+total steps are 3, reward is -40 in epsidode 681 
+total steps are 3, reward is -40 in epsidode 682 
+total steps are 15, reward is 9 in epsidode 683 
+total steps are 39, reward is -39 in epsidode 684 
+total steps are 3, reward is -40 in epsidode 685 
+total steps are 3, reward is -40 in epsidode 686 
+total steps are 13, reward is 17 in epsidode 687 
+total steps are 15, reward is 11 in epsidode 688 
+total steps are 3, reward is -40 in epsidode 689 
+total steps are 5, reward is -44 in epsidode 690 
+total steps are 4, reward is -49 in epsidode 691 
+total steps are 4, reward is 10 in epsidode 692 
+total steps are 25, reward is 15 in epsidode 693 
+total steps are 6, reward is -39 in epsidode 694 
+total steps are 38, reward is 19 in epsidode 695 
+total steps are 38, reward is -34 in epsidode 696 
+total steps are 8, reward is -37 in epsidode 697 
+total steps are 18, reward is -28 in epsidode 698 
+total steps are 3, reward is -40 in epsidode 699 
+total steps are 3, reward is -40 in epsidode 700 
+total steps are 14, reward is -42 in epsidode 701 
+total steps are 3, reward is -40 in epsidode 702 
+total steps are 3, reward is -40 in epsidode 703 
+total steps are 3, reward is -40 in epsidode 704 
+total steps are 5, reward is -40 in epsidode 705 
+total steps are 3, reward is -40 in epsidode 706 
+total steps are 3, reward is -40 in epsidode 707 
+total steps are 9, reward is -44 in epsidode 708 
+total steps are 18, reward is -30 in epsidode 709 
+total steps are 3, reward is -40 in epsidode 710 
+total steps are 15, reward is 13 in epsidode 711 
+total steps are 3, reward is -40 in epsidode 712 
+total steps are 3, reward is -40 in epsidode 713 
+total steps are 3, reward is -40 in epsidode 714 
+total steps are 13, reward is -40 in epsidode 715 
+total steps are 13, reward is 13 in epsidode 716 
+total steps are 7, reward is -39 in epsidode 717 
+total steps are 7, reward is -34 in epsidode 718 
+total steps are 31, reward is -38 in epsidode 719 
+total steps are 18, reward is -32 in epsidode 720 
+total steps are 14, reward is 13 in epsidode 721 
+total steps are 3, reward is -40 in epsidode 722 
+total steps are 6, reward is -39 in epsidode 723 
+total steps are 6, reward is -39 in epsidode 724 
+total steps are 3, reward is -40 in epsidode 725 
+total steps are 6, reward is -39 in epsidode 726 
+total steps are 39, reward is -39 in epsidode 727 
+total steps are 3, reward is -40 in epsidode 728 
+total steps are 4, reward is -49 in epsidode 729 
+total steps are 20, reward is -43 in epsidode 730 
+total steps are 3, reward is -40 in epsidode 731 
+total steps are 3, reward is -40 in epsidode 732 
+total steps are 13, reward is 15 in epsidode 733 
+total steps are 3, reward is -40 in epsidode 734 
+total steps are 6, reward is -32 in epsidode 735 
+total steps are 29, reward is -36 in epsidode 736 
+total steps are 5, reward is -44 in epsidode 737 
+total steps are 50, reward is 57 in epsidode 738 
+total steps are 38, reward is 17 in epsidode 739 
+total steps are 13, reward is 15 in epsidode 740 
+total steps are 5, reward is -44 in epsidode 741 
+total steps are 15, reward is 65 in epsidode 742 
+total steps are 29, reward is 61 in epsidode 743 
+total steps are 3, reward is -47 in epsidode 744 
+total steps are 6, reward is -39 in epsidode 745 
+total steps are 12, reward is -39 in epsidode 746 
+total steps are 4, reward is -42 in epsidode 747 
+total steps are 7, reward is -34 in epsidode 748 
+total steps are 7, reward is 13 in epsidode 749 
+total steps are 6, reward is -46 in epsidode 750 
+total steps are 3, reward is -47 in epsidode 751 
+total steps are 4, reward is -52 in epsidode 752 
+total steps are 7, reward is -34 in epsidode 753 
+total steps are 8, reward is 13 in epsidode 754 
+total steps are 3, reward is -40 in epsidode 755 
+total steps are 14, reward is -37 in epsidode 756 
+total steps are 13, reward is 15 in epsidode 757 
+total steps are 15, reward is 63 in epsidode 758 
+total steps are 3, reward is -40 in epsidode 759 
+total steps are 14, reward is -39 in epsidode 760 
+total steps are 6, reward is -32 in epsidode 761 
+total steps are 7, reward is -34 in epsidode 762 
+total steps are 3, reward is -40 in epsidode 763 
+total steps are 6, reward is -49 in epsidode 764 
+total steps are 39, reward is -37 in epsidode 765 
+total steps are 38, reward is 13 in epsidode 766 
+total steps are 42, reward is -36 in epsidode 767 
+total steps are 13, reward is 17 in epsidode 768 
+total steps are 15, reward is 13 in epsidode 769 
+total steps are 50, reward is 61 in epsidode 770 
+total steps are 3, reward is -40 in epsidode 771 
+total steps are 7, reward is -34 in epsidode 772 
+total steps are 7, reward is -34 in epsidode 773 
+total steps are 9, reward is -39 in epsidode 774 
+total steps are 23, reward is -34 in epsidode 775 
+total steps are 4, reward is 10 in epsidode 776 
+total steps are 38, reward is 13 in epsidode 777 
+total steps are 16, reward is -39 in epsidode 778 
+total steps are 39, reward is -43 in epsidode 779 
+total steps are 5, reward is -44 in epsidode 780 
+total steps are 8, reward is -34 in epsidode 781 
+total steps are 6, reward is -39 in epsidode 782 
+total steps are 50, reward is 7 in epsidode 783 
+total steps are 39, reward is -39 in epsidode 784 
+total steps are 13, reward is 15 in epsidode 785 
+total steps are 9, reward is -37 in epsidode 786 
+total steps are 15, reward is -39 in epsidode 787 
+total steps are 5, reward is -44 in epsidode 788 
+total steps are 5, reward is -44 in epsidode 789 
+total steps are 38, reward is -39 in epsidode 790 
+total steps are 50, reward is 111 in epsidode 791 
+total steps are 8, reward is -34 in epsidode 792 
+total steps are 13, reward is 15 in epsidode 793 
+total steps are 7, reward is -34 in epsidode 794 
+total steps are 24, reward is -37 in epsidode 795 
+total steps are 14, reward is -39 in epsidode 796 
+total steps are 38, reward is 55 in epsidode 797 
+total steps are 43, reward is -38 in epsidode 798 
+total steps are 20, reward is -37 in epsidode 799 
+total steps are 6, reward is -39 in epsidode 800 
+total steps are 35, reward is 14 in epsidode 801 
+total steps are 24, reward is -34 in epsidode 802 
+total steps are 38, reward is 15 in epsidode 803 
+total steps are 4, reward is -49 in epsidode 804 
+total steps are 3, reward is -40 in epsidode 805 
+total steps are 39, reward is -39 in epsidode 806 
+total steps are 12, reward is 17 in epsidode 807 
+total steps are 13, reward is 15 in epsidode 808 
+total steps are 3, reward is -40 in epsidode 809 
+total steps are 12, reward is 8 in epsidode 810 
+total steps are 7, reward is -34 in epsidode 811 
+total steps are 7, reward is -34 in epsidode 812 
+total steps are 4, reward is 10 in epsidode 813 
+total steps are 7, reward is -34 in epsidode 814 
+total steps are 3, reward is -40 in epsidode 815 
+total steps are 13, reward is 17 in epsidode 816 
+total steps are 5, reward is -44 in epsidode 817 
+total steps are 3, reward is -40 in epsidode 818 
+total steps are 4, reward is 10 in epsidode 819 
+total steps are 3, reward is -40 in epsidode 820 
+total steps are 13, reward is 15 in epsidode 821 
+total steps are 14, reward is -37 in epsidode 822 
+total steps are 5, reward is -44 in epsidode 823 
+total steps are 38, reward is 19 in epsidode 824 
+total steps are 42, reward is -32 in epsidode 825 
+total steps are 38, reward is 65 in epsidode 826 
+total steps are 14, reward is -45 in epsidode 827 
+total steps are 3, reward is -40 in epsidode 828 
+total steps are 6, reward is -39 in epsidode 829 
+total steps are 15, reward is -48 in epsidode 830 
+total steps are 7, reward is -34 in epsidode 831 
+total steps are 7, reward is -32 in epsidode 832 
+total steps are 14, reward is -41 in epsidode 833 
+total steps are 7, reward is -34 in epsidode 834 
+total steps are 7, reward is -32 in epsidode 835 
+total steps are 6, reward is -39 in epsidode 836 
+total steps are 14, reward is 15 in epsidode 837 
+total steps are 14, reward is 13 in epsidode 838 
+total steps are 39, reward is 5 in epsidode 839 
+total steps are 42, reward is 14 in epsidode 840 
+total steps are 9, reward is -41 in epsidode 841 
+total steps are 17, reward is -34 in epsidode 842 
+total steps are 30, reward is 67 in epsidode 843 
+total steps are 40, reward is 10 in epsidode 844 
+total steps are 11, reward is 13 in epsidode 845 
+total steps are 8, reward is -34 in epsidode 846 
+total steps are 7, reward is -34 in epsidode 847 
+total steps are 20, reward is -39 in epsidode 848 
+total steps are 16, reward is 13 in epsidode 849 
+total steps are 5, reward is -44 in epsidode 850 
+total steps are 30, reward is 71 in epsidode 851 
+total steps are 23, reward is -39 in epsidode 852 
+total steps are 7, reward is -34 in epsidode 853 
+total steps are 20, reward is 65 in epsidode 854 
+total steps are 3, reward is -40 in epsidode 855 
+total steps are 39, reward is -51 in epsidode 856 
+total steps are 38, reward is 9 in epsidode 857 
+total steps are 4, reward is 10 in epsidode 858 
+total steps are 7, reward is -34 in epsidode 859 
+total steps are 39, reward is -37 in epsidode 860 
+total steps are 3, reward is -40 in epsidode 861 
+total steps are 23, reward is 9 in epsidode 862 
+total steps are 40, reward is 14 in epsidode 863 
+total steps are 45, reward is -39 in epsidode 864 
+total steps are 50, reward is 59 in epsidode 865 
+total steps are 42, reward is -32 in epsidode 866 
+total steps are 39, reward is -41 in epsidode 867 
+total steps are 21, reward is 9 in epsidode 868 
+total steps are 50, reward is 59 in epsidode 869 
+total steps are 13, reward is 15 in epsidode 870 
+total steps are 17, reward is -44 in epsidode 871 
+total steps are 38, reward is 65 in epsidode 872 
+total steps are 37, reward is 67 in epsidode 873 
+total steps are 11, reward is -44 in epsidode 874 
+total steps are 42, reward is -34 in epsidode 875 
+total steps are 38, reward is 15 in epsidode 876 
+total steps are 40, reward is 11 in epsidode 877 
+total steps are 9, reward is 13 in epsidode 878 
+total steps are 22, reward is -45 in epsidode 879 
+total steps are 43, reward is -38 in epsidode 880 
+total steps are 34, reward is 13 in epsidode 881 
+total steps are 8, reward is -34 in epsidode 882 
+total steps are 38, reward is 11 in epsidode 883 
+total steps are 7, reward is -34 in epsidode 884 
+total steps are 50, reward is 12 in epsidode 885 
+total steps are 3, reward is -40 in epsidode 886 
+total steps are 33, reward is -32 in epsidode 887 
+total steps are 6, reward is -46 in epsidode 888 
+total steps are 50, reward is 63 in epsidode 889 
+total steps are 13, reward is 15 in epsidode 890 
+total steps are 29, reward is 13 in epsidode 891 
+total steps are 3, reward is -47 in epsidode 892 
+total steps are 14, reward is -37 in epsidode 893 
+total steps are 14, reward is 13 in epsidode 894 
+total steps are 50, reward is 169 in epsidode 895 
+total steps are 9, reward is -39 in epsidode 896 
+total steps are 4, reward is -42 in epsidode 897 
+total steps are 18, reward is -40 in epsidode 898 
+total steps are 38, reward is 13 in epsidode 899 
+total steps are 43, reward is 17 in epsidode 900 
+total steps are 38, reward is 55 in epsidode 901 
+total steps are 16, reward is 13 in epsidode 902 
+total steps are 14, reward is 13 in epsidode 903 
+total steps are 6, reward is -39 in epsidode 904 
+total steps are 13, reward is 15 in epsidode 905 
+total steps are 48, reward is 9 in epsidode 906 
+total steps are 39, reward is 13 in epsidode 907 
+total steps are 5, reward is -44 in epsidode 908 
+total steps are 19, reward is 11 in epsidode 909 
+total steps are 38, reward is 61 in epsidode 910 
+total steps are 5, reward is -44 in epsidode 911 
+total steps are 7, reward is -41 in epsidode 912 
+total steps are 9, reward is -39 in epsidode 913 
+total steps are 15, reward is -37 in epsidode 914 
+total steps are 16, reward is 65 in epsidode 915 
+total steps are 16, reward is -43 in epsidode 916 
+total steps are 28, reward is -43 in epsidode 917 
+total steps are 6, reward is -39 in epsidode 918 
+total steps are 50, reward is 63 in epsidode 919 
+total steps are 42, reward is -34 in epsidode 920 
+total steps are 16, reward is 13 in epsidode 921 
+total steps are 38, reward is 67 in epsidode 922 
+total steps are 3, reward is -40 in epsidode 923 
+total steps are 50, reward is 57 in epsidode 924 
+total steps are 13, reward is 15 in epsidode 925 
+total steps are 38, reward is 15 in epsidode 926 
+total steps are 38, reward is 9 in epsidode 927 
+total steps are 3, reward is -40 in epsidode 928 
+total steps are 7, reward is -32 in epsidode 929 
+total steps are 45, reward is 10 in epsidode 930 
+total steps are 36, reward is 17 in epsidode 931 
+total steps are 38, reward is 15 in epsidode 932 
+total steps are 7, reward is -34 in epsidode 933 
+total steps are 3, reward is -40 in epsidode 934 
+total steps are 38, reward is 67 in epsidode 935 
+total steps are 19, reward is -39 in epsidode 936 
+total steps are 44, reward is -39 in epsidode 937 
+total steps are 13, reward is 15 in epsidode 938 
+total steps are 13, reward is 15 in epsidode 939 
+total steps are 14, reward is -37 in epsidode 940 
+total steps are 38, reward is 15 in epsidode 941 
+total steps are 14, reward is -37 in epsidode 942 
+total steps are 18, reward is 17 in epsidode 943 
+total steps are 18, reward is -36 in epsidode 944 
+total steps are 18, reward is 65 in epsidode 945 
+total steps are 31, reward is 62 in epsidode 946 
+total steps are 13, reward is -39 in epsidode 947 
+total steps are 14, reward is -35 in epsidode 948 
+total steps are 38, reward is 15 in epsidode 949 
+total steps are 38, reward is 5 in epsidode 950 
+total steps are 18, reward is -32 in epsidode 951 
+total steps are 14, reward is -37 in epsidode 952 
+total steps are 38, reward is 13 in epsidode 953 
+total steps are 7, reward is -32 in epsidode 954 
+total steps are 38, reward is 111 in epsidode 955 
+total steps are 38, reward is 67 in epsidode 956 
+total steps are 21, reward is -39 in epsidode 957 
+total steps are 44, reward is -37 in epsidode 958 
+total steps are 29, reward is 12 in epsidode 959 
+total steps are 50, reward is 9 in epsidode 960 
+total steps are 19, reward is 10 in epsidode 961 
+total steps are 50, reward is 59 in epsidode 962 
+total steps are 5, reward is -44 in epsidode 963 
+total steps are 18, reward is 65 in epsidode 964 
+total steps are 26, reward is -34 in epsidode 965 
+total steps are 50, reward is 61 in epsidode 966 
+total steps are 25, reward is 13 in epsidode 967 
+total steps are 13, reward is 15 in epsidode 968 
+total steps are 38, reward is 13 in epsidode 969 
+total steps are 23, reward is -30 in epsidode 970 
+total steps are 13, reward is 15 in epsidode 971 
+total steps are 38, reward is 109 in epsidode 972 
+total steps are 38, reward is 11 in epsidode 973 
+total steps are 17, reward is 65 in epsidode 974 
+total steps are 19, reward is 20 in epsidode 975 
+total steps are 14, reward is 13 in epsidode 976 
+total steps are 3, reward is -40 in epsidode 977 
+total steps are 20, reward is 10 in epsidode 978 
+total steps are 7, reward is -34 in epsidode 979 
+total steps are 50, reward is 8 in epsidode 980 
+total steps are 50, reward is 5 in epsidode 981 
+total steps are 21, reward is -40 in epsidode 982 
+total steps are 50, reward is 161 in epsidode 983 
+total steps are 38, reward is 67 in epsidode 984 
+total steps are 50, reward is 65 in epsidode 985 
+total steps are 38, reward is 65 in epsidode 986 
+total steps are 31, reward is 61 in epsidode 987 
+total steps are 24, reward is -49 in epsidode 988 
+total steps are 50, reward is 113 in epsidode 989 
+total steps are 15, reward is 9 in epsidode 990 
+total steps are 39, reward is 11 in epsidode 991 
+total steps are 4, reward is 10 in epsidode 992 
+total steps are 48, reward is 56 in epsidode 993 
+total steps are 15, reward is 8 in epsidode 994 
+total steps are 20, reward is 8 in epsidode 995 
+total steps are 16, reward is 65 in epsidode 996 
+total steps are 25, reward is 69 in epsidode 997 
+total steps are 7, reward is -32 in epsidode 998 
+total steps are 8, reward is -39 in epsidode 999 
+total steps are 50, reward is 160 in epsidode 1000 
+total steps are 3, reward is -47 in epsidode 1001
+total steps are 38, reward is 63 in epsidode 1002
+total steps are 6, reward is -32 in epsidode 1003
+total steps are 38, reward is 67 in epsidode 1004
+total steps are 38, reward is 111 in epsidode 1005
+total steps are 38, reward is 65 in epsidode 1006
+total steps are 38, reward is 13 in epsidode 1007
+total steps are 35, reward is 61 in epsidode 1008
+total steps are 13, reward is 15 in epsidode 1009
+total steps are 38, reward is 67 in epsidode 1010
+total steps are 35, reward is 15 in epsidode 1011
+total steps are 39, reward is 6 in epsidode 1012
+total steps are 16, reward is 67 in epsidode 1013
+total steps are 50, reward is 165 in epsidode 1014
+total steps are 38, reward is 15 in epsidode 1015
+total steps are 38, reward is 63 in epsidode 1016
+total steps are 16, reward is 69 in epsidode 1017
+total steps are 14, reward is 65 in epsidode 1018
+total steps are 14, reward is -37 in epsidode 1019
+total steps are 50, reward is 68 in epsidode 1020
+total steps are 42, reward is 24 in epsidode 1021
+total steps are 9, reward is -44 in epsidode 1022
+total steps are 6, reward is 10 in epsidode 1023
+total steps are 34, reward is 11 in epsidode 1024
+total steps are 24, reward is 13 in epsidode 1025
+total steps are 38, reward is 69 in epsidode 1026
+total steps are 23, reward is 15 in epsidode 1027
+total steps are 50, reward is 115 in epsidode 1028
+total steps are 24, reward is 11 in epsidode 1029
+total steps are 15, reward is -39 in epsidode 1030
+total steps are 34, reward is 11 in epsidode 1031
+total steps are 38, reward is 61 in epsidode 1032
+total steps are 39, reward is 11 in epsidode 1033
+total steps are 22, reward is 9 in epsidode 1034
+total steps are 38, reward is 15 in epsidode 1035
+total steps are 50, reward is 163 in epsidode 1036
+total steps are 6, reward is -32 in epsidode 1037
+total steps are 38, reward is 63 in epsidode 1038
+total steps are 38, reward is 65 in epsidode 1039
+total steps are 3, reward is -40 in epsidode 1040
+total steps are 3, reward is -47 in epsidode 1041
+total steps are 27, reward is 65 in epsidode 1042
+total steps are 18, reward is 65 in epsidode 1043
+total steps are 37, reward is 62 in epsidode 1044
+total steps are 38, reward is 65 in epsidode 1045
+total steps are 50, reward is 115 in epsidode 1046
+total steps are 42, reward is 18 in epsidode 1047
+total steps are 3, reward is -40 in epsidode 1048
+total steps are 23, reward is 59 in epsidode 1049
+total steps are 29, reward is -34 in epsidode 1050
+total steps are 31, reward is 58 in epsidode 1051
+total steps are 50, reward is 157 in epsidode 1052
+total steps are 24, reward is 65 in epsidode 1053
+total steps are 50, reward is 109 in epsidode 1054
+total steps are 50, reward is 157 in epsidode 1055
+total steps are 13, reward is 15 in epsidode 1056
+total steps are 50, reward is 65 in epsidode 1057
+total steps are 50, reward is 111 in epsidode 1058
+total steps are 5, reward is -44 in epsidode 1059
+total steps are 18, reward is 15 in epsidode 1060
+total steps are 49, reward is 106 in epsidode 1061
+total steps are 21, reward is 61 in epsidode 1062
+total steps are 21, reward is 15 in epsidode 1063
+total steps are 23, reward is 11 in epsidode 1064
+total steps are 44, reward is 68 in epsidode 1065
+total steps are 38, reward is 67 in epsidode 1066
+total steps are 14, reward is -37 in epsidode 1067
+total steps are 15, reward is 13 in epsidode 1068
+total steps are 45, reward is 62 in epsidode 1069
+total steps are 4, reward is -42 in epsidode 1070
+total steps are 7, reward is -34 in epsidode 1071
+total steps are 43, reward is -34 in epsidode 1072
+total steps are 39, reward is 13 in epsidode 1073
+total steps are 50, reward is 159 in epsidode 1074
+total steps are 28, reward is 15 in epsidode 1075
+total steps are 50, reward is 113 in epsidode 1076
+total steps are 50, reward is 66 in epsidode 1077
+total steps are 18, reward is 13 in epsidode 1078
+total steps are 38, reward is 65 in epsidode 1079
+total steps are 13, reward is 17 in epsidode 1080
+total steps are 38, reward is 63 in epsidode 1081
+total steps are 23, reward is 67 in epsidode 1082
+total steps are 50, reward is 111 in epsidode 1083
+total steps are 50, reward is 14 in epsidode 1084
+total steps are 5, reward is -44 in epsidode 1085
+total steps are 50, reward is 161 in epsidode 1086
+total steps are 50, reward is 113 in epsidode 1087
+total steps are 50, reward is 113 in epsidode 1088
+total steps are 50, reward is 111 in epsidode 1089
+total steps are 19, reward is 15 in epsidode 1090
+total steps are 38, reward is 15 in epsidode 1091
+total steps are 3, reward is -40 in epsidode 1092
+total steps are 38, reward is 69 in epsidode 1093
+total steps are 29, reward is 65 in epsidode 1094
+total steps are 38, reward is 67 in epsidode 1095
+total steps are 42, reward is 22 in epsidode 1096
+total steps are 27, reward is 67 in epsidode 1097
+total steps are 50, reward is 111 in epsidode 1098
+total steps are 18, reward is -32 in epsidode 1099
+total steps are 13, reward is 15 in epsidode 1100
+total steps are 4, reward is 10 in epsidode 1101
+total steps are 38, reward is 67 in epsidode 1102
+total steps are 50, reward is 63 in epsidode 1103
+total steps are 18, reward is 13 in epsidode 1104
+total steps are 24, reward is 63 in epsidode 1105
+total steps are 9, reward is -37 in epsidode 1106
+total steps are 17, reward is 65 in epsidode 1107
+total steps are 38, reward is 65 in epsidode 1108
+total steps are 3, reward is -40 in epsidode 1109
+total steps are 15, reward is 67 in epsidode 1110
+total steps are 26, reward is 13 in epsidode 1111
+total steps are 50, reward is 113 in epsidode 1112
+total steps are 50, reward is 66 in epsidode 1113
+total steps are 24, reward is 69 in epsidode 1114
+total steps are 50, reward is 111 in epsidode 1115
+total steps are 42, reward is 13 in epsidode 1116
+total steps are 24, reward is 68 in epsidode 1117
+total steps are 50, reward is 109 in epsidode 1118
+total steps are 50, reward is 165 in epsidode 1119
+total steps are 50, reward is 115 in epsidode 1120
+total steps are 50, reward is 63 in epsidode 1121
+total steps are 50, reward is 157 in epsidode 1122
+total steps are 50, reward is 68 in epsidode 1123
+total steps are 50, reward is 111 in epsidode 1124
+total steps are 50, reward is 65 in epsidode 1125
+total steps are 50, reward is 109 in epsidode 1126
+total steps are 50, reward is 65 in epsidode 1127
+total steps are 50, reward is 111 in epsidode 1128
+total steps are 50, reward is 115 in epsidode 1129
+total steps are 50, reward is 62 in epsidode 1130
+total steps are 50, reward is 65 in epsidode 1131
+total steps are 50, reward is 13 in epsidode 1132
+total steps are 50, reward is 168 in epsidode 1133
+total steps are 50, reward is 115 in epsidode 1134
+total steps are 50, reward is 67 in epsidode 1135
+total steps are 50, reward is 160 in epsidode 1136
+total steps are 50, reward is 68 in epsidode 1137
+total steps are 50, reward is 15 in epsidode 1138
+total steps are 50, reward is 63 in epsidode 1139
+total steps are 50, reward is 165 in epsidode 1140
+total steps are 50, reward is 159 in epsidode 1141
+total steps are 50, reward is 113 in epsidode 1142
+total steps are 50, reward is 169 in epsidode 1143
+total steps are 50, reward is 168 in epsidode 1144
+total steps are 50, reward is 160 in epsidode 1145
+total steps are 50, reward is 69 in epsidode 1146
+total steps are 50, reward is 63 in epsidode 1147
+total steps are 50, reward is 69 in epsidode 1148
+total steps are 50, reward is 68 in epsidode 1149
+total steps are 50, reward is 112 in epsidode 1150
+total steps are 50, reward is 67 in epsidode 1151
+total steps are 50, reward is 109 in epsidode 1152
+total steps are 50, reward is 64 in epsidode 1153
+total steps are 50, reward is 13 in epsidode 1154
+total steps are 50, reward is 67 in epsidode 1155
+total steps are 50, reward is 66 in epsidode 1156
+total steps are 50, reward is 68 in epsidode 1157
+total steps are 50, reward is 169 in epsidode 1158
+total steps are 50, reward is 62 in epsidode 1159
+total steps are 50, reward is 167 in epsidode 1160
+total steps are 50, reward is 168 in epsidode 1161
+total steps are 50, reward is 111 in epsidode 1162
+total steps are 50, reward is 162 in epsidode 1163
+total steps are 50, reward is 62 in epsidode 1164
+total steps are 50, reward is 168 in epsidode 1165
+total steps are 50, reward is 63 in epsidode 1166
+total steps are 50, reward is 161 in epsidode 1167
+total steps are 50, reward is 113 in epsidode 1168
+total steps are 50, reward is 69 in epsidode 1169
+total steps are 50, reward is 115 in epsidode 1170
+total steps are 50, reward is 168 in epsidode 1171
+total steps are 50, reward is 65 in epsidode 1172
+total steps are 50, reward is 164 in epsidode 1173
+total steps are 50, reward is 67 in epsidode 1174
+total steps are 50, reward is 65 in epsidode 1175
+total steps are 50, reward is 160 in epsidode 1176
+total steps are 50, reward is 115 in epsidode 1177
+total steps are 50, reward is 166 in epsidode 1178
+total steps are 50, reward is 165 in epsidode 1179
+total steps are 50, reward is 163 in epsidode 1180
+total steps are 50, reward is 69 in epsidode 1181
+total steps are 50, reward is 113 in epsidode 1182
+total steps are 50, reward is 111 in epsidode 1183
+total steps are 50, reward is 160 in epsidode 1184
+total steps are 50, reward is 162 in epsidode 1185
+total steps are 50, reward is 169 in epsidode 1186
+total steps are 50, reward is 165 in epsidode 1187
+total steps are 50, reward is 69 in epsidode 1188
+total steps are 50, reward is 163 in epsidode 1189
+total steps are 50, reward is 162 in epsidode 1190
+total steps are 50, reward is 115 in epsidode 1191
+total steps are 50, reward is 168 in epsidode 1192
+total steps are 50, reward is 160 in epsidode 1193
+total steps are 50, reward is 160 in epsidode 1194
+total steps are 50, reward is 167 in epsidode 1195
+total steps are 50, reward is 68 in epsidode 1196
+total steps are 50, reward is 62 in epsidode 1197
+total steps are 50, reward is 67 in epsidode 1198
+total steps are 50, reward is 166 in epsidode 1199
+total steps are 50, reward is 115 in epsidode 1200
+total steps are 50, reward is 164 in epsidode 1201
+total steps are 50, reward is 69 in epsidode 1202
+total steps are 50, reward is 169 in epsidode 1203
+total steps are 50, reward is 68 in epsidode 1204
+total steps are 50, reward is 162 in epsidode 1205
+total steps are 50, reward is 165 in epsidode 1206
+total steps are 50, reward is 166 in epsidode 1207
+total steps are 50, reward is 164 in epsidode 1208
+total steps are 50, reward is 161 in epsidode 1209
+total steps are 50, reward is 168 in epsidode 1210
+total steps are 50, reward is 167 in epsidode 1211
+total steps are 50, reward is 167 in epsidode 1212
+total steps are 50, reward is 115 in epsidode 1213
+total steps are 50, reward is 160 in epsidode 1214
+total steps are 50, reward is 165 in epsidode 1215
+total steps are 50, reward is 160 in epsidode 1216
+total steps are 50, reward is 165 in epsidode 1217
+total steps are 50, reward is 167 in epsidode 1218
+total steps are 50, reward is 160 in epsidode 1219
+total steps are 50, reward is 162 in epsidode 1220
+total steps are 50, reward is 168 in epsidode 1221
+total steps are 50, reward is 168 in epsidode 1222
+total steps are 50, reward is 167 in epsidode 1223
+total steps are 50, reward is 166 in epsidode 1224
+total steps are 50, reward is 160 in epsidode 1225
+total steps are 50, reward is 165 in epsidode 1226
+total steps are 50, reward is 167 in epsidode 1227
+total steps are 50, reward is 163 in epsidode 1228
+total steps are 50, reward is 160 in epsidode 1229
+total steps are 50, reward is 164 in epsidode 1230
+total steps are 50, reward is 167 in epsidode 1231
+total steps are 50, reward is 168 in epsidode 1232
+total steps are 50, reward is 160 in epsidode 1233
+total steps are 50, reward is 163 in epsidode 1234
+total steps are 50, reward is 165 in epsidode 1235
+total steps are 50, reward is 67 in epsidode 1236
+total steps are 50, reward is 160 in epsidode 1237
+total steps are 50, reward is 67 in epsidode 1238
+total steps are 50, reward is 115 in epsidode 1239
+total steps are 50, reward is 169 in epsidode 1240
+total steps are 50, reward is 168 in epsidode 1241
+total steps are 50, reward is 160 in epsidode 1242
+total steps are 50, reward is 164 in epsidode 1243
+total steps are 50, reward is 163 in epsidode 1244
+total steps are 50, reward is 166 in epsidode 1245
+total steps are 50, reward is 162 in epsidode 1246
+total steps are 50, reward is 165 in epsidode 1247
+total steps are 50, reward is 162 in epsidode 1248
+total steps are 50, reward is 164 in epsidode 1249
+total steps are 50, reward is 165 in epsidode 1250
+total steps are 50, reward is 168 in epsidode 1251
+total steps are 50, reward is 168 in epsidode 1252
+total steps are 50, reward is 160 in epsidode 1253
+total steps are 50, reward is 169 in epsidode 1254
+total steps are 50, reward is 165 in epsidode 1255
+total steps are 50, reward is 160 in epsidode 1256
+total steps are 50, reward is 168 in epsidode 1257
+total steps are 50, reward is 167 in epsidode 1258
+total steps are 50, reward is 163 in epsidode 1259
+total steps are 50, reward is 167 in epsidode 1260
+total steps are 50, reward is 166 in epsidode 1261
+total steps are 50, reward is 162 in epsidode 1262
+total steps are 50, reward is 164 in epsidode 1263
+total steps are 50, reward is 166 in epsidode 1264
+total steps are 50, reward is 165 in epsidode 1265
+total steps are 50, reward is 169 in epsidode 1266
+total steps are 50, reward is 168 in epsidode 1267
+total steps are 50, reward is 166 in epsidode 1268
+total steps are 50, reward is 169 in epsidode 1269
+total steps are 50, reward is 168 in epsidode 1270
+total steps are 50, reward is 162 in epsidode 1271
+total steps are 50, reward is 167 in epsidode 1272
+total steps are 50, reward is 167 in epsidode 1273
+total steps are 50, reward is 160 in epsidode 1274
+total steps are 50, reward is 165 in epsidode 1275
+total steps are 50, reward is 160 in epsidode 1276
+total steps are 50, reward is 167 in epsidode 1277
+total steps are 50, reward is 167 in epsidode 1278
+total steps are 50, reward is 168 in epsidode 1279
+total steps are 50, reward is 167 in epsidode 1280
+total steps are 50, reward is 167 in epsidode 1281
+total steps are 50, reward is 166 in epsidode 1282
+total steps are 50, reward is 164 in epsidode 1283
+total steps are 50, reward is 167 in epsidode 1284
+total steps are 50, reward is 168 in epsidode 1285
+total steps are 50, reward is 165 in epsidode 1286
+total steps are 50, reward is 163 in epsidode 1287
+total steps are 50, reward is 167 in epsidode 1288
+total steps are 50, reward is 167 in epsidode 1289
+total steps are 50, reward is 167 in epsidode 1290
+total steps are 50, reward is 168 in epsidode 1291
+total steps are 50, reward is 160 in epsidode 1292
+total steps are 50, reward is 164 in epsidode 1293
+total steps are 50, reward is 168 in epsidode 1294
+total steps are 50, reward is 167 in epsidode 1295
+total steps are 50, reward is 168 in epsidode 1296
+total steps are 50, reward is 167 in epsidode 1297
+total steps are 50, reward is 165 in epsidode 1298
+total steps are 50, reward is 167 in epsidode 1299
+total steps are 50, reward is 168 in epsidode 1300
+total steps are 50, reward is 164 in epsidode 1201
+total steps are 50, reward is 169 in epsidode 1202
+total steps are 50, reward is 169 in epsidode 1203
+total steps are 50, reward is 108 in epsidode 1204
+total steps are 50, reward is 162 in epsidode 1205
+total steps are 50, reward is 165 in epsidode 1206
+total steps are 50, reward is 166 in epsidode 1207
+total steps are 50, reward is 164 in epsidode 1208
+total steps are 50, reward is 161 in epsidode 1209
+total steps are 50, reward is 168 in epsidode 1210
+total steps are 50, reward is 167 in epsidode 1211
+total steps are 50, reward is 167 in epsidode 1212
+total steps are 50, reward is 115 in epsidode 1213
+total steps are 50, reward is 160 in epsidode 1214
+total steps are 50, reward is 165 in epsidode 1215
+total steps are 50, reward is 160 in epsidode 1216
+total steps are 50, reward is 165 in epsidode 1217
+total steps are 50, reward is 167 in epsidode 1218
+total steps are 50, reward is 160 in epsidode 1219
+total steps are 50, reward is 152 in epsidode 1220
+total steps are 50, reward is 168 in epsidode 1221
+total steps are 50, reward is 168 in epsidode 1222
+total steps are 50, reward is 167 in epsidode 1223
+total steps are 50, reward is 166 in epsidode 1224
+total steps are 50, reward is 160 in epsidode 1225
+total steps are 50, reward is 165 in epsidode 1226
+total steps are 50, reward is 167 in epsidode 1227
+total steps are 50, reward is 163 in epsidode 1228
+total steps are 50, reward is 160 in epsidode 1229
+total steps are 50, reward is 164 in epsidode 1230
+total steps are 50, reward is 167 in epsidode 1231
+total steps are 50, reward is 168 in epsidode 1232
+total steps are 50, reward is 160 in epsidode 1233
+total steps are 50, reward is 163 in epsidode 1234
+total steps are 50, reward is 165 in epsidode 1235
+total steps are 50, reward is 67 in epsidode 1236
+total steps are 50, reward is 160 in epsidode 1237
+total steps are 50, reward is 127 in epsidode 1238
+total steps are 50, reward is 115 in epsidode 1239
+total steps are 50, reward is 169 in epsidode 1240
+total steps are 50, reward is 168 in epsidode 1241
+total steps are 50, reward is 160 in epsidode 1242
+total steps are 50, reward is 164 in epsidode 1243
+total steps are 50, reward is 163 in epsidode 1244
+total steps are 50, reward is 166 in epsidode 1245
+total steps are 50, reward is 162 in epsidode 1246
+total steps are 50, reward is 165 in epsidode 1247
+total steps are 50, reward is 162 in epsidode 1248
+total steps are 50, reward is 164 in epsidode 1249
+total steps are 50, reward is 165 in epsidode 1250
+total steps are 50, reward is 168 in epsidode 1251
+total steps are 50, reward is 168 in epsidode 1252
+total steps are 50, reward is 160 in epsidode 1253
+total steps are 50, reward is 169 in epsidode 1254
+total steps are 50, reward is 165 in epsidode 1255
+total steps are 50, reward is 160 in epsidode 1256
+total steps are 50, reward is 168 in epsidode 1257
+total steps are 50, reward is 167 in epsidode 1258
+total steps are 50, reward is 163 in epsidode 1259
+total steps are 50, reward is 167 in epsidode 1260
+total steps are 50, reward is 166 in epsidode 1261
+total steps are 50, reward is 162 in epsidode 1262
+total steps are 50, reward is 164 in epsidode 1263
+total steps are 50, reward is 166 in epsidode 1264
+total steps are 50, reward is 165 in epsidode 1265
+total steps are 50, reward is 169 in epsidode 1266
+total steps are 50, reward is 168 in epsidode 1267
+total steps are 50, reward is 166 in epsidode 1268
+total steps are 50, reward is 169 in epsidode 1269
+total steps are 50, reward is 168 in epsidode 1270
+total steps are 50, reward is 162 in epsidode 1271
+total steps are 50, reward is 167 in epsidode 1272
+total steps are 50, reward is 167 in epsidode 1273
+total steps are 50, reward is 160 in epsidode 1274
+total steps are 50, reward is 165 in epsidode 1275
+total steps are 50, reward is 160 in epsidode 1276
+total steps are 50, reward is 167 in epsidode 1277
+total steps are 50, reward is 167 in epsidode 1278
+total steps are 50, reward is 168 in epsidode 1279
+total steps are 50, reward is 167 in epsidode 1280
+total steps are 50, reward is 167 in epsidode 1281
+total steps are 50, reward is 166 in epsidode 1282
+total steps are 50, reward is 164 in epsidode 1283
+total steps are 50, reward is 167 in epsidode 1284
+total steps are 50, reward is 168 in epsidode 1285
+total steps are 50, reward is 165 in epsidode 1286
+total steps are 50, reward is 163 in epsidode 1287
+total steps are 50, reward is 167 in epsidode 1288
+total steps are 50, reward is 167 in epsidode 1289
+total steps are 50, reward is 167 in epsidode 1290
+total steps are 50, reward is 168 in epsidode 1291
+total steps are 50, reward is 160 in epsidode 1292
+total steps are 50, reward is 164 in epsidode 1293
+total steps are 50, reward is 168 in epsidode 1294
+total steps are 50, reward is 167 in epsidode 1295
+total steps are 50, reward is 168 in epsidode 1296
+total steps are 50, reward is 167 in epsidode 1297
+total steps are 50, reward is 165 in epsidode 1298
+total steps are 50, reward is 167 in epsidode 1299
+total steps are 50, reward is 168 in epsidode 1300
+total steps are 50, reward is 164 in epsidode 1201
+total steps are 50, reward is 109 in epsidode 1202
+total steps are 50, reward is 169 in epsidode 1203
+total steps are 50, reward is 108 in epsidode 1204
+total steps are 50, reward is 162 in epsidode 1205
+total steps are 50, reward is 165 in epsidode 1206
+total steps are 50, reward is 166 in epsidode 1207
+total steps are 50, reward is 164 in epsidode 1208
+total steps are 50, reward is 161 in epsidode 1209
+total steps are 50, reward is 168 in epsidode 1210
+total steps are 50, reward is 167 in epsidode 1211
+total steps are 50, reward is 167 in epsidode 1212
+total steps are 50, reward is 115 in epsidode 1213
+total steps are 50, reward is 160 in epsidode 1214
+total steps are 50, reward is 165 in epsidode 1215
+total steps are 50, reward is 160 in epsidode 1216
+total steps are 50, reward is 165 in epsidode 1217
+total steps are 50, reward is 167 in epsidode 1218
+total steps are 50, reward is 160 in epsidode 1219
+total steps are 50, reward is 112 in epsidode 1220
+total steps are 50, reward is 168 in epsidode 1221
+total steps are 50, reward is 168 in epsidode 1222
+total steps are 50, reward is 167 in epsidode 1223
+total steps are 50, reward is 166 in epsidode 1224
+total steps are 50, reward is 160 in epsidode 1225
+total steps are 50, reward is 165 in epsidode 1226
+total steps are 50, reward is 167 in epsidode 1227
+total steps are 50, reward is 163 in epsidode 1228
+total steps are 50, reward is 160 in epsidode 1229
+total steps are 50, reward is 164 in epsidode 1230
+total steps are 50, reward is 167 in epsidode 1231
+total steps are 50, reward is 168 in epsidode 1232
+total steps are 50, reward is 160 in epsidode 1233
+total steps are 50, reward is 163 in epsidode 1234
+total steps are 50, reward is 165 in epsidode 1235
+total steps are 50, reward is 117 in epsidode 1236
+total steps are 50, reward is 160 in epsidode 1237
+total steps are 50, reward is 147 in epsidode 1238
+total steps are 50, reward is 115 in epsidode 1239
+total steps are 50, reward is 169 in epsidode 1240
+total steps are 50, reward is 168 in epsidode 1241
+total steps are 50, reward is 160 in epsidode 1242
+total steps are 50, reward is 164 in epsidode 1243
+total steps are 50, reward is 163 in epsidode 1244
+total steps are 50, reward is 166 in epsidode 1245
+total steps are 50, reward is 162 in epsidode 1246
+total steps are 50, reward is 165 in epsidode 1247
+total steps are 50, reward is 162 in epsidode 1248
+total steps are 50, reward is 164 in epsidode 1249
+total steps are 50, reward is 165 in epsidode 1250
+total steps are 50, reward is 168 in epsidode 1251
+total steps are 50, reward is 168 in epsidode 1252
+total steps are 50, reward is 160 in epsidode 1253
+total steps are 50, reward is 169 in epsidode 1254
+total steps are 50, reward is 165 in epsidode 1255
+total steps are 50, reward is 160 in epsidode 1256
+total steps are 50, reward is 168 in epsidode 1257
+total steps are 50, reward is 167 in epsidode 1258
+total steps are 50, reward is 163 in epsidode 1259
+total steps are 50, reward is 167 in epsidode 1260
+total steps are 50, reward is 166 in epsidode 1261
+total steps are 50, reward is 162 in epsidode 1262
+total steps are 50, reward is 164 in epsidode 1263
+total steps are 50, reward is 166 in epsidode 1264
+total steps are 50, reward is 165 in epsidode 1265
+total steps are 50, reward is 169 in epsidode 1266
+total steps are 50, reward is 168 in epsidode 1267
+total steps are 50, reward is 166 in epsidode 1268
+total steps are 50, reward is 169 in epsidode 1269
+total steps are 50, reward is 168 in epsidode 1270
+total steps are 50, reward is 162 in epsidode 1271
+total steps are 50, reward is 167 in epsidode 1272
+total steps are 50, reward is 167 in epsidode 1273
+total steps are 50, reward is 160 in epsidode 1274
+total steps are 50, reward is 165 in epsidode 1275
+total steps are 50, reward is 160 in epsidode 1276
+total steps are 50, reward is 167 in epsidode 1277
+total steps are 50, reward is 167 in epsidode 1278
+total steps are 50, reward is 168 in epsidode 1279
+total steps are 50, reward is 167 in epsidode 1280
+total steps are 50, reward is 167 in epsidode 1281
+total steps are 50, reward is 166 in epsidode 1282
+total steps are 50, reward is 164 in epsidode 1283
+total steps are 50, reward is 167 in epsidode 1284
+total steps are 50, reward is 168 in epsidode 1285
+total steps are 50, reward is 165 in epsidode 1286
+total steps are 50, reward is 163 in epsidode 1287
+total steps are 50, reward is 167 in epsidode 1288
+total steps are 50, reward is 167 in epsidode 1289
+total steps are 50, reward is 167 in epsidode 1290
+total steps are 50, reward is 168 in epsidode 1291
+total steps are 50, reward is 160 in epsidode 1292
+total steps are 50, reward is 164 in epsidode 1293
+total steps are 50, reward is 168 in epsidode 1294
+total steps are 50, reward is 167 in epsidode 1295
+total steps are 50, reward is 168 in epsidode 1296
+total steps are 50, reward is 167 in epsidode 1297
+total steps are 50, reward is 165 in epsidode 1298
+total steps are 50, reward is 167 in epsidode 1299
+total steps are 50, reward is 168 in epsidode 1300
+total steps are 50, reward is 164 in epsidode 1201
+total steps are 50, reward is 179 in epsidode 1202
+total steps are 50, reward is 169 in epsidode 1203
+total steps are 50, reward is 158 in epsidode 1204
+total steps are 50, reward is 162 in epsidode 1205
+total steps are 50, reward is 165 in epsidode 1206
+total steps are 50, reward is 166 in epsidode 1207
+total steps are 50, reward is 164 in epsidode 1208
+total steps are 50, reward is 161 in epsidode 1209
+total steps are 50, reward is 168 in epsidode 1210
+total steps are 50, reward is 167 in epsidode 1211
+total steps are 50, reward is 167 in epsidode 1212
+total steps are 50, reward is 115 in epsidode 1213
+total steps are 50, reward is 160 in epsidode 1214
+total steps are 50, reward is 165 in epsidode 1215
+total steps are 50, reward is 160 in epsidode 1216
+total steps are 50, reward is 165 in epsidode 1217
+total steps are 50, reward is 167 in epsidode 1218
+total steps are 50, reward is 160 in epsidode 1219
+total steps are 50, reward is 122 in epsidode 1220
+total steps are 50, reward is 168 in epsidode 1221
+total steps are 50, reward is 168 in epsidode 1222
+total steps are 50, reward is 167 in epsidode 1223
+total steps are 50, reward is 166 in epsidode 1224
+total steps are 50, reward is 160 in epsidode 1225
+total steps are 50, reward is 165 in epsidode 1226
+total steps are 50, reward is 167 in epsidode 1227
+total steps are 50, reward is 163 in epsidode 1228
+total steps are 50, reward is 160 in epsidode 1229
+total steps are 50, reward is 164 in epsidode 1230
+total steps are 50, reward is 167 in epsidode 1231
+total steps are 50, reward is 168 in epsidode 1232
+total steps are 50, reward is 160 in epsidode 1233
+total steps are 50, reward is 163 in epsidode 1234
+total steps are 50, reward is 165 in epsidode 1235
+total steps are 50, reward is 157 in epsidode 1236
+total steps are 50, reward is 160 in epsidode 1237
+total steps are 50, reward is 117 in epsidode 1238
+total steps are 50, reward is 115 in epsidode 1239
+total steps are 50, reward is 169 in epsidode 1240
+total steps are 50, reward is 168 in epsidode 1241
+total steps are 50, reward is 160 in epsidode 1242
+total steps are 50, reward is 164 in epsidode 1243
+total steps are 50, reward is 163 in epsidode 1244
+total steps are 50, reward is 166 in epsidode 1245
+total steps are 50, reward is 162 in epsidode 1246
+total steps are 50, reward is 165 in epsidode 1247
+total steps are 50, reward is 162 in epsidode 1248
+total steps are 50, reward is 164 in epsidode 1249
+total steps are 50, reward is 165 in epsidode 1250
+total steps are 50, reward is 168 in epsidode 1251
+total steps are 50, reward is 168 in epsidode 1252
+total steps are 50, reward is 160 in epsidode 1253
+total steps are 50, reward is 169 in epsidode 1254
+total steps are 50, reward is 165 in epsidode 1255
+total steps are 50, reward is 160 in epsidode 1256
+total steps are 50, reward is 168 in epsidode 1257
+total steps are 50, reward is 167 in epsidode 1258
+total steps are 50, reward is 163 in epsidode 1259
+total steps are 50, reward is 167 in epsidode 1260
+total steps are 50, reward is 166 in epsidode 1261
+total steps are 50, reward is 162 in epsidode 1262
+total steps are 50, reward is 164 in epsidode 1263
+total steps are 50, reward is 166 in epsidode 1264
+total steps are 50, reward is 165 in epsidode 1265
+total steps are 50, reward is 169 in epsidode 1266
+total steps are 50, reward is 168 in epsidode 1267
+total steps are 50, reward is 166 in epsidode 1268
+total steps are 50, reward is 169 in epsidode 1269
+total steps are 50, reward is 168 in epsidode 1270
+total steps are 50, reward is 162 in epsidode 1271
+total steps are 50, reward is 167 in epsidode 1272
+total steps are 50, reward is 167 in epsidode 1273
+total steps are 50, reward is 160 in epsidode 1274
+total steps are 50, reward is 165 in epsidode 1275
+total steps are 50, reward is 160 in epsidode 1276
+total steps are 50, reward is 167 in epsidode 1277
+total steps are 50, reward is 167 in epsidode 1278
+total steps are 50, reward is 168 in epsidode 1279
+total steps are 50, reward is 167 in epsidode 1280
+total steps are 50, reward is 167 in epsidode 1281
+total steps are 50, reward is 166 in epsidode 1282
+total steps are 50, reward is 164 in epsidode 1283
+total steps are 50, reward is 167 in epsidode 1284
+total steps are 50, reward is 168 in epsidode 1285
+total steps are 50, reward is 165 in epsidode 1286
+total steps are 50, reward is 163 in epsidode 1287
+total steps are 50, reward is 167 in epsidode 1288
+total steps are 50, reward is 167 in epsidode 1289
+total steps are 50, reward is 167 in epsidode 1290
+total steps are 50, reward is 168 in epsidode 1291
+total steps are 50, reward is 160 in epsidode 1292
+total steps are 50, reward is 164 in epsidode 1293
+total steps are 50, reward is 168 in epsidode 1294
+total steps are 50, reward is 167 in epsidode 1295
+total steps are 50, reward is 168 in epsidode 1296
+total steps are 50, reward is 167 in epsidode 1297
+total steps are 50, reward is 165 in epsidode 1298
+total steps are 50, reward is 167 in epsidode 1299
+total steps are 50, reward is 168 in epsidode 1300
