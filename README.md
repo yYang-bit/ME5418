@@ -7,19 +7,6 @@
 
 ## File Descriptions
 
-bash
-.
-├── sumo_env/
-│ ├── ottoman.sumocfg # SUMO configuration file\n
-│ ├── test05_path.net.xml # Road network definition
-│ ├── test05_car.rou.xml # Vehicle route definition
-│ └── test05_car.rou_1.xml # Alternative vehicle route definition
-├── A2C_Agent.py # A2C agent implementation
-├── A2C_model.py # A2C network model
-├── env.py # Environment wrapper
-└── Analysis.py # Data analysis and visualization
-
-
 ### 1. `A2C_model.py`
 This file implements the Actor-Critic model, including shared layers, actor network, and critic network. The model's forward method returns action probabilities and state values.
 
