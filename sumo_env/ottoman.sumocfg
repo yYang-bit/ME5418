@@ -13,7 +13,7 @@
         <step-method.ballistic value="false"/>
         <default.speeddev value="0"/>
         <collision.action value="none"/>
-        <lanechange.duration value="1"/>
+        <lanechange.duration value="0.5"/>
     </processing>
     <traci_server>
         <remote-port value="52915"/>
