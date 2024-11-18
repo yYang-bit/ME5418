@@ -10,7 +10,7 @@
 bash
 .
 ├── sumo_env/
-│ ├── ottoman.sumocfg # SUMO configuration file
+│ ├── ottoman.sumocfg # SUMO configuration file\n
 │ ├── test05_path.net.xml # Road network definition
 │ ├── test05_car.rou.xml # Vehicle route definition
 │ └── test05_car.rou_1.xml # Alternative vehicle route definition
