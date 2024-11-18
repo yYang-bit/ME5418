@@ -3,6 +3,7 @@
 - `env.py`: Implements the SUMO environment, including state observation, action execution, and environment reset functionalities.
 - `A2C_Agent.py`: Defines the training and decision-making logic for the A2C agent.
 - `main.py`: Tests the model and agent's performance in the SUMO environment.
+![A demo of this project](https://github.com/yYang-bit/ME5418/blob/main/demo.gif)
 
 ## File Descriptions
 
