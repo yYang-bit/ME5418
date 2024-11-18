@@ -17,7 +17,7 @@ bash
 ├── A2C_Agent.py # A2C agent implementation
 ├── A2C_model.py # A2C network model
 ├── env.py # Environment wrapper
-└── Analysis.py # Data analysis and visualizationash
+└── Analysis.py # Data analysis and visualization
 
 
 ### 1. `A2C_model.py`
